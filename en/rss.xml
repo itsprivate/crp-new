@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Crypto]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 08 Jan 2022 02:41:09 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I’ve been living in El Salvador for the past 5 weeks using only BTC. No cash, no credit cards. It can be done!]]></title><description><![CDATA[I’m an Italian podcaster and I’ve been traveling in the whole country to report
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Crypto]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 08 Jan 2022 04:26:34 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[A new tech startup wants to gamify the U.S. court system by allowing everyday Americans to bet on lawsuits using tradable crypto tokens. It calls the process an "initial litigation offering."]]></title><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/ryi61d/a_new_tech_startup_wants_to_gamify_the_us_court/?score=375&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fryi61d%2Fa_new_tech_startup_wants_to_gamify_the_us_court%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fryi61d%2Fa_new_tech_startup_wants_to_gamify_the_us_court%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/ryi61d/a_new_tech_startup_wants_to_gamify_the_us_court/</guid><pubDate>Sat, 08 Jan 2022 03:40:04 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Can we take a moment to appreciate Harmony ONE and their amazing roadmap?]]></title><description><![CDATA[I sincerely dont want to sound like another shill, but their roadmap is speaking
+volume!
+
+
+BITCOIN BRIDGE
+
+Still planning to have the launch this month. It should be an external launch so
+onboarding externals for running vaults. Some minor details to take care of
+still, but the launch is still…]]></description><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/ry42r2/can_we_take_a_moment_to_appreciate_harmony_one/?score=303&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fry42r2%2Fcan_we_take_a_moment_to_appreciate_harmony_one%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fry42r2%2Fcan_we_take_a_moment_to_appreciate_harmony_one%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/ry42r2/can_we_take_a_moment_to_appreciate_harmony_one/</guid><pubDate>Sat, 08 Jan 2022 03:40:04 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I sincerely dont want to sound like another shill, but their roadmap is speaking volume!&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Bitcoin Bridge&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;Still planning to have the launch this month. It should be an external launch so onboarding externals for running vaults. Some minor details to take care of still, but the launch is still planned for this month.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Trustless Ethereum bridge&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;Expecting a month of work, but hoping to finish everything by the end of this month.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Streaming sync and fast sync&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;Fixing last problem before launch on Testnet. No update currently.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Cross Shard Transactions&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;Needs a few more rounds of iteration and feedback on designs. A few more weeks until start of implementation.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Polygon Bridge&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;The team is working on this currently. More updates will come on this including date of launch in a few weeks.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Staking Derivatives&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;Currently working on the consistency of the bots and this is taking longer than expected. Once this is stable, they will work on a technical plan for updates and final dates.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;!!!Smart contract staking allows metamask users to stake!!! THATS HUGE&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Cross Chain API&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;It is as far as it can go before the bots and bridge are out. Once these are up and running, it should be a generic solution and finished shortly after.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Cosmos Bridge&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;An external team is currently working on this. There should be a progress update sometime next week. The end goal is to launch in February.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Secure Resharding&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;Working with the Research DAO. Waiting on the write up adn finalizing design.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;1 second finality&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;The feature is a major change so it is still under review. Increasing the gas fees slightly will help grow the block time and help with spam attacks as well, while still keeping the fees small for users.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Decentralized RPC&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;Bringing in more partners to help with this. Should be done by the end of January. Currently working on new ways to continue becoming more decentralized.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Decentralized Ops&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;This is used for onboarding teams to help with ops. Used to introduce a new Devnet.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Ambassador DAO&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;goal for 2022 is 100 meetups per month around the world. The first meeting meeting will take place this month. Establishing a way to pay governors currently.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Apart from that, the recent crash did barely any damage to the coins price. Harmony is going strong and it is accumulating to the new ATH. When everyone is talking about ZK rollups on ETH, maybe more people should look in ONE and their immensely cheap gas fees.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I’ve been living in El Salvador for the past 5 weeks using only BTC. No cash, no credit cards. It can be done!]]></title><description><![CDATA[I’m an Italian podcaster and I’ve been traveling in the whole country to report
 the state of Bitcoin adoption. You can read my chronicles on my website. We post
 in English as well as in Italian. Hope u guys enjoy. 👊🏻]]></description><link>https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/rygur8/ive_been_living_in_el_salvador_for_the_past_5/?score=304&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Frygur8%2Five_been_living_in_el_salvador_for_the_past_5%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Frygur8%2Five_been_living_in_el_salvador_for_the_past_5%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/rygur8/ive_been_living_in_el_salvador_for_the_past_5/</guid><pubDate>Sat, 08 Jan 2022 01:51:58 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I’m an Italian podcaster and I’ve been traveling in the whole country to report the state of Bitcoin adoption. You can read my chronicles on my website. We post in English as well as in Italian. Hope u guys enjoy. 👊🏻&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Cops can’t access $60M in seized bitcoin — fraudster won’t give password]]></title><link>https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/rycxwi/cops_cant_access_60m_in_seized_bitcoin_fraudster/?score=334&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Frycxwi%2Fcops_cant_access_60m_in_seized_bitcoin_fraudster%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Frycxwi%2Fcops_cant_access_60m_in_seized_bitcoin_fraudster%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/rycxwi/cops_cant_access_60m_in_seized_bitcoin_fraudster/</guid><pubDate>Fri, 07 Jan 2022 23:42:27 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[To Everyone Still Holding Let me See Those Beautiful Hands...]]></title><description><![CDATA[This post is intended to be a bit of a wellness check and morale boost during
@@ -622,36 +687,4 @@ This is a thought experiment. In this…]]></description><link>https://crypto.bu
 &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;This is a thought experiment.&amp;lt;/strong&amp;gt; In this scenario, you couldn&amp;amp;#39;t exchange crypto for fiat, ever - but it&amp;amp;#39;s not just that exchanges wouldn&amp;amp;#39;t offer it, there would be no loophole (&amp;lt;strong&amp;gt;edit: so also no crypto credit/debit cards&amp;lt;/strong&amp;gt;) for it. You, for some reason, could not find someone to privately sell your coin to for fiat. In this hypothetical world, everything would be the same as now - you could buy crypto with fiat, you could use crypto for their use cases, and you could even use crypto to buy stuff in the few places that enable it - but you could not get fiat for it. This means, you would either have to have a use case for crypto that isn&amp;amp;#39;t &amp;amp;quot;getting more money&amp;amp;quot;, or you would have to speculate on more adoption and more merchants accepting crypto in the future.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Would you still invest in crypto? I&amp;amp;#39;ll be honest: I&amp;amp;#39;m in this to make more fiat, if I couldn&amp;amp;#39;t exhange crypto for fiat I would not invest. What about you?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Yet again over 666,000,000 worth of positions were wiped from the market.]]></title><description><![CDATA[Yet again over $650,000,000 worth of positions were wiped from the market.
-
-Most of them were long positions.
-
-In the past 24 hours, 175,705 traders were liquidated.
-
-The largest single liquidation order happened on Bitmex - XBTUSD value $10.00M
-(damn!)
-
-Interestingly this time around majority of…]]></description><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/rwyti0/yet_again_over_666000000_worth_of_positions_were/?score=302&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Frwyti0%2Fyet_again_over_666000000_worth_of_positions_were%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Frwyti0%2Fyet_again_over_666000000_worth_of_positions_were%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/rwyti0/yet_again_over_666000000_worth_of_positions_were/</guid><pubDate>Thu, 06 Jan 2022 05:33:08 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Yet again over $650,000,000 worth of positions were wiped from the market.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Most of them were long positions.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;In the past 24 hours, 175,705 traders were liquidated.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The largest single liquidation order happened on Bitmex - XBTUSD value $10.00M (damn!)&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Interestingly this time around majority of positions wiped were on Okex and not on Binance. Are Binance users getting smarter?&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Please remember that trading with leverage is extremely risky and you should not do it unless you are extremely experienced.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/9huz09mq5y981.png?width=1533&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=a58d01efc98a99199a3c047a63732de07661e413&quot;&amp;gt;https://preview.redd.it/9huz09mq5y981.png?width=1533&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=a58d01efc98a99199a3c047a63732de07661e413&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA["Anybody else excited!?" No. I'm not. This sucks and I have no problem saying it.]]></title><description><![CDATA[It takes weeks upon weeks to slowly climb in the charts, then within a few hours
-it we're right back to where we were months ago? Yeah, that blows. The fact that
-crypto is just some game for rich people to dip out of the microsecond something
-threatening from the Fed happens sucks. The fact that…]]></description><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/rwywij/anybody_else_excited_no_im_not_this_sucks_and_i/?score=466&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Frwywij%2Fanybody_else_excited_no_im_not_this_sucks_and_i%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Frwywij%2Fanybody_else_excited_no_im_not_this_sucks_and_i%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/rwywij/anybody_else_excited_no_im_not_this_sucks_and_i/</guid><pubDate>Thu, 06 Jan 2022 04:34:01 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;It takes weeks upon weeks to slowly climb in the charts, then within a few hours it we&amp;amp;#39;re right back to where we were months ago?  Yeah, that blows.  The fact that crypto is just some game for rich people to dip out of the microsecond something threatening from the Fed happens sucks.  The fact that people bought only to see things dip like crazy sucks.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;And most importantly - all the people who are curious about crypto, and want to learn more and get in, but then see the prospect of losing 15% of their investment in a couple of hours and avoid crypto like the plague, THAT FUCKIN SUCKS.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Sure, buy the dip if you&amp;amp;#39;ve got money, make your trades, come here and make your post assuring everyone everything will be ok and act like we&amp;amp;#39;re all idiots who can&amp;amp;#39;t see you&amp;amp;#39;re just assuring yourself more than anyone.  I&amp;amp;#39;m not impressed anymore.  It&amp;amp;#39;s fine for all of us to be bummed about this, and it would be great if this subreddit was a place that didn&amp;amp;#39;t make anyone who felt that way feel like some kind of stupid investor for having those feelings.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;edit&amp;lt;/strong&amp;gt;:  alright I&amp;amp;#39;m disabling inbox replies now.  Nothing new being said, my responses are clear, and there&amp;amp;#39;s now countless comments doing exactly the very thing I called out.  All I&amp;amp;#39;ll say is if you&amp;amp;#39;re feeling bummed today, you&amp;amp;#39;re not stupid, you&amp;amp;#39;re not a bad investor, and it &amp;lt;strong&amp;gt;absolutely does not mean you should leave crypto.&amp;lt;/strong&amp;gt;  It&amp;amp;#39;s a normal reaction and having that feeling isn&amp;amp;#39;t the same as throwing in the towel and giving up.  Peace&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
