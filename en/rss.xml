@@ -1,4 +1,157 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Crypto]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 09 Jan 2022 10:14:55 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Never selling]]></title><description><![CDATA[I wonder how many Bitcoiners, like me, are truly never selling (in any
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Crypto]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 09 Jan 2022 11:27:21 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Ok, ID-10t, I’m going to school you again, not because it’s going to be of use for you, since you’re just getting paid to attack #Bitcoin and defend fiat, but because the people deserve to know you are a fraud. https://t.co/BbDGGnyjuu]]></title><link>https://crypto.buzzing.cc/en/tweet/1480118398826827779/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/tweet/1480118398826827779/</guid><pubDate>Sun, 09 Jan 2022 10:42:13 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Are r/CC users overly enthusiastic in posting comments, but overly stingy when giving upvotes? I scraped data for Top 100 posts and compared them to similar subreddits to check]]></title><description><![CDATA[An unexpected trend I noticed recently is that posts with low upvote counts
+routinely make it to the frontpage.
+
+This is common in smaller communities, but there are 4 million+ subscribers
+here. You’d expect posts on the frontpage would have a couple thousand upvotes
+instead of a few hundred…]]></description><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/rzicfg/are_rcc_users_overly_enthusiastic_in_posting/?score=344&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Frzicfg%2Fare_rcc_users_overly_enthusiastic_in_posting%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Frzicfg%2Fare_rcc_users_overly_enthusiastic_in_posting%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/rzicfg/are_rcc_users_overly_enthusiastic_in_posting/</guid><pubDate>Sun, 09 Jan 2022 10:41:57 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;An unexpected trend I noticed recently is that posts with low upvote counts routinely make it to the frontpage.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This is common in smaller communities, but there are 4 million+ subscribers here. You’d expect posts on the frontpage would have a couple thousand upvotes instead of a few hundred each.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I dug into the numbers to check if it’s true.&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;I exported our top 100 posts and compared the upvotes-to-comments ratio to subreddits that share our hobby of yolo-ing life savings because a stranger told us to&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;That&amp;amp;#39;s Wallstreetbets and SuperStonk.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I scraped &amp;lt;a href=&quot;https://imgur.com/bt09arh&quot;&amp;gt;data from 300 posts in the last 30 days&amp;lt;/a&amp;gt; into a javascript object notation (JSON) file. Then I converted it into CSV format to find the headers that contained the info I needed: post title, upvote count, comment count, post type, flair, and a few others.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;After that, it was just a matter of &amp;lt;a href=&quot;https://imgur.com/ooakgfR&quot;&amp;gt;cleaning it up in Excel&amp;lt;/a&amp;gt; and making some pivot tables to combine data from all 3 subreddits.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;Result 1: Users of Cryptocurrency give massively less upvotes than Wallstreetbets and SuperStonk&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;And it’s not even close. Here’s a summary of all 300 posts I scraped:&amp;lt;/p&amp;gt;
+
+&amp;lt;table&amp;gt;&amp;lt;thead&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;Subscribers&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;Total Upvotes&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;Total Comments&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;Upvote-to-Comment Ratio&amp;lt;/th&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/thead&amp;gt;&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;Cryptocurrency&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;4,286,758&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;455,146&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;135,170&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;3.37&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;Wallstreetbets&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;11,449,899&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2,170,981&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;90,523&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;23.98&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;SuperStonk&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;720,403&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;1,734,892&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;69,300&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;25.03&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;&amp;lt;/table&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;sup&amp;gt;Table&amp;lt;/sup&amp;gt; &amp;lt;sup&amp;gt;formatting&amp;lt;/sup&amp;gt; &amp;lt;sup&amp;gt;brought&amp;lt;/sup&amp;gt; &amp;lt;sup&amp;gt;to&amp;lt;/sup&amp;gt; &amp;lt;sup&amp;gt;you&amp;lt;/sup&amp;gt; &amp;lt;sup&amp;gt;by&amp;lt;/sup&amp;gt; &amp;lt;sup&amp;gt;&amp;lt;a href=&quot;https://xl2reddit.github.io/&quot;&amp;gt;ExcelToReddit&amp;lt;/a&amp;gt;&amp;lt;/sup&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You are &amp;lt;strong&amp;gt;612% more likely to get an upvote in Wallstreetbets&amp;lt;/strong&amp;gt; or Superstonk than on Cryptocurrency.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Other revealing stats are:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;We have 62% less subscribers than Wallstreetbets, but Cryptocurrency has 49% more comments&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Superstonk has 83% less subscribers, but they give 281% more upvotes than Cryptocurrency&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;A high upvote-to-comment ratio means that there are more upvotes than comments. A &amp;lt;strong&amp;gt;low ratio means users comment more&amp;lt;/strong&amp;gt; than upvote.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;Result 2: If you look at SELFPOSTS ONLY, Cryptocurrency also gives way less upvotes than anywhere else&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Memes are allowed in both Wallstreetbets and SuperStonk which tend to be more upvote-heavy than comments.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you exclude those, this is what you get:&amp;lt;/p&amp;gt;
+
+&amp;lt;table&amp;gt;&amp;lt;thead&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;Total Upvotes&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;Total Comments&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;Upvote-to-Comment Ratio&amp;lt;/th&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/thead&amp;gt;&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;Cryptocurrency&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;325,455&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;115,203&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2.83&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;Wallstreetbets&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;102,821&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;12,588&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;8.17&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;SuperStonk&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;392,629&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;19,136&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;20.52&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;&amp;lt;/table&amp;gt;
+
+&amp;lt;p&amp;gt;Your selfpost is still 189% more likely to get an upvote in Wallstreetbets, and 625% more likely in SuperStonk.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;Result 3: We also give out less post appreciation awards than other subreddits&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Superstonk is way ahead at an insane 221 awards per post, then WSB is next with 65.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Cryptocurrency is last with an average of 51 awards.&amp;lt;/p&amp;gt;
+
+&amp;lt;table&amp;gt;&amp;lt;thead&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;# of Posts&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;Total Awards Given&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;Avg Awards per Post&amp;lt;/th&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/thead&amp;gt;&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;Cryptocurrency&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;100&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;5,083&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;51&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;Wallstreetbets&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;100&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;6,459&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;65&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;SuperStonk&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;100&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;22,066&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;221&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;&amp;lt;/table&amp;gt;
+
+&amp;lt;p&amp;gt;This counts all awards: reddit gold, silver, helpful, facepalm, wholesome etc.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;Conclusion/TLDR&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Cryptocurrency is the Scrooge McDuck of upvotes. We like leaving comments a lot, but we don’t upvote the post we’re commenting on as often.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Why though?&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Never selling]]></title><description><![CDATA[I wonder how many Bitcoiners, like me, are truly never selling (in any
 materially relevant way)? Genuinely? How many people here are in it for their
 grandkids for example? I feel a little intense and crazy when I think that way
 but that’s just the truth]]></description><link>https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/rzbhpp/never_selling/?score=302&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Frzbhpp%2Fnever_selling%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Frzbhpp%2Fnever_selling%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/rzbhpp/never_selling/</guid><pubDate>Sun, 09 Jan 2022 09:31:27 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I wonder how many Bitcoiners, like me, are truly never selling (in any materially relevant way)? Genuinely? How many people here are in it for their grandkids for example? I feel a little intense and crazy when I think that way but that’s just the truth&amp;lt;/p&amp;gt;
@@ -605,17 +758,4 @@ The top hot post right now shared the fourth ranked address which…]]></descrip
 &amp;lt;p&amp;gt;The first address is also Binance. The second one is Bitfinex. The third one is Coinbase.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Why can&amp;amp;#39;t you guys do some research first to check if address belongs to exchange?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Ethereum is down, and I'm on my 3rd beer...]]></title><description><![CDATA[I received a 5 figure end of year bonus, and I'm ready to "pull the trigger"
-(figuratively speaking). Are we near the bottom of this mini-dip, or is it go
-time? They make it so easy to buy crypto in seconds on Coinbase!
-
-Are there other coins I should consider? I like the big 2 but I'm open…]]></description><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/rxspkh/ethereum_is_down_and_im_on_my_3rd_beer/?score=357&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Frxspkh%2Fethereum_is_down_and_im_on_my_3rd_beer%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Frxspkh%2Fethereum_is_down_and_im_on_my_3rd_beer%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/rxspkh/ethereum_is_down_and_im_on_my_3rd_beer/</guid><pubDate>Fri, 07 Jan 2022 04:48:03 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I received a 5 figure end of year bonus, and I&amp;amp;#39;m ready to &amp;amp;quot;pull the trigger&amp;amp;quot; (figuratively speaking).  Are we near the bottom of this mini-dip, or is it go time?  They make it so easy to buy crypto in seconds on Coinbase! &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Are there other coins I should consider? I like the big 2 but I&amp;amp;#39;m open to potential hi-flyers.  Right now I&amp;amp;#39;m at about 45% BTC, 40% ETH, and 15% &amp;amp;#39;Other&amp;amp;#39;.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;m not putting my life&amp;amp;#39;s savings in, simply trying to spread some stuff around as I think some sort of alternate currency is here to stay.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;What do y&amp;amp;#39;all think? Thanks for your help.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;EDIT: changed those numbers to percentages.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Solana Suffers Network Blackout For Second Time In A Week As Co-Founder Denies Reports Of A DDoS Attack]]></title><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/rxn0ht/solana_suffers_network_blackout_for_second_time/?score=354&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Frxn0ht%2Fsolana_suffers_network_blackout_for_second_time%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Frxn0ht%2Fsolana_suffers_network_blackout_for_second_time%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/rxn0ht/solana_suffers_network_blackout_for_second_time/</guid><pubDate>Fri, 07 Jan 2022 04:48:03 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
