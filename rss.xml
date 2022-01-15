@@ -1,4 +1,286 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 Jan 2022 06:25:03 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[国会将就比特币的能源使用举行听证会....oh boy....，这将带来什么样的妖魔化、蛊惑人心和错误信息？？]]></title><description><![CDATA[国会宣布就比特币的能源使用举行听证会 - CryptoShameless
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 Jan 2022 09:20:59 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[加密货币的初学者指南]]></title><description><![CDATA[什么是区块链？
+
+它是一个 "不可变的账本"。想想看，它就像一本住在天上的书。
+每当有什么变化时，它就会用神奇的墨水写下来，当墨水干了之后。
+永远不会改变。而这些书有成千上万的副本，都是在同一时间被更新。
+在同一时间更新。如果有一天...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s41z1x/a_beginners_guide_to_cryptocurrency/?score=304&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs41z1x%2Fa_beginners_guide_to_cryptocurrency%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs41z1x%2Fa_beginners_guide_to_cryptocurrency%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s41z1x/a_beginners_guide_to_cryptocurrency/</guid><pubDate>Sat, 15 Jan 2022 08:35:02 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What is a blockchain?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It is an “immutable ledger.” Think about it like a book that lives in the sky. Every time something changes, its written down with magic ink, that when dries, never changes. And there are thousands of copies of these books, all getting updated at the same time. If one is ever messed with, the other books would wipe out the problem and replace it with the correct entry.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;(Tedtalk – Blockchain Massively simplified)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.mbcg.io/vision?pgid=kn921drf-2058f817-4ebc-4c29-8430-a667933ff044&quot;&amp;gt;https://www.mbcg.io/vision?pgid=kn921drf-2058f817-4ebc-4c29-8430-a667933ff044&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What is proof of Work?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;First generation crypto currency worked of the concept of Poof of work. There, it is a race to solve a complicated math puzzle, and perform the block write operation. And as a reward get coin. “Mining.” Mining is slow. Bitcoin can only do 7 transactions a minute.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Of the thousands and thousands of machines out there racing to win the next block, only 1 at a time wins. That means the others have literally wasted their energy via compute CPU and GPU cycles. Bitcoin used more energy than Argentina last year.&amp;lt;br/&amp;gt;
+But its not all bad. POW is still the oldest and most battle tested consensus algorithm, and many ague more secure because of it. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.investopedia.com/terms/p/proof-work.asp&quot;&amp;gt;https://www.investopedia.com/terms/p/proof-work.asp&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.bbc.com/news/technology-56012952&quot;&amp;gt;https://www.bbc.com/news/technology-56012952&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What is proof of Stake?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Proof of Stake works on different types of newly developed “Consensus” algorithms. Ouroboros protocol, created by IHOK and Cardano, along with a team of PHDs and mathematicians, is the first of its kind. They created a secure “lottery” consensus mechanism to “elect” the next “slot leader” to write the block. Here each Stake pool can get a chance to be elected by winning the lottery. Each Ada coin represents 1 lottery ticket. When you delegate to the pool, you give that pool your ticket, not your coin. If the pool wins, you get the reward along with everyone in the pool, and the operator. Because there is no more complicated math puzzle, and no more computers racing to solve the puzzle, its much much faster, and much much cheaper. Cardano nodes can be run on Raspberry Pi.. A lot of nodes out there run on Solar energy. It’s so good, Ethereum, who is proof of work currently, is moving to this model as part of their ETH 2.0 migration. Hopefully this summer with the &amp;amp;quot;merge.&amp;amp;quot; In efforts to reduce gas fees and energy concerns. Pokodot created its own Consensus algorithm. Called Grandpa. Tezos has its Emmy+, and the list goes on. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Each other their own way of doing things. But “gen 3” is not Proof of work.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;What you should remember is that for both POW, POS, and others, they are all a means of incentivizing the actual people that run the computers hosting the blockchain code. Without them, there is no “decentralized network of immutable ledgers.” Which is because that’s just fancy talk for machines running our code to support the blockchain. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.investopedia.com/terms/p/proof-stake-pos.asp&quot;&amp;gt;https://www.investopedia.com/terms/p/proof-stake-pos.asp&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardano.org/ouroboros/&quot;&amp;gt;https://cardano.org/ouroboros/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://wiki.polkadot.network/docs/en/learn-consensus&quot;&amp;gt;https://wiki.polkadot.network/docs/en/learn-consensus&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/&quot;&amp;gt;https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://wiki.tezosagora.org/learn/baking/proofofstake/consensus&quot;&amp;gt;https://wiki.tezosagora.org/learn/baking/proofofstake/consensus&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What is Market Cap and coin supply and why should we care?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Market Capitalization is equal to Price of Coin times Supply of Coin. That is, it. But very important.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;BITCOIN has a fixed supply. It is not all mined yet. Not until 2140. But it does have a finite amount, 21 Million.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here is why you can see a 65K or even 100K bitcoin, but you’ll probably never see a 100 dollar DOGE, or even a 30 Dollar Ada (not soon anyway)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Currently there are  18,929,200 BTC out there at a cost of 43,087.16.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;That means, the market cap is 43,087.16 x 18,929,200  = 815,605,469,072 (815B)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Cardano, has a fixed coin supply as well. But it is 45 Billion. There are currently 33,526,814,681. So you see the max is 2500x more. Likewise, with 130B DOGE vs 18M BTC - it’s ~6700X more. DogeCoin also makes 10,000 new coins a minute.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;At a price is 1.26 that means the market cap for Cardano is 1.26 X 33,526,814,681 = 42,243,786,498.06 (42B)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You’ll need 136B market cap to reach a 1-dollar DOGE in the next year.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;132,670,764,300 + ((10,000*60*24*351) = 137,725,164,300 (Supply of DOGE in 1 year from now)&amp;lt;br/&amp;gt;
+137,725,164,300 * 1 = 137,725,164,300&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You&amp;amp;#39;ll need an almost 1 Trillion Market Cap for Cardano to hit 3032,127,627,594 * 30 = 963,828,827,820&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;To give you some reference. Here is the Market cap of some big names.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Visa – 499B&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Adobe – 250B&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Amazon – 1.7T&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It’s very confusing because every coin has their own supply. Their own way of creating coins and at what cadence. Some even “burn” coins. So, know what yours does and how it works.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.bitpanda.com/academy/en/lessons/what-is-market-capitalisation-market-cap-and-why-does-it-matter/&quot;&amp;gt;https://www.bitpanda.com/academy/en/lessons/what-is-market-capitalisation-market-cap-and-why-does-it-matter/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://coinmarketcap.com/&quot;&amp;gt;https://coinmarketcap.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.investopedia.com/tech/cryptocurrency-burning-can-it-manage-inflation/#:%7E:text=Coin%20burning%20is%20the%20process,according%20to%20the%20Motley%20Fool&quot;&amp;gt;https://www.investopedia.com/tech/cryptocurrency-burning-can-it-manage-inflation/#:~:text=Coin%20burning%20is%20the%20process,according%20to%20the%20Motley%20Fool&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://companiesmarketcap.com/visa/marketcap/&quot;&amp;gt;https://companiesmarketcap.com/visa/marketcap/&amp;lt;/a&amp;gt;&amp;lt;a href=&quot;https://companiesmarketcap.com/adobe/marketcap/&quot;&amp;gt;https://companiesmarketcap.com/adobe/marketcap/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://companiesmarketcap.com/amazon/marketcap/&quot;&amp;gt;https://companiesmarketcap.com/amazon/marketcap/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;How can I “get in early?”&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;First. We are all early. You might not have gotten in on the first floor, but we’re only halfway up the stairs to the second flight.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Global wealth is estimated at 1 quadrillion. All the Market Cap in crypto is at 2.05 Trillion. That’s only 0.21% of the world’s wealth.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;When looking for “what could be the next big thing” find something with a low market cap, regardless of coin price, that has a strong chance of doing well because of team and tech, the two Ts.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Also ask yourself.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;What are these coins use cases?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Who is their target audience for adoption?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Who is funding them?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Who is their team building it? What is their history?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Do they have a good plan?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://river.com/learn/how-much-worlds-money-in-bitcoin/#:%7E:text=Global%20wealth%20is%20estimated%20at,represents%200.09%25%20of%20global%20wealth&quot;&amp;gt;https://river.com/learn/how-much-worlds-money-in-bitcoin/#:~:text=Global%20wealth%20is%20estimated%20at,represents%200.09%25%20of%20global%20wealth&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What are your goals?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Crypto is really split into 4 worlds.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Day traders, H.O.D.L.’ers, Whales, and weak hands.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Day traders realize that this market is very volatile, now, and historically. Good ones, can capitalize on quick gains by buying low and selling high, waiting for a dip, then buying back in, and selling high again, cyclically.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Then there are those that “Hold On for Dear Life.” These people tend to find something they really are passionate about, and never sell. They keep buying. If they see their coin dips, below at what they bought it at, and have some extra funds, they buy more, to &amp;amp;quot;Average Down.&amp;amp;quot; Or Dollar cost average (DCA) by buying a set amount on a regular cadence. They only “take profit” buy selling a small portion when price is really high.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Whales, are investors that come in with millions and billions of dollars. They often “test” the market buy either buying or dumping millions and billions in hopes to manipulate the market to their advantage. If you’re reading this, you’re probably not in this category, but you should know they exist and effect this marketplace.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Then there are “weak hands.” Do not pick this one. These people buy high and sell low. They only invest based on emotion, and nothing else. When things start going bad, they panic, and sell at a loss. Its much better to let your coin go to .000000001 cents, and just hold on to it in the hopes of a rally years later, then it is to ever sell at a loss. Never do this. Never.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Each has its own risks and rewards.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Day trading can rack up dollars quick, but you can lose them just as quick. And there are tax implicates with trades. Some unknown, and constantly changing.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;HODL, might take years, but if you do, the chance of your Return on Invest improves significantly in crypto.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Pick what works best for you but have a plan.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cryptocurrencyfacts.com/hodling-vs-trading-for-new-cryptocurrency-investors/&quot;&amp;gt;https://cryptocurrencyfacts.com/hodling-vs-trading-for-new-cryptocurrency-investors/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What are things to look out for?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Do your own research&amp;lt;/strong&amp;gt;. There are now more then 4K types of crypto currencies. You can create your own in about 30 minutes with the right free tools.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The mortality rate of new coins is super high this year. Lots of people trying to do Pump and Dumps.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;There is nothing in life that goes up for no reason, if it does, it’s a Ponzi scheme.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://lifehacker.com/how-to-create-your-own-cryptocurrency-1825337462&quot;&amp;gt;https://lifehacker.com/how-to-create-your-own-cryptocurrency-1825337462&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.financialexpress.com/market/rip-cryptocurrencies-number-of-dead-coins-up-35-over-last-year-tally-nears-2000-mark/2226169/&quot;&amp;gt;https://www.financialexpress.com/market/rip-cryptocurrencies-number-of-dead-coins-up-35-over-last-year-tally-nears-2000-mark/2226169/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://bravenewcoin.com/insights/how-to-identify-a-crypto-pump-and-dump-scheme&quot;&amp;gt;https://bravenewcoin.com/insights/how-to-identify-a-crypto-pump-and-dump-scheme&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What is the difference between storing on an exchange or in a wallet?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;A lot.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;First, you must remember what the dream of crypto is really offering.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Its offering a way for us to break away from banks. Forever.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Centralized banks that can print money, is a problem. Blockchain solves this.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;But not if the new bank ends up being Binace or Coinbase. In fact, keeping your coin in exchanges puts us all at risk of market manipulation by them.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;When a certain 1 person or group owns too many nodes, they can make choices that would benefit them. The attack vector is called a 51% attack or sybil attack.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Today however, you need exchanges to on ramp and off ramp FIAT. FIAT money is government-issued currency that is not backed by a physical commodity, such as gold or silver.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;But it will not be like that forever. Chains like ADA and DOT will be interoperable with legacy banks and will eventually cut out exchanges.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Personally, I despise BNB coin and binace. They already take high fees, and now they want the control and the rewards too. Coinbase isn’t much better. Again though, a necessary evil, for now.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;But more important than the “dream” is that they can be hacked.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;They are a website. Not a blockchain. They hold the keys to your wallet, and let you use them with a weak password and no mfa if you like. Its literally like storing your money in a bank. So know your bank. Good thing, like a bank, SOME, are federally insured up to a certain amount. But some are not, and people have lost millions and billions in the past this way.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Lastly, there is the notification of “passive income” and “interest.”&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;With POS systems, delegators are incentivized to “stake” their coin by earning interest.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;With POW systems, like bitcoin, you’d have to stand up your own machine, configure it, and let it use your energy in your house. With withs like Cardano Ada, and ETH 2.0, you can now pull your coin off the exchange, put it in a wallet, delegate to a pool, and earn interest. All while maintaining full control of your coins.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://academy.binance.com/en/articles/sybil-attacks-explained&quot;&amp;gt;https://academy.binance.com/en/articles/sybil-attacks-explained&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.investopedia.com/terms/f/fiatmoney.asp&quot;&amp;gt;https://www.investopedia.com/terms/f/fiatmoney.asp&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.wired.com/story/hack-binance-cryptocurrency-exchange/&quot;&amp;gt;https://www.wired.com/story/hack-binance-cryptocurrency-exchange/&amp;lt;/a&amp;gt;&amp;lt;a href=&quot;https://help.coinbase.com/en/coinbase/other-topics/legal-policies/how-is-coinbase-insured&quot;&amp;gt;https://help.coinbase.com/en/coinbase/other-topics/legal-policies/how-is-coinbase-insured&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://docs.google.com/presentation/d/1jiWH6Up0pPNRssCkMFw4drLRQjKVGsQtGAArITgqABE/edit?usp=sharing&quot;&amp;gt;https://docs.google.com/presentation/d/1jiWH6Up0pPNRssCkMFw4drLRQjKVGsQtGAArITgqABE/edit?usp=sharing&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What are Smart Contracts? (This one will blow your mind if you are a developer)&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;First let us start with what most people say.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;“Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code.”&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Which is true for sure. It helps build trust and removes the cumbersome third party “trusted agent” like a bank.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;But what smart contracts really are is “ANY Code” that can be written to a blockchain and NEVER be changed, forever.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;ANY CODE. You can write your own coins and put them into the block. It happens a lot.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Games, sure, put in the chain. Check out CryptoKitties.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;In the future ALL business will be blockchain businesses. Every transaction, every process in the building and distribution, will be written to a magic book that can’t be messed with.. Ever..&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.investopedia.com/terms/s/smart-contracts.asp&quot;&amp;gt;https://www.investopedia.com/terms/s/smart-contracts.asp&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.dappuniversity.com/articles/code-your-own-cryptocurrency-on-ethereum&quot;&amp;gt;https://www.dappuniversity.com/articles/code-your-own-cryptocurrency-on-ethereum&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.cryptokitties.co/&quot;&amp;gt;https://www.cryptokitties.co/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What are NFTs?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;NonFungible Tokens is metadata attached to an asset. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The metadata is things like who created it, and when. Along with the most important piece the link to the asset. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The asset is what most people think of when they talk about NFTs.&amp;lt;br/&amp;gt;
+Its a digital file. Like a jpg or a mov file.&amp;lt;br/&amp;gt;
+But its not stored in the blockchain like most assume.&amp;lt;br/&amp;gt;
+Instead they are stored, most often, in IPFS storage.&amp;lt;br/&amp;gt;
+IPFS is very cool, but its not blockchain, and thus not &amp;amp;quot;immutable.&amp;amp;quot; &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So what’s the big deal? I can upload a gif to the internet today.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The big deal is twofold.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;First, you are not uploading anything to the “internet.” That whole thing we call the internet is flawed. Tracked, centralized, monitored, and gated.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;What you are doing is creating an EARLY entry, in a book that will never change for the rest of time.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Let us sit and think about that for a second.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;De Beers is going to have to get new slogan. “A &amp;lt;del&amp;gt;diamond&amp;lt;/del&amp;gt; NFT is forever”&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Right now, it is some awful GIF of a dogecoin. But it is not what it is. It is what it represents.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It is the next chapter in Art history. What is created will last longer than the Mona Lisa. Someday you will have blockchain archaeologist that comb though chains.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Plus, taking away the cool factor, they create a place that you can now prove you did it first.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Artist could upload lyrics as an NFT, and later sell them, without the fear their art might be stolen before a contract is in place. People could attach their house deed to a chain, and ever again dispute who owns the land after a conflict.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Besides gaming, NFTs are frequently used to sell a wide range of virtual collectibles, including NBA virtual trading cards, music, digital images, video clips and even virtual real estate in &amp;lt;a href=&quot;https://decentraland.org/&quot;&amp;gt;Decentraland&amp;lt;/a&amp;gt;, a virtual world.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;That of course is the rosier outlook on NFTs.   &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Unfortunately, in practice there are many gaps today.   &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The first I already mentioned. The asset is not stored in the blockchain.&amp;lt;br/&amp;gt;
+What that means is that the IPFS provider could &amp;amp;quot;unpin&amp;amp;quot; your asset, and if its not saved anywhere else, you&amp;amp;#39;ll end up with an NFT that has metadata that points to a url that has nothing there.   &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The second problem, is that there are thousands of blockchains. People can take your asset, because its publicly pined, and then go create an NFT on another blockchain, and then claim theirs is in fact the original. You&amp;amp;#39;d have to check every chain that supports NFTs to ensure it was in fact the first first.   &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Or people have taken hard artwork, like paintings, and then minted and sold them as NFTs. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq&quot;&amp;gt;https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://theconversation.com/how-nonfungible-tokens-work-and-where-they-get-their-value-a-cryptocurrency-expert-explains-nfts-157489#:%7E:text=Besides%20gaming%2C%20NFTs%20are%20frequently,in%20Decentraland%2C%20a%20virtual%20world&quot;&amp;gt;https://theconversation.com/how-nonfungible-tokens-work-and-where-they-get-their-value-a-cryptocurrency-expert-explains-nfts-157489#:~:text=Besides%20gaming%2C%20NFTs%20are%20frequently,in%20Decentraland%2C%20a%20virtual%20world&amp;lt;/a&amp;gt;.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://hyperallergic.com/702309/artists-say-plagiarized-nfts-are-plaguing-their-community/&quot;&amp;gt;https://hyperallergic.com/702309/artists-say-plagiarized-nfts-are-plaguing-their-community/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Terminology?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;HODL = Hold On for Dear Life&amp;lt;br/&amp;gt;
+Hopium  =  Represents the belief that the situation will someday improve.&amp;lt;br/&amp;gt;
+FOMO = Fear of Missing Out&amp;lt;br/&amp;gt;
+FUD = Fear, Uncertainty, and Doubt&amp;lt;br/&amp;gt;
+Bear/Bearish =  &amp;amp;quot;Bears&amp;amp;quot; believe that an asset, for example a digital currency, will decline in value.&amp;lt;br/&amp;gt;
+Bull/Bullish =  If a trader believes that an asset will rise in value, he or she is a &amp;amp;quot;bull.&amp;amp;quot; &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://fintechmagazine.com/financial-services-finserv/140-blockchain-and-crypto-words-ultimate-z-glossary&quot;&amp;gt;https://fintechmagazine.com/financial-services-finserv/140-blockchain-and-crypto-words-ultimate-z-glossary&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Who the hell are you?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Who me? &amp;lt;strong&amp;gt;I’m not a finical advisor&amp;lt;/strong&amp;gt;. I work for a major software company as my full-time job, and manage Microsoft Active Directory and Azure AD. 😊I do however love the idea of blockchain, and what it can bring to the world. I also am a cofounder of Mirai Blockchain Group. A small team of industry professionals that have come together to support reputable chains and provide education to those looking to gain knowledge. We mange Stake Pools, for Cardano, and possible other chains in the future, like ETH. Delegate to our pool today and we can grow together! &amp;lt;strong&amp;gt;MBCG&amp;lt;/strong&amp;gt; Pool&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Find us on the web: &amp;lt;a href=&quot;https://mbcg.io/&quot;&amp;gt;https://mbcg.io&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Follow on Reddit for other great content! And follow on Linkedin: &amp;lt;a href=&quot;https://www.linkedin.com/company/mirai-blockchain-group&quot;&amp;gt;https://www.linkedin.com/company/mirai-blockchain-group&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[如果你让索拉纳负责倒下，却假装和谐号什么都没发生，你就是一个绝望的伪君子。]]></title><description><![CDATA[我不持有任何SOL或ONE，我也不打算这样做（至少不是很快），但我
+但我知道，这个组织的大多数人都害怕索拉纳，害怕到他们一直在散布谣言。
+以至于他们一直试图散布虚假信息，好像这部分人真的有任何影响力一样。
+你真的认为5k的支持率会有字面意义上的......]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s4adpl/if_you_hold_solana_accountable_for_going_down_but/?score=326&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs4adpl%2Fif_you_hold_solana_accountable_for_going_down_but%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs4adpl%2Fif_you_hold_solana_accountable_for_going_down_but%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s4adpl/if_you_hold_solana_accountable_for_going_down_but/</guid><pubDate>Sat, 15 Jan 2022 08:35:02 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I don’t hold any SOL or ONE and I don’t plan to do it (at least not soon) but I know that the majority of this sub is scared of Solana, so scared that they’re trying to spread FUD all the time, as if this sub actually has any influence on the market (you really think 5k upvotes will have literally any effect on the market?)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If one posts “LUL Solana is so garbage Ethereum never went down” for when Solana went down, but then post “it’s no big deal stuff happens” for when Harmony went down, that’s just desperate hypocritical behavior. Either hold them both accountable for the same problem, or don’t hold either accountable. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It’s easy to pass on circle-jerking sub and shilling random coins on this sub, but this one is just too sad and disgusting to look over imo.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[国会将就比特币的能源使用举行听证会....oh boy....，这将带来什么样的妖魔化、蛊惑人心和错误信息？？]]></title><description><![CDATA[国会宣布就比特币的能源使用举行听证会 - CryptoShameless
 [https://cryptoshameless.com/2022/01/congress-announces-hearing-on-bitcoins-energy-use/]
 
 所以听证会从下周四，1月20日开始。谁会成为国会山下的一个完全
@@ -682,20 +964,4 @@ Covid崩溃的前5个月。当时的价格约为10 000美元。作者称。
 &amp;lt;p&amp;gt;6) The coin price point is something that retail can understand, it&amp;amp;#39;s not a scary large number like BTC but it&amp;amp;#39;s also not 6 0s after a decimal like a lot of shitcoins.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;7) Their model is built around buying and holding their coin for other rewards which is, again, great at teaching retail to HODL rather than the only means of value to try and sell at a higher price point that pretty much the rest of the crypto market exists on.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[它正在发生! 另一个国家可以使用比特币作为货币；这次是组成汤加王国的160多个岛屿。https://t.co/A6aJgrnARj]]></title><link>https://crypto.buzzing.cc/tweet/1481619064703307780/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1481619064703307780/</guid><pubDate>Thu, 13 Jan 2022 13:45:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[富达公司是世界上最大的资产管理公司之一，管理着4.9万亿美元的资产。今天他们这样写道。]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s2wow7/fidelity_is_one_of_the_largest_asset_managers_in/?score=609&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs2wow7%2Ffidelity_is_one_of_the_largest_asset_managers_in%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs2wow7%2Ffidelity_is_one_of_the_largest_asset_managers_in%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s2wow7/fidelity_is_one_of_the_largest_asset_managers_in/</guid><pubDate>Thu, 13 Jan 2022 13:45:15 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[如何观察比特币价格？我发现一开始很难观察加密货币的趋势，因为金融的非可视性。所以我决定为像我这样的人创建Crypto Stars - Market Tutorial手机应用程序。你怎么看，是否值得继续开发这样的应用程序？]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s2w0e6/how_do_you_watch_the_bitcoin_price_i_found_its/?score=307&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs2w0e6%2Fhow_do_you_watch_the_bitcoin_price_i_found_its%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs2w0e6%2Fhow_do_you_watch_the_bitcoin_price_i_found_its%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s2w0e6/how_do_you_watch_the_bitcoin_price_i_found_its/</guid><pubDate>Thu, 13 Jan 2022 13:45:15 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[永远不要让他们说你很幸运，因为你通过加密货币实现了财务自由。]]></title><description><![CDATA[我从经验上讲，一旦他们知道工作对你来说变得可有可无
-他们就会告诉你，你很幸运，很早就投资了加密货币。
-早。
-
-我从2017年开始，看到我的投资组合在我们都知道的大抽水之后暴跌到几乎没有。
-我们都知道。
-
-我当时负债累累，但我还是做到了，并且...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s2xf3b/never_let_them_call_you_lucky_for_becoming/?score=552&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs2xf3b%2Fnever_let_them_call_you_lucky_for_becoming%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs2xf3b%2Fnever_let_them_call_you_lucky_for_becoming%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s2xf3b/never_let_them_call_you_lucky_for_becoming/</guid><pubDate>Thu, 13 Jan 2022 13:45:15 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;And I speak from experience, once they will know that working became optional for you, they will tell you that you’re lucky of having invested in crypto early.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I started in 2017 and saw my portfolio plummet to next to nothing after the big pump we all know.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I was in debts but I made it anyway and reloaded when the price was at its lowest during 2018/2019. Most were calling for the final death of crypto and a few saw a huge opportunity.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;If you become wealthy one day and they call you lucky, tell them it’s not about luck but you’re simply not the kind that gives up easily mostly when you have convictions about something.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Only 1% of the worldwide population uses crypto, we are still early and there’s still plenty opportunities to become &amp;amp;quot;lucky&amp;amp;quot;.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[@ZubyMusic 是的，跟单者比跟单者更有道德责任感https://t.co/n8Tm1v6JvE。]]></title><link>https://crypto.buzzing.cc/tweet/1481210234832146434/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1481210234832146434/</guid><pubDate>Thu, 13 Jan 2022 12:59:30 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[它正在发生! 另一个国家可以使用比特币作为货币；这次是组成汤加王国的160多个岛屿。https://t.co/A6aJgrnARj]]></title><link>https://crypto.buzzing.cc/tweet/1481619064703307780/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1481619064703307780/</guid><pubDate>Thu, 13 Jan 2022 13:45:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[富达公司是世界上最大的资产管理公司之一，管理着4.9万亿美元的资产。今天他们这样写道。]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s2wow7/fidelity_is_one_of_the_largest_asset_managers_in/?score=609&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs2wow7%2Ffidelity_is_one_of_the_largest_asset_managers_in%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs2wow7%2Ffidelity_is_one_of_the_largest_asset_managers_in%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s2wow7/fidelity_is_one_of_the_largest_asset_managers_in/</guid><pubDate>Thu, 13 Jan 2022 13:45:15 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[如何观察比特币价格？我发现一开始很难观察加密货币的趋势，因为金融的非可视性。所以我决定为像我这样的人创建Crypto Stars - Market Tutorial手机应用程序。你怎么看，是否值得继续开发这样的应用程序？]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s2w0e6/how_do_you_watch_the_bitcoin_price_i_found_its/?score=307&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs2w0e6%2Fhow_do_you_watch_the_bitcoin_price_i_found_its%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs2w0e6%2Fhow_do_you_watch_the_bitcoin_price_i_found_its%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s2w0e6/how_do_you_watch_the_bitcoin_price_i_found_its/</guid><pubDate>Thu, 13 Jan 2022 13:45:15 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
