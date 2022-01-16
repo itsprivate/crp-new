@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 16 Jan 2022 18:46:53 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[昨天，以色列🇮🇱医学协会呼吁停止大规模测试和隔离，并停止Covid护照。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 16 Jan 2022 21:19:47 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[卡达诺在2022年的11种扩展方式：参数调整、改进、增强和其他创新都将在稳步提高卡达诺的容量&amp; 吞吐量方面发挥其作用。]]></title><description><![CDATA[链上解决方案
+
+区块大小增加
+
+区块越大，它能承载的交易就越多。区块大小是
+最近增加了8KB，达到72KB（增加了12.5%）；进一步的增加将被应用于
+将根据持续的系统监测和整体网络健康状况，进一步增加。
+
+管道化
+
+改善了...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s5bmu2/11_ways_cardano_will_scale_in_2022_parameter/?score=320&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs5bmu2%2F11_ways_cardano_will_scale_in_2022_parameter%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs5bmu2%2F11_ways_cardano_will_scale_in_2022_parameter%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s5bmu2/11_ways_cardano_will_scale_in_2022_parameter/</guid><pubDate>Sun, 16 Jan 2022 20:31:29 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;On-chain solutions&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Block size increase&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The  bigger the block, the more transactions it can carry. Block size was  recently increased by 8KB to 72KB (a 12.5% increase); further increases  will be applied over time based on ongoing system monitoring and overall  network health.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Pipelining&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Improves block  propagation times by coalescing validation and propagation. The goal is  for blocks to be propagated to at least 95% of peers within five seconds  by reducing the ‘dead time’ between blocks (the block propagation  overhead). This provides the headroom to make more aggressive scaling  changes, such as increasing block size/increasing Plutus parameter limits.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Input Endorsers&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Input endorsers  improve block propagation times and throughput by allowing transactions  to be separated into pre-constructed blocks. This improves the  consistency of block propagation times and allows higher transaction  rates.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Memory /CPU parameters for Plutus&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Memory  usage is more efficient across the chain. Specifically, there are  memory improvements in Unspent Transaction Output (UTXO) handling, stake  distribution, live stake distribution and pools, and hash  representation.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Plutus script enhancements&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Even more effective usage of the powerful EUTXO model through smart contract optimization, including: &amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Reference  inputs (CIP-0031)  – Plutus scripts can inspect transaction inputs  without needing to spend them. This means that it is not necessary to  create UTXOs simply to inspect the information held by an input.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Plutus  Datums (CIP-0032) – Datums can be attached directly to outputs instead  of datum hashes. This simplifies how datums are used, as a user can see  the actual datum rather than having to supply the datum that matches the  given hash.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Script sharing (CIP-0033) – Plutus script  references can be associated with transaction outputs, meaning that they  can be recorded on-chain for subsequent reuse. It will not be necessary  to supply a copy of the script with each transaction, hugely reducing  friction for developers. Reusing scripts in multiple transactions  significantly reduces transaction sizes, improving throughput and  reducing script execution costs.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Node enhancements&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Improvements  will help even distribution of stake and reward computations across the  epochs, thus providing greater headroom for block size increases. Also,  memory usage is now more efficient. Memory compaction reduces RSS  footprint, and memory sharing means we need less data instantiated. Node  version 1.3.3, from January 2022, reduces peak load at critical points,  including the epoch boundary.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;On-disk storage&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;By  storing portions of the protocol state on disk, nodes will need to hold  less in memory, meaning that RAM-constrained systems will be able to  run nodes provided they have sufficient storage, and memory will no  longer be a bottleneck on scalability. This will enable significant  growth in the blockchain state.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Off-chain solutions&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Sidechains&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;A sidechain is a separate blockchain connected to a main blockchain (the  &amp;amp;#39;main&amp;amp;#39; chain, also known as parent chain), through a two-way mechanism  (the &amp;amp;#39;bridge&amp;amp;#39;) that enables tokens and other digital assets from one  chain to be used in another and results returned to the original chain.  Assets can be moved between chains as needed. One single parent chain  can have multiple interoperable sidechains connected to it, which may  operate in completely different ways. EVM sidechains coming to Cardano  include dcSpark’s Milkomeda and IOG’s Mamba. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Hydra&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Introduces  isomorphic state channels to maximize throughput, minimize latency,  incur low to no costs, and greatly reduce storage requirements. Hydra  provides a more efficient means to process transactions off-chain while  using the main-chain ledger as the secure settlement layer.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Off-chain computing&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Offloading  some of the computation, for example with Asynchronous Contract  Execution (ACE)  can drive greater core network efficiency. Transactions  occur outside of the blockchain itself, yet can offer fast, cheap  transactions via a trust model.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Mithril&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;To  achieve greater scalability, you need to address the complexity of  critical operations that depend logarithmically on the number of  participants. Mithril will improve chain synchronization while  maintaining trust. The result? Multi-signature aggregation that is fast  and efficient without compromising security features.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;TL;DR: &amp;lt;a href=&quot;https://ucarecdn.com/ff38dd08-5947-4c52-af32-15c59cdcdcf8/-/format/webp/-/quality/best/-/progressive/yes/&quot;&amp;gt;All this summarized in one pic&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Source: &amp;lt;a href=&quot;https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/&quot;&amp;gt;https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Bonus:  Plutus is basically Haskell which is native smart contract language for the Cardano blockchain. Plutus contracts consist of parts that run on the blockchain  (on-chain code) and parts that run on a user’s machine (off-chain or  client code). Both the on-chain and off-chain code are written in Haskell, and Plutus smart contracts are effectively Haskell programs.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[比特币百万富翁正在迁往波多黎各，以获得更低的税收和岛屿生活]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s5e784/bitcoin_millionaires_are_moving_to_puerto_rico/?score=455&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs5e784%2Fbitcoin_millionaires_are_moving_to_puerto_rico%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs5e784%2Fbitcoin_millionaires_are_moving_to_puerto_rico%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s5e784/bitcoin_millionaires_are_moving_to_puerto_rico/</guid><pubDate>Sun, 16 Jan 2022 20:31:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[十三年前的今天，中本聪给了我们所有人一些可能有史以来最重要的建议。]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s5gk6s/thirteen_years_ago_today_satoshi_nakamoto_gave_us/?score=421&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs5gk6s%2Fthirteen_years_ago_today_satoshi_nakamoto_gave_us%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs5gk6s%2Fthirteen_years_ago_today_satoshi_nakamoto_gave_us%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s5gk6s/thirteen_years_ago_today_satoshi_nakamoto_gave_us/</guid><pubDate>Sun, 16 Jan 2022 20:31:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[星期三会很有趣。国会宣布就比特币的能源使用举行听证会]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s4ylmb/wednesday_is_gonna_be_interesting_congress/?score=301&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs4ylmb%2Fwednesday_is_gonna_be_interesting_congress%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs4ylmb%2Fwednesday_is_gonna_be_interesting_congress%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s4ylmb/wednesday_is_gonna_be_interesting_congress/</guid><pubDate>Sun, 16 Jan 2022 20:31:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[昨天，以色列🇮🇱医学协会呼吁停止大规模测试和隔离，并停止Covid护照。
 
 今天，以色列最大的医院抨击卫生部的 "疯狂政策"。
 
@@ -973,54 +1042,4 @@ DOGE作为任何特斯拉车辆的付款。
  - 股票风险溢价
  - 他的比特币&amp; S2F起源故事
 
-https://t.co/xdYePMtfTj https://t.co/2iMV3wZQ5L]]></title><link>https://crypto.buzzing.cc/tweet/1482052060891815936/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1482052060891815936/</guid><pubDate>Fri, 14 Jan 2022 18:44:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[和谐"（ONE）已经停机，我讨厌它。]]></title><description><![CDATA[从今天早上开始，和谐网络再次陷入停顿。见
-https://explorer.harmony.one/blocks/shard/0 为证。我非常矛盾
-我对这件事的感受。从2021年初开始，我一直是ONE的支持者和粉丝。
-的支持者和粉丝，我对未来感到非常兴奋，因为神奇的DApps是...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s3nknw/harmony_one_is_down_and_i_hate_it/?score=303&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs3nknw%2Fharmony_one_is_down_and_i_hate_it%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs3nknw%2Fharmony_one_is_down_and_i_hate_it%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s3nknw/harmony_one_is_down_and_i_hate_it/</guid><pubDate>Fri, 14 Jan 2022 18:44:06 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;As of this morning, the Harmony network grinded to a halt yet again. See &amp;lt;a href=&quot;https://explorer.harmony.one/blocks/shard/0&quot;&amp;gt;https://explorer.harmony.one/blocks/shard/0&amp;lt;/a&amp;gt; for proof. I&amp;amp;#39;m super conflicted on how I feel about this. I have been a ONE supporter and fan from early 2021 onward, and I&amp;amp;#39;m super excited for the future since amazing dApps are being built on it as we speak. It seems so odd that they have dozens of people working on development, but somehow they can&amp;amp;#39;t figure out how to handle their RPC or prevent/fix spam attacks on the network.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The main reason I&amp;amp;#39;m going to stick around is the amazing group of people and developers that are in this space. The developer of &amp;lt;a href=&quot;https://fuzz.fi&quot;&amp;gt;fuzz.fi&amp;lt;/a&amp;gt; decided to run his own RPC and there&amp;amp;#39;s a couple of other groups/people as well that try to support the Harmony Ecosystem in any way they can.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Props to the people that are working on this 24/7, but it&amp;amp;#39;s time to grow up and fix stuff. We&amp;amp;#39;re a Top50 coin now, time to move forward, onwards and upwards!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[非常看好BAT! 在Brave上运行的广告活动的数量正在大规模增长!]]></title><description><![CDATA[最新的数字详细说明了目前正在全球范围内进行的广告活动的数量
-目前在Brave上运行的广告活动数量是惊人的!
-
-今天，有5525个广告活动正在有效地运行，并被用户看到!
-
-这些数字是一个新的...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s3qy01/very_bullish_for_bat_the_amount_of_ad_campaigns/?score=340&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs3qy01%2Fvery_bullish_for_bat_the_amount_of_ad_campaigns%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs3qy01%2Fvery_bullish_for_bat_the_amount_of_ad_campaigns%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s3qy01/very_bullish_for_bat_the_amount_of_ad_campaigns/</guid><pubDate>Fri, 14 Jan 2022 17:35:11 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;The newest numbers detailing the amount of ad campaigns that are currently running on Brave worldwide are staggering!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Today there are 5525 campaigns effectively running and being seen by the users!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;These number is a new ATH!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/h4fzamv48nb81.png?width=720&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=398e4817bbbf0c7b7e821fa30e710c2930005165&quot;&amp;gt;https://preview.redd.it/h4fzamv48nb81.png?width=720&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=398e4817bbbf0c7b7e821fa30e710c2930005165&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The increase of campaigns is massive: on this day in 2021 there were 1359 campaigns running.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This means a plus of over 300% in one year!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Calculated for half a year, taking the 14th of June 2021 as the day, we see 4085 campaigns.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Which in turn gives us a growth of over 35% in 6 month!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Of course not all the regions have the same amount of ads shown. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;the top 10 regions are as following:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/gsxkcgjg8nb81.jpg?width=1030&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=6d3aacaa3133c0de75773268e33d6ed876b1aead&quot;&amp;gt;https://preview.redd.it/gsxkcgjg8nb81.jpg?width=1030&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=6d3aacaa3133c0de75773268e33d6ed876b1aead&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;To find out how many and what ads are being shown in your region, visit  &amp;lt;a href=&quot;https://sampson.codes/brave/ads/my_region/&quot;&amp;gt;Brave Ads in My Region (sampson.codes)&amp;lt;/a&amp;gt; .&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;To see examples of ads run around the world, visit  &amp;lt;a href=&quot;https://brave.photos/&quot;&amp;gt;Home - Brave browser sponsored image archive&amp;lt;/a&amp;gt; &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Ad campaigns are bought with BAT or the any other currency, which will be exchanged to BAT by Brave. Brave in turn will redistribute the earned BAT as rewards to the users.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The digital ad industry today is worth hundreds of billions, and will grow to a trillion+ dollar industry this decade.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Those numbers are really bullish for the future of Brave and its token BAT, and i feel like the future is really bright for this project!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[r/CryptoCurrency Predictions Tournament ]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s3v6wh/rcryptocurrency_predictions_tournament/?score=2114&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs3v6wh%2Frcryptocurrency_predictions_tournament%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs3v6wh%2Frcryptocurrency_predictions_tournament%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s3v6wh/rcryptocurrency_predictions_tournament/</guid><pubDate>Fri, 14 Jan 2022 16:36:19 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[里约热内卢市长将把市财政的1%投资于比特币]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s3r10q/rio_de_janeiros_mayor_to_invest_1_of_the_citys/?score=540&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs3r10q%2Frio_de_janeiros_mayor_to_invest_1_of_the_citys%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs3r10q%2Frio_de_janeiros_mayor_to_invest_1_of_the_citys%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s3r10q/rio_de_janeiros_mayor_to_invest_1_of_the_citys/</guid><pubDate>Fri, 14 Jan 2022 15:39:55 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+https://t.co/xdYePMtfTj https://t.co/2iMV3wZQ5L]]></title><link>https://crypto.buzzing.cc/tweet/1482052060891815936/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1482052060891815936/</guid><pubDate>Fri, 14 Jan 2022 18:44:23 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
