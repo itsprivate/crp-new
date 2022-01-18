@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Jan 2022 15:22:33 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[据统计，你们中的大多数人的投资组合现在都处于亏损状态，这里列出了一些不那么尴尬的理由，可以告诉人们，而不是说你在加密货币上失去了它。]]></title><description><![CDATA[ 1.  我有酗酒问题（如果你真的有酗酒问题，就更有说服力了
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Jan 2022 16:37:14 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA["#比特币价格压制与B计划 "正在@WhatisMoneyShow上直播！!
+
+加入@100trillionUSD和我，我们将探讨通过衍生品市场压制比特币价格的机制和动机。
+
+https://t.co/9j13H6FFXY]]></title><link>https://crypto.buzzing.cc/tweet/1483462860411965450/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1483462860411965450/</guid><pubDate>Tue, 18 Jan 2022 15:49:18 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[据统计，你们中的大多数人的投资组合现在都处于亏损状态，这里列出了一些不那么尴尬的理由，可以告诉人们，而不是说你在加密货币上失去了它。]]></title><description><![CDATA[ 1.  我有酗酒问题（如果你真的有酗酒问题，就更有说服力了
      如果市场持续下跌，你可能很快就会有）。
  2.  我有毒品问题，但我正在接受帮助。
  3.  我有毒品问题，但我从未得到过帮助。
@@ -631,73 +635,4 @@ i.e private...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCu
 
 每周都有数以千计的人抗议疫苗护照。但媒体不会告诉你。这里有一个提醒。
 
-https://t.co/ym9zDzeTQ7]]></title><link>https://crypto.buzzing.cc/tweet/1482813539094048768/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1482813539094048768/</guid><pubDate>Sun, 16 Jan 2022 20:48:42 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[卡达诺在2022年的11种扩展方式：参数调整、改进、增强和其他创新都将在稳步提高卡达诺的容量&amp; 吞吐量方面发挥其作用。]]></title><description><![CDATA[链上解决方案
-
-区块大小增加
-
-区块越大，它能承载的交易就越多。区块大小是
-最近增加了8KB，达到72KB（增加了12.5%）；进一步的增加将被应用于
-将根据持续的系统监测和整体网络健康状况，进一步增加。
-
-管道化
-
-改善了...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s5bmu2/11_ways_cardano_will_scale_in_2022_parameter/?score=320&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs5bmu2%2F11_ways_cardano_will_scale_in_2022_parameter%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs5bmu2%2F11_ways_cardano_will_scale_in_2022_parameter%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s5bmu2/11_ways_cardano_will_scale_in_2022_parameter/</guid><pubDate>Sun, 16 Jan 2022 20:31:29 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;On-chain solutions&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Block size increase&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The  bigger the block, the more transactions it can carry. Block size was  recently increased by 8KB to 72KB (a 12.5% increase); further increases  will be applied over time based on ongoing system monitoring and overall  network health.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Pipelining&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Improves block  propagation times by coalescing validation and propagation. The goal is  for blocks to be propagated to at least 95% of peers within five seconds  by reducing the ‘dead time’ between blocks (the block propagation  overhead). This provides the headroom to make more aggressive scaling  changes, such as increasing block size/increasing Plutus parameter limits.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Input Endorsers&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Input endorsers  improve block propagation times and throughput by allowing transactions  to be separated into pre-constructed blocks. This improves the  consistency of block propagation times and allows higher transaction  rates.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Memory /CPU parameters for Plutus&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Memory  usage is more efficient across the chain. Specifically, there are  memory improvements in Unspent Transaction Output (UTXO) handling, stake  distribution, live stake distribution and pools, and hash  representation.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Plutus script enhancements&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Even more effective usage of the powerful EUTXO model through smart contract optimization, including: &amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;Reference  inputs (CIP-0031)  – Plutus scripts can inspect transaction inputs  without needing to spend them. This means that it is not necessary to  create UTXOs simply to inspect the information held by an input.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Plutus  Datums (CIP-0032) – Datums can be attached directly to outputs instead  of datum hashes. This simplifies how datums are used, as a user can see  the actual datum rather than having to supply the datum that matches the  given hash.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Script sharing (CIP-0033) – Plutus script  references can be associated with transaction outputs, meaning that they  can be recorded on-chain for subsequent reuse. It will not be necessary  to supply a copy of the script with each transaction, hugely reducing  friction for developers. Reusing scripts in multiple transactions  significantly reduces transaction sizes, improving throughput and  reducing script execution costs.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Node enhancements&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Improvements  will help even distribution of stake and reward computations across the  epochs, thus providing greater headroom for block size increases. Also,  memory usage is now more efficient. Memory compaction reduces RSS  footprint, and memory sharing means we need less data instantiated. Node  version 1.3.3, from January 2022, reduces peak load at critical points,  including the epoch boundary.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;On-disk storage&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;By  storing portions of the protocol state on disk, nodes will need to hold  less in memory, meaning that RAM-constrained systems will be able to  run nodes provided they have sufficient storage, and memory will no  longer be a bottleneck on scalability. This will enable significant  growth in the blockchain state.&amp;lt;/p&amp;gt;
-
-&amp;lt;h2&amp;gt;Off-chain solutions&amp;lt;/h2&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Sidechains&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;A sidechain is a separate blockchain connected to a main blockchain (the  &amp;amp;#39;main&amp;amp;#39; chain, also known as parent chain), through a two-way mechanism  (the &amp;amp;#39;bridge&amp;amp;#39;) that enables tokens and other digital assets from one  chain to be used in another and results returned to the original chain.  Assets can be moved between chains as needed. One single parent chain  can have multiple interoperable sidechains connected to it, which may  operate in completely different ways. EVM sidechains coming to Cardano  include dcSpark’s Milkomeda and IOG’s Mamba. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Hydra&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Introduces  isomorphic state channels to maximize throughput, minimize latency,  incur low to no costs, and greatly reduce storage requirements. Hydra  provides a more efficient means to process transactions off-chain while  using the main-chain ledger as the secure settlement layer.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Off-chain computing&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Offloading  some of the computation, for example with Asynchronous Contract  Execution (ACE)  can drive greater core network efficiency. Transactions  occur outside of the blockchain itself, yet can offer fast, cheap  transactions via a trust model.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Mithril&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;To  achieve greater scalability, you need to address the complexity of  critical operations that depend logarithmically on the number of  participants. Mithril will improve chain synchronization while  maintaining trust. The result? Multi-signature aggregation that is fast  and efficient without compromising security features.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;TL;DR: &amp;lt;a href=&quot;https://ucarecdn.com/ff38dd08-5947-4c52-af32-15c59cdcdcf8/-/format/webp/-/quality/best/-/progressive/yes/&quot;&amp;gt;All this summarized in one pic&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Source: &amp;lt;a href=&quot;https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/&quot;&amp;gt;https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Bonus:  Plutus is basically Haskell which is native smart contract language for the Cardano blockchain. Plutus contracts consist of parts that run on the blockchain  (on-chain code) and parts that run on a user’s machine (off-chain or  client code). Both the on-chain and off-chain code are written in Haskell, and Plutus smart contracts are effectively Haskell programs.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+https://t.co/ym9zDzeTQ7]]></title><link>https://crypto.buzzing.cc/tweet/1482813539094048768/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1482813539094048768/</guid><pubDate>Sun, 16 Jan 2022 20:48:42 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
