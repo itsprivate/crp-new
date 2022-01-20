@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Crypto]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 20 Jan 2022 17:52:20 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[A bear market is a real financial term]]></title><description><![CDATA[Some of you here are so delusional. At least daily I see someone saying some
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Crypto]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 20 Jan 2022 18:35:55 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[CCIP-026 - Increase the time to hide comment scores from 5 to 60 minutes]]></title><description><![CDATA[There is a subreddit setting called "Minutes to hide comment scores" which does
+exactly what it says. The idea behind this setting is to hide comment scores to
+reduce the bandwagon effect [https://en.wikipedia.org/wiki/Bandwagon_effect].
+That is to say, visible comment scores introduce cognitive…]]></description><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/s88hbt/ccip026_increase_the_time_to_hide_comment_scores/?score=309&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs88hbt%2Fccip026_increase_the_time_to_hide_comment_scores%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs88hbt%2Fccip026_increase_the_time_to_hide_comment_scores%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/s88hbt/ccip026_increase_the_time_to_hide_comment_scores/</guid><pubDate>Thu, 20 Jan 2022 17:39:12 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;There is a subreddit setting called &amp;amp;quot;Minutes to hide comment scores&amp;amp;quot; which does exactly what it says.  The idea behind this setting is to hide comment scores to reduce &amp;lt;a href=&quot;https://en.wikipedia.org/wiki/Bandwagon_effect&quot;&amp;gt;the bandwagon effect&amp;lt;/a&amp;gt;.  That is to say, visible comment scores introduce cognitive bias:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Most people are more likely to think a comment is good or bad based on how others have already voted&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;There is also the reverse bandwagon effect where people will intentionally do the opposite of what the popular opinion is&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Sometimes users will think a comment&amp;amp;#39;s score is too high or low and use their vote to correct it.  For example thinking a comment with 200 upvotes is good but not great, so they downvote it even though they thought it was good&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;This kind of bias negatively influences they quality of votes because it considers how everyone else voted instead of just the quality of the comment itself.  Currently this setting is set to 5 minutes, but I&amp;amp;#39;m proposing that it be increased to 60 minutes.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Some additional technical notes:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Comment sorting is unaffected&amp;lt;/strong&amp;gt;, even though the specific scores are not visible&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Your own comment scores are still visible to you&amp;lt;/strong&amp;gt;, this only affects seeing scores on comments by other users&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Comment scores are still visible to mods so work against vote manipulation is unaffected&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;The time to hide scores can always be adjusted again in the future&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;CCMeta post: &amp;lt;a href=&quot;https://www.reddit.com/r/CryptoCurrencyMeta/comments/s45e8f/preproposal_the_time_to_hide_comment_scores/&quot;&amp;gt;https://www.reddit.com/r/CryptoCurrencyMeta/comments/s45e8f/preproposal_the_time_to_hide_comment_scores/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.reddit.com/poll/s88hbt&quot;&amp;gt;View Poll&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I know is silly but I leave here this funny stuff I found on twitter]]></title><link>https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/s8l03j/i_know_is_silly_but_i_leave_here_this_funny_stuff/?score=329&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs8l03j%2Fi_know_is_silly_but_i_leave_here_this_funny_stuff%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs8l03j%2Fi_know_is_silly_but_i_leave_here_this_funny_stuff%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/s8l03j/i_know_is_silly_but_i_leave_here_this_funny_stuff/</guid><pubDate>Thu, 20 Jan 2022 17:39:12 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[A bear market is a real financial term]]></title><description><![CDATA[Some of you here are so delusional. At least daily I see someone saying some
 variation of "it hasn't dipped below -irrelevant support- so its not a bear
 market!"
 
@@ -1142,44 +1167,4 @@ https://t.co/9j13H6FFXY]]></title><link>https://crypto.buzzing.cc/en/tweet/14834
 &amp;lt;li&amp;gt;I brought a new home to live in but I forgot the address of where it is.&amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;I traded it all for magic beans in the hope of a beanstalk growing in my garden and allowing me to find the golden goose (this one is more of a retelling than a lie).&amp;lt;/li&amp;gt;
 &amp;lt;/ol&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA["When Bitcoin goes to 10K, I'll go all in", and other lies you tell yourself]]></title><description><![CDATA[I've seen it many times: Bitcoin is at 60K, people say: I wish I could buy at
-40K! Then it goes to 40K and they say: Oh it's going to 30K. When it goes to
-30K, I'll go all in!
-
-Then it reaches 30K and they hope for 10K.
-
-The opposite also happens, with people saying: When Bitcoin reaches 50K,…]]></description><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/s6ug9m/when_bitcoin_goes_to_10k_ill_go_all_in_and_other/?score=324&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs6ug9m%2Fwhen_bitcoin_goes_to_10k_ill_go_all_in_and_other%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs6ug9m%2Fwhen_bitcoin_goes_to_10k_ill_go_all_in_and_other%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/s6ug9m/when_bitcoin_goes_to_10k_ill_go_all_in_and_other/</guid><pubDate>Tue, 18 Jan 2022 13:39:34 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I&amp;amp;#39;ve seen it many times: Bitcoin is at 60K, people say: I wish I could buy at 40K! Then it goes to 40K and they say: Oh it&amp;amp;#39;s going to 30K. When it goes to 30K, I&amp;amp;#39;ll go all in!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Then it reaches 30K and they hope for 10K.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The opposite also happens, with people saying: When Bitcoin reaches 50K, I&amp;amp;#39;ll take profits. Then it reaches 50K and you wait for 60K to take profits. Then 70K.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The thing is, Bitcoin has been at or below 10K &amp;lt;strong&amp;gt;for a decade&amp;lt;/strong&amp;gt;, why didn&amp;amp;#39;t you go all in then? Maybe 40K is the lowest we ever go, who knows. But if you wanted to buy at 40K when we were at 60K, then buy at 40K.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Many people say: When we get a bear market, then I&amp;amp;#39;ll buy! But it&amp;amp;#39;s kinda like: When it&amp;amp;#39;s 2023, then I&amp;amp;#39;ll start losing weight!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I know there are exceptions and I know some people are very disciplined in their crypto goals. I know 100 people are going to reply to this: &amp;amp;quot;Just DCA and HODL&amp;amp;quot;. Yes, that&amp;amp;#39;s fine, as long as you continue doing that during the bear market, and don&amp;amp;#39;t capitulate then.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;So if you were hoping for 40K when we were at 60K, don&amp;amp;#39;t hope for 20K now, then you&amp;amp;#39;ll never buy.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[ETH fees are too damn high]]></title><description><![CDATA[Yes, this is a great coin and it is a top technology, and maybe ETH will be
-number one but those damn fees..
-
-I say this from the perspective of the average user.
-
-How to explain to a newcomer who wants to buy, say, an ERC-20 token that he has
-to pay hundreds of dollars to perform ordinary…]]></description><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/s6kgk7/eth_fees_are_too_damn_high/?score=328&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs6kgk7%2Feth_fees_are_too_damn_high%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs6kgk7%2Feth_fees_are_too_damn_high%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/s6kgk7/eth_fees_are_too_damn_high/</guid><pubDate>Tue, 18 Jan 2022 11:37:44 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Yes, this is a great coin and it is a top technology, and maybe ETH will be number one but those damn fees..&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I say this from the perspective of the average user.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;How to explain to a newcomer who wants to buy, say, an ERC-20 token that he has to pay hundreds of dollars to perform ordinary transactions. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;And then the newcomer needs to be explained that a fee that can cost him hundreds of dollars can be lost forever if the transaction fails. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Cryptocurrencies should make our finances easier, not harder. And I&amp;amp;#39;m sorry to say this, but I think that with ETH 2.0, the fees will also be incredibly expensive. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;In the real world, people aren’t used to paying that much for everyday transactions. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;How do you even start researching and trading ETH if you are from some country where salary is less than the fee that we need to pay?&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The vision of the crypto future should be cheap, nobody wants to pay a few hundred to enjoy that freedom.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
