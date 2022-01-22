@@ -1,4 +1,197 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 22 Jan 2022 20:33:02 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[每日讨论 - 2022年1月22日 (GMT+0)]]></title><description><![CDATA[欢迎来到每日讨论。在参与之前，请阅读免责声明和规则。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 22 Jan 2022 21:33:39 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[市场从90天的高点下跌了-48%，在此我表列了从这样的事件中恢复过来需要多少个月。]]></title><description><![CDATA[来源：coinbase API。他们只有2016年1月1日开始的数据，所以这是
+我的分析从这里开始。
+
+自2016年以来，这种情况甚至在月度分档中出现了14次。
+
+方法。
+
+ *我计算了滞后的90天最高收盘价，然后计算出
+   多少天和多少个月后才恢复。
+ *...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sa8sug/the_market_has_dropped_48_from_its_90_day_high/?score=868&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsa8sug%2Fthe_market_has_dropped_48_from_its_90_day_high%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsa8sug%2Fthe_market_has_dropped_48_from_its_90_day_high%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sa8sug/the_market_has_dropped_48_from_its_90_day_high/</guid><pubDate>Sat, 22 Jan 2022 20:33:45 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;source:&amp;lt;/em&amp;gt; coinbase API. They only have data starting 2016, Jan 1st so this is where I start my analysis.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;since 2016 this even has occurred 14 times in monthly bins.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;method&amp;lt;/em&amp;gt;:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;I calculated the lagging 90 day high closing price and then figure out how many days and months it took to recover.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Currently bitcoin is ~ 48% of the 90 day high so I filter by events this has occur by month.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I then figure out how many days or months it took to recover &amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;had you bought at the absolute highest&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;results&amp;lt;/em&amp;gt;:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;table&amp;gt;&amp;lt;thead&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;date&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;close&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;BTC.USD.volume&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;max_90&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;pct_change&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;recover_days&amp;lt;/th&amp;gt;
+&amp;lt;th align=&quot;left&quot;&amp;gt;recover_months&amp;lt;/th&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/thead&amp;gt;&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2018-01&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;9014.23&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;38171.97&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;19650.01&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-54.1&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;1033&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;34.4&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2018-02&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;6905.19&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;59578.6982&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;19650.01&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-64.9&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;1029&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;34.3&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2018-03&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;6816.01&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;15434.5228&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;17098.99&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-60.1&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;961&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;32&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2018-04&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;6619.01&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;10756.5497&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;17098.99&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-61.3&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;956&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;31.9&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2018-06&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;5851.66&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;7769.81165&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;9800&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-40.3&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;358&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;11.9&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2018-11&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;3731.32&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;36455.2237&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;7360&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-49.3&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;168&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;5.6&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2018-12&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;3183&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;9343.2724&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;6750&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-52.8&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;147&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;4.9&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2019-01&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;3397.42&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;8709.6973&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;6503.12&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-47.8&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;102&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;3.4&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2019-02&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;3409.57&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;6032.81895&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;6503.12&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-47.6&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;96&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;3.2&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2020-03&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;4857.1&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;113902.203&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;10371.33&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-53.2&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;137&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;4.6&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2021-05&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;34627.82&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;27999.1507&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;63588.22&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-45.5&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;143&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;4.8&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2021-06&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;31594.63&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;26505.1927&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;63588.22&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-50.3&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;116&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;3.9&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2021-07&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;29796.16&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;18114.1529&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;58958.05&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-49.5&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;87&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2.9&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;2022-01&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;35101.33&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;21310.7209&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;67554.84&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt;-48&amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt; &amp;lt;/td&amp;gt;
+&amp;lt;td align=&quot;left&quot;&amp;gt; &amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;&amp;lt;/table&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So as you can see, historically this has occurred 14 times since 2016.  In 2018 was the worse, because just when you thought you bought at the absolute lowest, the ATH actually shifts and every month it kept on dropping.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Median&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;the median months it took to recover is 4.9 months or  147 days. The lowest it dropped was 64.9% on 2018, Feb.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here is a histogram.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/7ul6wj37z9d81.png?width=600&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=640ecac37cc7b325ffa979954eac0cbbd38b8fc0&quot;&amp;gt;https://preview.redd.it/7ul6wj37z9d81.png?width=600&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=640ecac37cc7b325ffa979954eac0cbbd38b8fc0&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;TLDR: buckle up; historically it takes &amp;lt;strong&amp;gt;about 4.9 months or 147 days to recover from a drop of  -40-64%&amp;lt;/strong&amp;gt;. &amp;lt;strong&amp;gt;The shortest it took was 2.9 months and the longest was 34.4 months to recover&amp;lt;/strong&amp;gt;.  The lowest it ever drop was on Feb 2018 about 64.9% and that took 1029 days to recover. The good news is that it will &amp;lt;em&amp;gt;likely recover again&amp;lt;/em&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;edit&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;: A few comments below observed that the recovery phase seems to be getting faster so plotted this this as well.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/uraeqpwzgad81.png?width=500&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=8998cce4073f2d0178fe89bee89534bd2dd598ef&quot;&amp;gt;recover time&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[每日讨论 - 2022年1月22日 (GMT+0)]]></title><description><![CDATA[欢迎来到每日讨论。在参与之前，请阅读免责声明和规则。
 参与。
 
 --------------------------------------------------------------------------------
@@ -630,22 +823,4 @@ I can&amp;amp;#39;t vouch for other communities cause I just lurk around in this
 DCA策略4了。]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s9algs/bought_at_60k_and_panicking/?score=302&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs9algs%2Fbought_at_60k_and_panicking%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fs9algs%2Fbought_at_60k_and_panicking%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/s9algs/bought_at_60k_and_panicking/</guid><pubDate>Fri, 21 Jan 2022 16:50:48 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;ok so I was very new to crypto and a victim of thanksgiving dinner,but I need help should I sell or hold.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;ok guys I&amp;amp;#39;ll HODL but I cant afford to buy a lot more rn,ill just be using the DCA strategy 4 now.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[人们对长期投资失去信心的速度如此之快，真是不可思议。]]></title><description><![CDATA[任何在市场上赚过钱的投资者都知道，没有什么是重要的，只有时间。
-除了时间。比特币随着时间的推移呈上升趋势，这是一个事实。因此，在一年
-我们就会对这些价格嗤之以鼻。
-
-我们都说我们是长期投资，但我认为人们不知道什么是长
-长期投资...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s968ad/its_crazy_how_fast_people_lose_faith_in_a_long/?score=368&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs968ad%2Fits_crazy_how_fast_people_lose_faith_in_a_long%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fs968ad%2Fits_crazy_how_fast_people_lose_faith_in_a_long%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/s968ad/its_crazy_how_fast_people_lose_faith_in_a_long/</guid><pubDate>Fri, 21 Jan 2022 16:50:48 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Any investor that’s been in the market and made money knows that nothing matters but time. It is a fact that bitcoin trends higher with time. Therefore in a year or so we will be laughing at these prices. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We all say we’re long term investing, but I don’t think people know what a long term investment means. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This means no matter what happens, YOU DO NOT SELL. Your scope is 5-10 years maybe even 3 but that’s what a long term investment is. You don’t just start selling at a loss at the first sight of trouble. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Bitcoin trends up with time. If you want to win you must HODL and buy more. These are the times when millionaires are made. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;You will be rewarded for buying into fear. This is not hopium, this is a fact. Throughout history whenever markets have crashed, the ones that had money to buy the crash always came out on top. Nothing is lost until you sell.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;As much as this sub preaches buy high sell low. Profits are taken at the top, not at the bottom. Bitcoin will survive and recover. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;However the people who bought alts that have no purpose but hype at ATH’s are in for a rude awakening.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
