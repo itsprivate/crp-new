@@ -1,4 +1,136 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密貨幣國外熱門討論]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Jan 2022 18:43:49 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[羅克薩納-瓦萊(比特幣海灘)]]></title><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/sd5jin/roxana_valle_bitcoin_beach/?score=343&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsd5jin%2Froxana_valle_bitcoin_beach%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsd5jin%2Froxana_valle_bitcoin_beach%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/sd5jin/roxana_valle_bitcoin_beach/</guid><pubDate>Wed, 26 Jan 2022 17:46:10 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[醒醒吧，人們!  
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密貨幣國外熱門討論]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Jan 2022 20:05:31 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[只想微笑]]></title><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/sd7qwe/just_wanna_smile/?score=476&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsd7qwe%2Fjust_wanna_smile%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsd7qwe%2Fjust_wanna_smile%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/sd7qwe/just_wanna_smile/</guid><pubDate>Wed, 26 Jan 2022 18:43:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[關於如何閱讀白皮書的分步驟指南]]></title><description><![CDATA[我們都知道，DYOR的最佳位置是在項目的白皮書中，但我們如何
+我們究竟如何閱讀它？我們需要有計算機科學背景嗎？不需要
+所以我決定創建一個關於如何閱讀加密貨幣的分步指南。
+白皮書的步驟指南，作爲一個普通的加密貨幣投資者。
+
+首先，...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/scyp7b/stepbystep_guide_on_how_to_read_whitepapers/?score=303&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fscyp7b%2Fstepbystep_guide_on_how_to_read_whitepapers%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fscyp7b%2Fstepbystep_guide_on_how_to_read_whitepapers%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/scyp7b/stepbystep_guide_on_how_to_read_whitepapers/</guid><pubDate>Wed, 26 Jan 2022 18:43:23 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;We all know that the best place to DYOR is in the project&amp;amp;#39;s whitepaper, but how do we actually read it ? Do we need to have a computer science background ? Not at all.So i&amp;amp;#39;ve decided to create a step-by-step guide on how to read crypto whitepapers being an average crypto investors.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;First off, you&amp;amp;#39;ll need to know a few basic crypto concepts - if you don&amp;amp;#39;t, learn about them first, which are:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Blockchain&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Consensus mechanism
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Proof of Work&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Proof of Stake&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Nodes&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Mempool&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Soft-fork and hard-fork&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Governance&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Smart contracts&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Byzantine general problem
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://en.wikipedia.org/wiki/Byzantine_fault&quot;&amp;gt;https://en.wikipedia.org/wiki/Byzantine_fault&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;If you know what all of these concepts are, we shall proceed.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;m going to link in here a few good whitepapers that you guys can check to get an example of how a whitepaper is supposed to be:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://bitcoin.org/bitcoin.pdf&quot;&amp;gt;https://bitcoin.org/bitcoin.pdf&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://solana.com/solana-whitepaper.pdf&quot;&amp;gt;https://solana.com/solana-whitepaper.pdf&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://whitepaper.io/document/581/cardano-whitepaper&quot;&amp;gt;https://whitepaper.io/document/581/cardano-whitepaper&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://whitepaper.io/document/587/terra-whitepaper&quot;&amp;gt;https://whitepaper.io/document/587/terra-whitepaper&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://whitepaper.io/document/582/cosmos-whitepaper&quot;&amp;gt;https://whitepaper.io/document/582/cosmos-whitepaper&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://whitepaper.io/document/1/ripple-whitepaper&quot;&amp;gt;https://whitepaper.io/document/1/ripple-whitepaper&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;*I must say that there are bad projects with good whitepapers. I&amp;amp;#39;m not shilling any of these blockchains. I solely listed their whitepapers because they are well-written and solid.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;*As you may notice. &amp;lt;a href=&quot;https://whitepaper.io&quot;&amp;gt;whitepaper.io&amp;lt;/a&amp;gt; is a good source to research them.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Now, let me present a small step-by-step guide to analyze whitepapers! I&amp;amp;#39;m also going to be posting screenshots of the bitcoin whitepaper as examples.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;1) Why the project was created ?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Basic starting point. What is the motivation behind the creation ? What problem does it aim to solve ? How different is it from our current solutions ?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/xeuoij5x3zd81.png?width=532&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=67b69cff191f3786122db47291ab87a9706abf49&quot;&amp;gt;https://preview.redd.it/xeuoij5x3zd81.png?width=532&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=67b69cff191f3786122db47291ab87a9706abf49&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;2) What real world utility does it have ?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Nowadays there are a bunch of crypto projects that are a solution looking for a problem. Not everything is supposed to be in the blockchain, guys. Not everything will benefit for being in the blockchain.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/7na6llmy3zd81.png?width=534&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=fadfc64d72a6f84fd8859572b20ccff37bb458e3&quot;&amp;gt;https://preview.redd.it/7na6llmy3zd81.png?width=534&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=fadfc64d72a6f84fd8859572b20ccff37bb458e3&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;3) How does it achieve consensus in the network ?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This is a very important point. Its not just about being proof-of-stake, proof-of-work, proof-of-whatever. To achieve consensus means solving the byzantine general problem somehow - it means how the different nodes on a network enter in a consensus if a transaction is true or false without direct communicating with each other. That&amp;amp;#39;s what make it possible to create decentralization.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/oz5ignnz3zd81.png?width=433&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=db477d007345b9c4ee349c6a8eaa9b1dbbc89a66&quot;&amp;gt;https://preview.redd.it/oz5ignnz3zd81.png?width=433&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=db477d007345b9c4ee349c6a8eaa9b1dbbc89a66&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;4) How was the initial coins distributed ?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;In bitcoin, obviously there was no pre-mined coins. The first coin ever mined was by Satoshi Nakamoto himself. But on some blockchains, there are initial tokens distributions through pre-mined coins, specially in proof-of-stake ones. It doesn&amp;amp;#39;t make it bad, it&amp;amp;#39;s just different and you should look for it in the whitepaper or other sources. I would consider anything over 10% to devs/venture capitalists a bad project.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/5lo0pes14zd81.png?width=545&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=faf2b28046b9c352d9dab01cce97f41260a64105&quot;&amp;gt;https://preview.redd.it/5lo0pes14zd81.png?width=545&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=faf2b28046b9c352d9dab01cce97f41260a64105&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;5) How does it actually work ?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Many whitepapers are going to have a simplificed mechanism of how the network actually functions, like a summary/graph. If not, you can usually understand it just by reading it. You don&amp;amp;#39;t need to udnerstand everything and all the technicalities, just the main picture - just like it is in the bitcoin whitepaper.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/otq2pyl24zd81.png?width=535&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=bda6e9cb4a880ea6de040839e1fb3b9a3d572a62&quot;&amp;gt;https://preview.redd.it/otq2pyl24zd81.png?width=535&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=bda6e9cb4a880ea6de040839e1fb3b9a3d572a62&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;6) What are the potential weaknesses of the network and how they are adressed ?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Not all whitepapers are going to have this one, but I highly value when its present, since it shows that the devs are actually worried about the network security and not only interested in marketing/profit.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/cwzo8wd34zd81.png?width=541&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=5ea3f4fbe6d42d27302b1e066a18a29fd507c05d&quot;&amp;gt;https://preview.redd.it/cwzo8wd34zd81.png?width=541&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=5ea3f4fbe6d42d27302b1e066a18a29fd507c05d&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;7) Does it have some math stuff you don&amp;amp;#39;t understand ?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Great, now you can ask around at reddit/telegram/etc if this stuff is legit to people that actually understand it! No need to stress over it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/05tdubk44zd81.png?width=451&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=6df05caca93e55cf569d1a34b3e08c93822dacdd&quot;&amp;gt;https://preview.redd.it/05tdubk44zd81.png?width=451&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=6df05caca93e55cf569d1a34b3e08c93822dacdd&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;And that&amp;amp;#39;s it!&amp;lt;/strong&amp;gt; That&amp;amp;#39;s basically the main things you should be looking for in the whitepaper. Of course, there are going to be &amp;lt;strong&amp;gt;much more&amp;lt;/strong&amp;gt; to read and analyze - this is definitely an oversimplification, only meant to work as a starting point.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I must say that there&amp;amp;#39;s so many more important things that aren&amp;amp;#39;t exactly in the whitepaper most of the time. It&amp;amp;#39;s extremely important to consider, for instance, the tokenomics and the background of the dev team, amongst other things.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;*Sorry for any english mistakes, it&amp;amp;#39;s not my first language.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[美國國會。然而，另一項綜合法案已經在國會提出，其中包含了試圖禁止加密貨幣交易、損害隱私和憲法權利的條款。我們必須再次對抗這些法律。]]></title><description><![CDATA[在基礎設施法案的失敗之後，美國的反加密法被提出來了。
+一個必須通過的法案之後，現在一個新的美國競爭法案剛剛提交給國會。
+國會。該法案從表面上看是爲了使美國在與中國的競爭中更具競爭力。
+中國。
+
+但在其2900頁的深層內容中，該法案包含...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sdam8b/us_congress_yet_another_omnibus_bill_has_been/?score=356&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsdam8b%2Fus_congress_yet_another_omnibus_bill_has_been%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsdam8b%2Fus_congress_yet_another_omnibus_bill_has_been%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sdam8b/us_congress_yet_another_omnibus_bill_has_been/</guid><pubDate>Wed, 26 Jan 2022 18:43:23 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;After the Infrastructure bill debacle where anti-crypto laws were introduced in a must pass bill, now a new America COMPETES act has just been filed in Congress. This Bill on the surface seeks to make US more competitive against China. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;But hidden deep in its 2900 pages, this Bill contains provisions that give the Treasury unlimited powers to prohibit and block crypto exchanges. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Currently, the Treasury cannot take unilateral decisions to block crypto transactions without a formal notice and a public process, and give a 120 day period to challenge any decision. However, under the new Bill, the Treasury can take decisions without any formal process, based solely on its own apprehensions. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The new bill allows the Treasury headed by Yellen to block transmission of funds if the Treasury deems so. It can quickly order blocking any transaction or exchange without any review process or administrative controls. This gives the Treasury unchecked control over all crypto exchanges and transactions. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This language was already included in a bill from last year, however there was opposition and it was removed. However yet again this has been sneaked into a must pass bill. The very idea of sneaking in such clauses in 2900 pages of incomprehensible regulations stinks. How are even the legislators going to read any of this? &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The new bill: &amp;lt;a href=&quot;https://rules.house.gov/sites/democrats.rules.house.gov/files/BILLS-117HR4521RH-RCP117-31.pdf&quot;&amp;gt;https://rules.house.gov/sites/democrats.rules.house.gov/files/BILLS-117HR4521RH-RCP117-31.pdf&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Coincenter&amp;amp;#39;s legal arguments: &amp;lt;a href=&quot;https://www.coincenter.org/new-bill-would-hand-treasury-blank-check-to-ban-crypto-at-exchanges/&quot;&amp;gt;https://www.coincenter.org/new-bill-would-hand-treasury-blank-check-to-ban-crypto-at-exchanges/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[羅克薩納-瓦萊(比特幣海灘)]]></title><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/sd5jin/roxana_valle_bitcoin_beach/?score=343&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsd5jin%2Froxana_valle_bitcoin_beach%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsd5jin%2Froxana_valle_bitcoin_beach%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/sd5jin/roxana_valle_bitcoin_beach/</guid><pubDate>Wed, 26 Jan 2022 17:46:10 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[醒醒吧，人們!  
 
 無論你想不想跑，我們都在比賽中... https://t.co/UvOXlL6HiT]]></title><link>https://crypto.buzzing.cc/zh-Hant/tweet/1486364036044406785/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/tweet/1486364036044406785/</guid><pubDate>Wed, 26 Jan 2022 16:42:51 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[ARK報告：到2030年比特幣達到100萬美元，以太坊達到18萬美元]]></title><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sd7leh/bitcoin_to_1m_ethereum_to_180000_by_2030_ark/?score=457&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsd7leh%2Fbitcoin_to_1m_ethereum_to_180000_by_2030_ark%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsd7leh%2Fbitcoin_to_1m_ethereum_to_180000_by_2030_ark%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sd7leh/bitcoin_to_1m_ethereum_to_180000_by_2030_ark/</guid><pubDate>Wed, 26 Jan 2022 16:42:34 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[薩爾瓦多持有的BTC儲備不到2%，他們持有的黃金比BTC更多。人們正在散佈錯誤的說法，說他們不顧一切地用人們的錢進行賭博。2%的分配是一個適當的風險：回報。甚至富達公司在其旗艦平衡基金中也分配了2%的BTC。]]></title><description><![CDATA[這裏有很多人一直在散佈薩爾瓦多在 "賭博 "的說法。
 不計後果地 "用人們的儲蓄和其他東西賭博。
@@ -442,22 +574,4 @@ Or is it another reason which I missed? Like annoying fan base?&amp;lt;/p&amp;gt
 以在熊市中購買，但期待着工作和...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sbsle6/anyone_else_not_really_scared/?score=469&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsbsle6%2Fanyone_else_not_really_scared%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsbsle6%2Fanyone_else_not_really_scared%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sbsle6/anyone_else_not_really_scared/</guid><pubDate>Mon, 24 Jan 2022 21:35:00 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Don’t get me wrong, I’m not jumping with joy either, but I was shitting myself during the 2018, March 2020, and May 2021 crashes while pretending to be okay… This time I don’t really care. I’m a little upset I didn’t set aside more cash to buy in a bear market, but looking forward to working and investing as much as I can if we go really low. &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I’m not happy we’re going down but I’m also not shitting myself, just kind of whatever about it. If we go up from here, great 👍 I’ll sell some. If we go down from here, fuckit I’ll buy some.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[比特幣跌破400美元 - 比特幣跌破4000美元 - 比特幣跌破4000美元 &amp; 比特幣將跌破40000美元 🚀]]></title><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/sbrcjb/bitcoin_falls_below_400_bitcoin_falls_below_4000/?score=369&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsbrcjb%2Fbitcoin_falls_below_400_bitcoin_falls_below_4000%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsbrcjb%2Fbitcoin_falls_below_400_bitcoin_falls_below_4000%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/sbrcjb/bitcoin_falls_below_400_bitcoin_falls_below_4000/</guid><pubDate>Mon, 24 Jan 2022 20:40:04 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[索拉納網絡再次遭遇網絡中斷。DeFi用戶付出代價]]></title><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sbbb3t/solana_network_suffers_yet_another_network_outage/?score=304&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsbbb3t%2Fsolana_network_suffers_yet_another_network_outage%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsbbb3t%2Fsolana_network_suffers_yet_another_network_outage%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sbbb3t/solana_network_suffers_yet_another_network_outage/</guid><pubDate>Mon, 24 Jan 2022 19:38:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[你應該始終保存一定數量的錢，併爲市場價格下跌時的這些情況保留。]]></title><description><![CDATA[而我沒有這樣做，所以不要像我一樣。
-
-儘管我以前說過，儘管我現在已經寫了，儘管我在過去5個月裏一直對自己說
-儘管我在過去5個月裏一直對自己說，貪婪已經完成了它的使命。
-我沒有爲這些情況存下一美元、一歐元或任何類似的東西。
-情況。
-
-I...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sbkn5y/you_should_always_save_a_certain_amount_of_money/?score=320&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsbkn5y%2Fyou_should_always_save_a_certain_amount_of_money%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsbkn5y%2Fyou_should_always_save_a_certain_amount_of_money%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sbkn5y/you_should_always_save_a_certain_amount_of_money/</guid><pubDate>Mon, 24 Jan 2022 19:38:16 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;And I did not do that, so don&amp;amp;#39;t be like me.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Even though I said it before and even though I have written it now and even though I have been saying it to myself for the last 5 months greed has done its thing and I have not saved a single dollar, euro or anything like that for these situations.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I was in profit with a couple of coins and I was telling myself that I should get a few hundreds there, few from other coin  and just keep it in fiat or stablecoin or whatever, just save it for a dip or crash, nothing more, nothing less.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Of course, I always invested using DCA tactics and I will keep doing that, but I thought I should have a certain amount of money for a really big dip or crash and don&amp;amp;#39;t touch it untill it happens.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Anyway, &amp;lt;strong&amp;gt;don&amp;amp;#39;t be like me&amp;lt;/strong&amp;gt;, keep some money in case of a drop, crash. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This is the time when people are making money, investing and waiting for prices to climb up again.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
