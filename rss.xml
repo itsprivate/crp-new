@@ -1,4 +1,187 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 10 Feb 2022 04:40:35 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[1997年的互联网用户：1.3亿。今天的BTC用户。130M]]></title><description><![CDATA[1997年的互联网用户：1.3亿。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 10 Feb 2022 07:27:20 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[研究表明，美国人更喜欢加密货币而不是传统的储蓄账户]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sobj4s/americans_prefer_crypto_over_a_traditional/?score=304&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsobj4s%2Famericans_prefer_crypto_over_a_traditional%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsobj4s%2Famericans_prefer_crypto_over_a_traditional%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sobj4s/americans_prefer_crypto_over_a_traditional/</guid><pubDate>Thu, 10 Feb 2022 06:35:05 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[在加密货币和稳定币上赚取利息：从初级到高级指南，DeFi，LP，赌注，借贷]]></title><description><![CDATA[在加密货币上产生收益是一件繁荣的事情。有很多方法可以提高你的
+收益，这包括借贷、押注、提供流动性等。你可以通过
+用CeFi和DeFi。这是一个最新的尝试，为初学者提供指南。
+但即使是有经验的用户也会发现一些有用的东西......]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/soiu05/earn_interest_on_crypto_and_stablecoins_begginer/?score=303&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsoiu05%2Fearn_interest_on_crypto_and_stablecoins_begginer%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsoiu05%2Fearn_interest_on_crypto_and_stablecoins_begginer%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/soiu05/earn_interest_on_crypto_and_stablecoins_begginer/</guid><pubDate>Thu, 10 Feb 2022 06:35:05 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Generating yield on crypto is a booming thing. There are many ways to boost your gains, this includes lending, staking, liquidity providing, etc. You can do this with CeFi and DeFi. This is an updated attempt to provide guide for begginers, but even experieneced user might find some useful tips.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;First let get some terms right:&amp;lt;/strong&amp;gt;&amp;lt;br/&amp;gt;
+&amp;lt;em&amp;gt;Staking&amp;lt;/em&amp;gt; - refers to generating income by block generation on Proof of Stake (PoS) blockchains. The term is heavily misused everywhere, so nowadays it can mean anything from staking to liquidity providing&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Lending&amp;lt;/em&amp;gt; - you lend your crypto and get interest. Counterparty does anything it want with it and hopefully pays back some day.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Liquidity providing (LP)&amp;lt;/em&amp;gt; - you provide two (sometimes even more) cryptocurrencies to a DEX (decentralized exchange), so people can trade. You get your share of trading fees.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;CeFi&amp;lt;/em&amp;gt; - centralized companies, you can lend them your coins, they pay you interest.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;DeFi&amp;lt;/em&amp;gt; - decentralized (well, at least in theory) applications like DEXes, lending apps etc&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Risks&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;There are obviously risks that come with all this, so beware. CeFi can get hacked, can scam you, can bankrupt. DeFi can get hacked, can scam you and its happening a lot. With staking you can get slashed (happens rarely), but if you delegate your funds to a validator, he can misbehave (depends on specific chain what he can or cant do). When doing LP, you face impermanent loss, in addition to all the DeFi risks.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;How to get yield&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Now lets get to generating some money, starting from the simplest options.&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;CeFi&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Probably easiest thing to do is to lend your coins to a big CeFi lender, like Celsius. They have been around for a while, have $20B in assets under management and among CeFi its as safe as it gets. But their rates are somewhat lower than what competitors can pay you. Rates for different coins are a lot different and every CeFi lender has different rates for the coin, so you can optimize by using several CeFi. When deciding between platforms these are important things to consider: rates, security, jurisdiction, withdrawal fees, how customer support works. Also not every lender will be available in your country.&amp;lt;br/&amp;gt;
+Where to find best rates:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://coinlenders.net/&quot;&amp;gt;https://coinlenders.net&amp;lt;/a&amp;gt; - this a is site i put together myself, you can search for rates among several CeFi and DeFi lending platforms. Just select a coin and see what your options are.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;Note that most of the CeFi platforms have tiered system, meaning you can get best rate on limited amount - if that affects you, consider splitting funds between multiple platforms to get best value. It also helps with diversification.&amp;lt;br/&amp;gt;
+StakingIf you have Proof of Stake coins, than very likely staking will be safest option with great return. Many CeFi providers will just stake the coin for you and take their cut for doing this, so consider doing it yourself.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Typical yield for stablecoins is 10-12%, 5-6% on bitcoin and ether.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;There are services that promise a way bigger yield than this, but i don&amp;amp;#39;t find them trustworthy enough for sharing. But just in case you want to gamble, know that if you look, you can find yields like 15-30% on btc - but dont be suprised if you end up with nothing...&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;DeFi&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Moving to DeFi. First of all try to eliminate unnecessary risks by obtaining HW wallet. Ledger or Trezor. Chose wisely according to the chains you wanna use, not all chains are supported. If possible, go for the Nano X or Model T, as these support all the modern stuff. Learn to use Metamask with you HW wallet, it will work well for all the EVM chains.&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;DeFi lending&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Just like CeFi, you can just lend you coin with some lending protocol like AAVE, Compound etc. Most of the DeFi protocols issue its own token, and sometimes they will give some as incentives to lenders, borrowers or liquidity providers. This is additional yield, sometimes these rewards are locked for some time, so there is a risk of the incentive token losing lot of value before you can sell. Interest rates are usually adjusted to current market situation and change a lot, so you need to monitor it.&amp;lt;br/&amp;gt;
+Where to find good rates?&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://coinlenders.net/defi-lending&quot;&amp;gt;https://coinlenders.net/defi-lending&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://coindix.com/?kind=single&quot;&amp;gt;https://coindix.com/?kind=single&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;h1&amp;gt;DeFi - liquidity providing&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Liquidity providing is another great way to generate yield. You provide some liquidity to a DEX, in return you get fees and sometimes also incentive tokens. Usually you need to provide two assets in 50:50 ratio, which makes it more complicated. Understand, that by providing liquidity you are basically putting you assets for sale and you no longer have direct exposure to their price, so if the price in the pair changes, you will find that you own different amount of tokens and always, you will own more of the worse one.&amp;lt;br/&amp;gt;
+This is called impermanent loss, but there is nothing really impermanent about it, its quite normal loss. To avoid impermanent loss you can chose a pool with currencies of equal or correlated value, like USDC-USDT. Also note that due to the impermanent loss, if one token loses 100% of value, you lose everything in the pool not just half - because you will be left with with 100% of the worthless one, due to arbitrage. Sometimes with the LP pools you will see ridiculous APYs like 1000000%, that does not mean you are getting rich. The reason for these crazy APYs is usually one of these:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;its a new platform and it will go down quickly as more liquidity is added&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;You need to but hyperinflating token which will lose a lot of value over time, negating the gains&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Its very unsecure/untrustworthy platform with high risk of getting robbed&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;Where to find the best pools? Here are some resources to help:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://coindix.com/&quot;&amp;gt;https://coindix.com&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://kingdata.com/&quot;&amp;gt;https://kingdata.com&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://app.apy.vision/liquidity-pools&quot;&amp;gt;https://app.apy.vision/liquidity-pools&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;How to handle incentive tokens/rewards&amp;lt;/strong&amp;gt;&amp;lt;br/&amp;gt;
+You usually will want to sell it and add to your lending/LP positions to get compounding effects. These incentive tokens are normally very inflationary and are losing value quickly, especially when the protocol is new. Claiming the rewards and swapping it on DEX are transactions which can cost you tx fees, so if this is on expensive chain like Ethereum, this is only profitable for whales basically. Solution is to use automatic compounders, like Autofarm, more on this later. When the reward is locked for some time, it may go down a lot during this period, and your yield will be smaller than expected. Be sure to include this in your risk assessment.&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;Advanced strategies&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;When you get familiar with DeFi, you might want to try some advanced stuff, combining multiple protocols together to boost your yields even further. These come with more risk and usually involve some kind of leverage, so be careful. There are plenty of options, lets check some usual or popular options.Some of these strategies:  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Recursive lending&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This is when you lend your asset to a DeFi protocol and borrow it right back, then supply it into the same protocol. You can do the loop several time until limit is reached, the limit is a function of collateral factor. So lets say you deposit $1k and collateral factor is 80%, you can max you position to 1/(1-CF), so to $5k deposit and $4k borrow position. There will be a lot of transactions doing this, so you need cheap chain or big deposit to be worthy. This strategy is profitable if deposit interest is bigger than borrow interest, which is possible when incentive token rewards are high. But you will need to do constant compounding to avoid liquidation (without it your debt grows). You need to monitor the incentive token price and the APYs, so you can recognize when its no longer profitable.&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://www.tranquil.finance/&quot;&amp;gt;https://www.tranquil.finance/&amp;lt;/a&amp;gt; is one place this is possible at this moment&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Lend and borrow, then put into LP&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Some protocols do not allow recursive lending, you can maybe circumvent this with multiple accounts, or you can do something else, like deposit USDT, borrow USDC, sell half of the USDC for USDT and put it in LP pool. Again, you need high incentive token rewards to make it profitable.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Automated compounding&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;As compounding on some platforms is costly due to blockchain fees, solution is to use automated compounder, like Autofarm, which does all the work for you in optimal way. You add some risk by doing this, if the auto compounding protocol gets compromised, you also lose your deposit.Examples:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Autofarm: &amp;lt;a href=&quot;https://autofarm.network/&quot;&amp;gt;https://autofarm.network/&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Beefy: &amp;lt;a href=&quot;https://beefy.finance/&quot;&amp;gt;https://beefy.finance/&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Leveraged yield farming&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Basically you provide liquidity, while borrowing additional money to get more yield. You pay interest to lenders, but you earn more of the incentive tokens and fees. You put your money as collateral. Examples: &amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Alpaca: &amp;lt;a href=&quot;https://app.alpacafinance.org/farm&quot;&amp;gt;https://app.alpacafinance.org/farm&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Tulip: &amp;lt;a href=&quot;https://tulip.garden/leverage&quot;&amp;gt;https://tulip.garden/leverage&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Anchor+Mirror&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Anchor protocol is one of the most favorite places to earn interest on stablecoins, with stable 19.5% its a no brainer. But you can get more when combining with Mirror protocol. This is covered in depth in many articles, so i am not going to repeat it: just google Anchor Mirror delta neutral strategy.&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://www.anchorprotocol.com/&quot;&amp;gt;https://www.anchorprotocol.com/&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://mirrorprotocol.app&quot;&amp;gt;https://mirrorprotocol.app&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Anchor+MIM leverage&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Another thing people have been doing is basically leveraging your position. You borrow MIM against your aUST tokens (representing your deposit), sell MIM for UST, deposit again. I have never done this though, &amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://www.anchorprotocol.com/&quot;&amp;gt;https://www.anchorprotocol.com/&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Nexus&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Next generation of these combined strategies is automated. Nexus Protocol is a great example: you deposit LUNA or ETH(PoS version) to nexus, it uses it as collateral in Anchor to borrow UST, deposits the UST to Anchor for additional yield, it monitors and maintains your LTV to ensure you are not liquidated, sell you profits for LUNA/ETH and it results in safer and higher yield. &amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Check it out: &amp;lt;a href=&quot;https://nexusprotocol.app/&quot;&amp;gt;https://nexusprotocol.app/&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;h1&amp;gt;Moving funds between chains&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;If you are going the DeFi way, you may need to move funds between chains a lot. Especially valid for stablecoins and WBTC. Some tips to do this effectively:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Register on exchanges which support withdrawals and depostits to multiple chains: Binance, Bitfinex, Crypto. com - you can deposit with one chain, withdraw with other, usually paying some withdrawal fees&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;For swapping one stablecoin for another, use Binance rather than DEX, as fees are way lower. (if low cost is a priority, understandably for some of you priorites might be different, or you dont have binance available etc.)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Learn how to use multichain router: &amp;lt;a href=&quot;https://app.multichain.org/#/router&quot;&amp;gt;https://app.multichain.org/#/router&amp;lt;/a&amp;gt; for cheap cross chain transfers&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;For larger amounts, avoid services which charge percentual fees&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Swapping to one crypto and than back for cross chain transafers is sometimes possible, but usually not very cheap and might trigger taxable event. Sometimes it might be only option though.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Ethereum bridges are usually the most expensive way to do this, unless you are handling very large amounts&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Some additional tips:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;If you just starting with few hundreds dollars, don&amp;amp;#39;t bother with DeFi. You will get crushed by blockchain fees. Use some CeFi lender with free withdrawals to accumulate, when you have more, you can start with DeFi. Also these CeFis will often give you nice sign-up bonuses, which will probably be worth a lot more than the interest, so be sure to get it. You can even jump between several CeFis to collect more of it. If still want to do DeFi, use a cheap chain. Harmony and Solana come to mind. Avoid Ethereum.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Don&amp;amp;#39;t get attached to a specific chain, good opportunities appear on different chains every time, it does not make sense to limit yourself to one favorite. Of course, if you are hodling SOL token, you will probably find best opportunities on Solana network, but with universal assets like stablecoins or BTC, it can be anywhere.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Always monitor your gains. If something doesn&amp;amp;#39;t add up, investigate and be prepared to move your funds.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Depending on your jurisdiction, you might have to pay taxes on your lending/staking/LP gains. &amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;My favorite CeFi products:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Hodlnaut.com&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Ledn.io&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Celsius&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;FTX&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Less known, but very promising: Vauld&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;My favorite DeFi products:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Anchor Protocol - note that Anchor Yield reserve is bleeding rapidly, its possible that yield will go down. &amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Tranquil.finance on Harmony (+Mimas clone from the same team on Cronos)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;TraderJoe on Avalanche&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Sovryn on RSK&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Note: this is an updated post from January, update includes: some more strategies a tips, more specific examples. Added cross-chain transfers tips.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[实际上我在想，也许Facebook/Meta会这样做。杰克："我告诉迪姆他们做错了。你们应该使用闪电。"]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/som20p/i_actually_was_thinking_that_maybe_facebook_meta/?score=311&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsom20p%2Fi_actually_was_thinking_that_maybe_facebook_meta%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsom20p%2Fi_actually_was_thinking_that_maybe_facebook_meta%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/som20p/i_actually_was_thinking_that_maybe_facebook_meta/</guid><pubDate>Thu, 10 Feb 2022 06:35:05 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[1997年的互联网用户：1.3亿。今天的BTC用户。130M]]></title><description><![CDATA[1997年的互联网用户：1.3亿。
 
 今天的BTC用户。130M
 
@@ -391,40 +574,4 @@ https://preview.redd.it/ob73r2u0ykg81.png?width=899&format=png&auto=webp&s=508c9
 &amp;lt;p&amp;gt;This will be a great way to learn you can&amp;amp;#39;t always time the market but without losing a big chunk of your money.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I&amp;amp;#39;m not saying day trading isn&amp;amp;#39;t possible, but make your mistakes on paper first.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[听听年轻人在谈论什么，你就会看到未来。]]></title><description><![CDATA[这里是第二轮，即为什么作为一名高中教师对我来说是一个 "耳濡目染 "的启示。
-的启示。
-
-在学校教了近5年的书，你可以感觉到什么是
-对孩子们的重要性。
-
-脸书不酷 = 随后的品牌重塑和失去相关性
-
-Tik tok非常酷 = Tik tok...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/snfbz8/listen_to_what_the_youth_are_talking_about_and/?score=430&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsnfbz8%2Flisten_to_what_the_youth_are_talking_about_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsnfbz8%2Flisten_to_what_the_youth_are_talking_about_and%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/snfbz8/listen_to_what_the_youth_are_talking_about_and/</guid><pubDate>Tue, 08 Feb 2022 16:37:43 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Here for round 2 of why being a high school teacher has been an &amp;amp;#39;ear to the floor&amp;amp;#39; revelation for me.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Having taught in schools for nearly 5 years you can get a sense about what is important to kids.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Facebook is not cool&amp;lt;/em&amp;gt; = Subsequent rebranding and losing relevance &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Tik tok very cool&amp;lt;/em&amp;gt; = tik tok becoming the leading social platform for 12 - 45 yr olds.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;The US Office is better than the UK Office&amp;lt;/em&amp;gt; = US office now the only one streaming on Aus Netflix.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I must confess, 5 years ago I didn&amp;amp;#39;t hear any of the above. Facebook was (somehow) cool, tik tok didn&amp;amp;#39;t exist and there was stiff competition for which Office series was better. Fast forward to today..&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;m teaching my Yr 9 commerce class and they ask &amp;lt;strong&amp;gt;&amp;amp;quot;sir which crypto do you recommend buying?&amp;amp;quot;.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Students no longer laugh on this topic, even 3 years ago they might have switched off. But not now. they are increasingly involved in crypto and are investing in it themselves. This is because it is both relevant and achievable for them to do so.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;m telling you listen to what the youth is talking about; they are INTO crypto and that makes me bullish af.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[这对比特币来说是个好消息!]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/snjjat/this_is_great_news_for_bitcoin/?score=311&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsnjjat%2Fthis_is_great_news_for_bitcoin%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsnjjat%2Fthis_is_great_news_for_bitcoin%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/snjjat/this_is_great_news_for_bitcoin/</guid><pubDate>Tue, 08 Feb 2022 16:37:43 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[给我的荷兰追随者。
-
-700,000份手稿已经准备好了!
-
-请为我们的加冕礼献上一份请愿书吧。
-
-1）通过以下方式报名：姓名、电子邮件、邮件地址
-2) 通过我的电子邮件发送。
-
-别急着走，就这样做吧!
-Graag retweeten🙏
-https://t.co/2aUGK1VK2A]]></title><link>https://crypto.buzzing.cc/tweet/1491071854152675329/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1491071854152675329/</guid><pubDate>Tue, 08 Feb 2022 15:45:50 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
