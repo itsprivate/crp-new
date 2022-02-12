@@ -1,4 +1,114 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Feb 2022 14:41:29 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[明天全球有超过5亿人在观看超级碗比赛。广告]]></title><description><![CDATA[明天，全世界数以百万计的观众将坐在他们的设备前。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Feb 2022 15:37:37 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我现在明白为什么 "工作证明 "这么酷了。但我花了超过10分钟的时间]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sqognn/i_now_understand_why_proof_of_work_is_so_cool/?score=434&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsqognn%2Fi_now_understand_why_proof_of_work_is_so_cool%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsqognn%2Fi_now_understand_why_proof_of_work_is_so_cool%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sqognn/i_now_understand_why_proof_of_work_is_so_cool/</guid><pubDate>Sat, 12 Feb 2022 14:34:39 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[[OC] 我做了一个加密货币源代码的分析工具。下面是比特币、以太坊、Solana、EOS的结果。]]></title><description><![CDATA[嘿，r /cc。
+
+我正在做一个项目，可以为区块链项目及其开发带来更多的透明度。
+和他们的发展带来更多的透明度。区块链的开发通常是以一种开源的
+的方式进行，任何人都可以看到开发者正在进行的工作。但是这些信息
+通常只有那些人可以获得。]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sqpuhy/oc_ive_made_an_analysis_tool_for_cryptocurrency/?score=355&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsqpuhy%2Foc_ive_made_an_analysis_tool_for_cryptocurrency%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsqpuhy%2Foc_ive_made_an_analysis_tool_for_cryptocurrency%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sqpuhy/oc_ive_made_an_analysis_tool_for_cryptocurrency/</guid><pubDate>Sat, 12 Feb 2022 14:34:39 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey r /cc,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I’m working on a project that can bring more transparency to blockchain projects and their development. Blockchain development is usually done in an open-sourced way, where anyone can see what developers are working on. But this information is usually only accessible to people who are developers themselves. Browsing a git repository, trying to understand what a commit, branch, or tag does is not really understandable for most non-developers. With the tool I&amp;amp;#39;m developing I&amp;amp;#39;m planning to shed a bit of light on what teams are doing and how the projects are progressing.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;In this post, I&amp;amp;#39;d like to go over some of the metrics I&amp;amp;#39;ve found interesting on different blockchains and how they can be used to understand the development of a project. All of the results I describe here are based on the tool I&amp;amp;#39;ve written and my personal experience in software development. Someone else with a different background might interpret the results differently.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;m filtering out changes with more than 1000 lines and less than 100 lines. In my opinion, outside of this range, there is too much noise to be useful. I&amp;amp;#39;m also just inspecting the block producer code. In the next iterations, I&amp;amp;#39;ll take a look into entire organizations with all repositories. Let&amp;amp;#39;s start with bitcoin itself.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/6pya36ib4eh81.png?width=2062&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=c6141e3f03eeae7bcdd4c47d91d6fafb0932a3ee&quot;&amp;gt;https://preview.redd.it/6pya36ib4eh81.png?width=2062&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=c6141e3f03eeae7bcdd4c47d91d6fafb0932a3ee&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;From the executive summary, I can see that ~9 % of the contributors who contribute to bitcoin are still onboard. But on the knowledge retention, we can see that some of the &amp;amp;quot;heavy hitters&amp;amp;quot; have left the project. Usually, this number starts at 100% for new projects and slowly decreases. Knowledge retention is a measure of how many lines of code which was edited by a certain contributor and if that contributor is still on-board. Remember that bitcoin had this block size war at some point, so it&amp;amp;#39;s normal to see some of the developers who contributed to bitcoin leave the project. Having a refactoring rate of ~60 % means that more than half of its codebase is re-written. And it&amp;amp;#39;s more or less in normal bounds.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/38njz74c4eh81.png?width=2062&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=ad3d07018d264085068778f2022b4b97341c146f&quot;&amp;gt;https://preview.redd.it/38njz74c4eh81.png?width=2062&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=ad3d07018d264085068778f2022b4b97341c146f&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Looking at the versions chart, it shows a steady and continuous development. If we look at some of the latest large updates, we can see that they are mostly rewrites. Of course, it&amp;amp;#39;s necessary to check more messages to get a better understanding but I want to leave it to users.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Let&amp;amp;#39;s move on to the Ethereum project.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/jsn1lk4f4eh81.png?width=2048&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=7c882e71a3536ff20e0c00b13047aa06f2a08706&quot;&amp;gt;https://preview.redd.it/jsn1lk4f4eh81.png?width=2048&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=7c882e71a3536ff20e0c00b13047aa06f2a08706&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Ethereum shows worse results in the executive summary than bitcoin. This is quite surprising to me because Ethereum is a younger project than bitcoin. Yet the constant delays in their releases and always changing targets and deadlines, it seems like the metrics make sense. Only 7% of the contributors are still onboard, and the onboarded contributors only contributed 0.39% of the total changes. I would expect the new teams to re-do the same mistakes that previous teams did or re-write the same code again to understand it easier. I think a 60% refactoring rate is what we can assume to be generally good. But lower numbers would probably mean that projects are adding features faster than Ethereum and Bitcoin.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/bpco6j3g4eh81.png?width=2042&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=b781d229af8621c5471440878ba73351fc7255c5&quot;&amp;gt;https://preview.redd.it/bpco6j3g4eh81.png?width=2042&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=b781d229af8621c5471440878ba73351fc7255c5&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;On the versions chart, last month seems like getting a bit more silent in Ethereum miner development. But keep in mind, this data is only from go-ethereum project, maybe the team might have their focus on some other repository nowadays.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Now Solana.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/3vi6799h4eh81.png?width=2074&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=7e20865a1b620ca2b690a7c30e056f24b5d56f11&quot;&amp;gt;https://preview.redd.it/3vi6799h4eh81.png?width=2074&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=7e20865a1b620ca2b690a7c30e056f24b5d56f11&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Solana shows better results in the executive summary than Ethereum. But because Solana is a much younger project, higher team and knowledge retention is expected. This will result in faster deliveries and more features. But it&amp;amp;#39;s important to check this measure from time to time to see if they start bleeding talent.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/mjrzaj6i4eh81.png?width=2040&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=70046d0077a79310d5af93032f20d65be504dcaf&quot;&amp;gt;https://preview.redd.it/mjrzaj6i4eh81.png?width=2040&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=70046d0077a79310d5af93032f20d65be504dcaf&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Looking at the versions chart, we can see that there is constant development with more systematic changes which would be expected from an &amp;amp;quot;industry like development&amp;amp;quot; project with focused teams and serious project management. In a commit message from 2019, we can see that they were already trying to offload some work to GPU&amp;amp;#39;s from start. Yet I&amp;amp;#39;m curious what other changes are done in the subject, so I&amp;amp;#39;m going to search for updates with GPU messages in them.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/tm9b8uij4eh81.png?width=2048&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=d6a35ae9ed4410f0612f2405b4ef2c9c65e356b4&quot;&amp;gt;https://preview.redd.it/tm9b8uij4eh81.png?width=2048&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=d6a35ae9ed4410f0612f2405b4ef2c9c65e356b4&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Hmm, interestingly it seems like there is not much development being done with GPU term in the message.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Ok now let&amp;amp;#39;s move on to EOS.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/06x71zdk4eh81.png?width=2040&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=d1516662b8182f6eaddde966e2b628c344479e1e&quot;&amp;gt;https://preview.redd.it/06x71zdk4eh81.png?width=2040&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=d1516662b8182f6eaddde966e2b628c344479e1e&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;m putting it here as it verifies the data I have. EOS is an old project which is riddled with issues. The executive summary shows that ~0% of the contributors are still onboard. This means no one is contributing to the project systematically anymore for 90 days. This is a very interesting metric to look at because it&amp;amp;#39;s really hard to onboard people back onto a codebase as complicated as EOS.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/qhan02al4eh81.png?width=2042&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=ef1af6b99d17370e3c76906b9fcd78f2774735a5&quot;&amp;gt;https://preview.redd.it/qhan02al4eh81.png?width=2042&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=ef1af6b99d17370e3c76906b9fcd78f2774735a5&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;In the versions chart, we can see that there is a sudden drop in the development NOV 2020. Afterward, it seems like it&amp;amp;#39;s completely stopped in MAY 2021(the chart of EOS ends here, not today). Of course, there might be some changes happening, but our filters are filtering them out, with these settings.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I think that&amp;amp;#39;s enough for now, I&amp;amp;#39;ll be updating the tool with the new data I find and I&amp;amp;#39;ll be adding more metrics. In the next weeks, I&amp;amp;#39;ll set up a notification system where users can get e-mails or push notifications when certain filter results bring new data. ex, you can subscribe to GPU updates on Solana and you&amp;amp;#39;ll get an e-mail when there is a new update.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you&amp;amp;#39;d like to access the tool while I&amp;amp;#39;m developing it, you can subscribe to my Patreon(&amp;lt;a href=&quot;https://www.patreon.com/gkaykck&quot;&amp;gt;https://www.patreon.com/gkaykck&amp;lt;/a&amp;gt;) and get an access link to the tool. After you get the access link, you are free to share it with friends if you&amp;amp;#39;d like, but I will update the key from time to time and post a new key on my Patreon page only to subscribers. So you can make your friends beg you for the new link :). But keep in mind that the application is really resource intensive and expensive to host as it&amp;amp;#39;s scanning through many gigabytes of data on every filter change. So I would ask you to not publish the access link on any online forums, the application can become unusable until the next key change.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Currently, you can inspect the following blockchain miners with the application;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Bitcoin&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Ethereum&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Stellar&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Avax&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Matic&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Cosmos&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Cardano&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Polkadot&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Algorand&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Solana&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Hedera&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Elrond&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Filecoin&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Theta&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Helium&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Monero&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- IOTA&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Flow&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- EOS&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- The Graph&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Loopring&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Arweave&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Kadena&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you&amp;amp;#39;d like to suggest a new blockchain repository or use the tool for inspecting a repository you have, please get in contact with me through Patreon!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Cheers!&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[明天全球有超过5亿人在观看超级碗比赛。广告]]></title><description><![CDATA[明天，全世界数以百万计的观众将坐在他们的设备前。
 "在我居住的德国，这将是一个深夜，但我迫不及待地想看到令人兴奋的超级碗广告。
 激动人心的超级碗广告"，一位来自柏林的男子说，"谁会赢？CRO还是FTX？"。
 
@@ -320,8 +430,4 @@ https://twitter.com/maxkeiser/status/1491406739283259392?t=8H7ztcl9KzosIkqu51Sex
 &amp;lt;p&amp;gt;Anyway, the point of this post is to say keep stacking and hodling. We are still early, even though we always feel late. Pretty weird.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;tldr&amp;lt;/strong&amp;gt; i just dca&amp;amp;#39;d for 2 years and now I have 2.1 btc&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[联邦调查局抓获比特币交易所黑客]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sosu0p/feds_catching_the_bitfinex_hacker/?score=325&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsosu0p%2Ffeds_catching_the_bitfinex_hacker%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsosu0p%2Ffeds_catching_the_bitfinex_hacker%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sosu0p/feds_catching_the_bitfinex_hacker/</guid><pubDate>Thu, 10 Feb 2022 12:50:52 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我们已经有了一个完整的零售湮灭。
-简单地说：所有的供应现在都由LTH持有，没有销售压力，但也--没有更多的东西可拿。工作已经完成。这意味着未来的蓝天。
-
-#Bitcoin #BTC #BTCUSDT #Supply 
-🧵👇👇https://t.co/jTaYfaelnU]]></title><link>https://crypto.buzzing.cc/tweet/1491703074351685634/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1491703074351685634/</guid><pubDate>Thu, 10 Feb 2022 11:36:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[非随机住院数据由于差异化测试、缺乏裁决和对暴露的确认不足而无效。 然而，先前的感染在数据中一直坚如磐石，最终投降也近在眼前。 那些遭受痛苦的人应该恢复正常。https://t.co/ZVzUpundo7]]></title><link>https://crypto.buzzing.cc/tweet/1491700787927519238/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1491700787927519238/</guid><pubDate>Thu, 10 Feb 2022 11:36:32 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[联邦调查局抓获比特币交易所黑客]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sosu0p/feds_catching_the_bitfinex_hacker/?score=325&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsosu0p%2Ffeds_catching_the_bitfinex_hacker%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsosu0p%2Ffeds_catching_the_bitfinex_hacker%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sosu0p/feds_catching_the_bitfinex_hacker/</guid><pubDate>Thu, 10 Feb 2022 12:50:52 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
