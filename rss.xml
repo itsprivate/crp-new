@@ -1,4 +1,212 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 18 Feb 2022 09:39:46 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[只发生在第三世界国家...]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sv09k5/only_happens_in_3rd_world_countries/?score=310&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsv09k5%2Fonly_happens_in_3rd_world_countries%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsv09k5%2Fonly_happens_in_3rd_world_countries%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sv09k5/only_happens_in_3rd_world_countries/</guid><pubDate>Fri, 18 Feb 2022 08:36:54 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[萨尔瓦多开始使用比特币。亚利桑那州试图通过法案来使用比特币。乌克兰刚刚将比特币合法化。美国其他州也在尝试使用比特币。斯台普斯竞技场现在是CRYPTO ARENA。比特币是.........down]]></title><description><![CDATA[每次有关于比特币的好消息时，它都是红色的。这难道不是证明
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 18 Feb 2022 10:43:41 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[CCIP-028 - 调整成功的子论坛治理投票的标准]]></title><description><![CDATA[问题
+
+我们目前使用的是所有治理投票的默认标准，其中规定
+如果投票赞成的月球占参与投票的月球的50%以上，并且超过决策门槛，则投票通过。
+并超过决策门槛
+[https://www.reddit.com/community-points/documentation/reputation-and...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sut1h2/ccip028_adjust_the_criteria_for_successful/?score=305&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsut1h2%2Fccip028_adjust_the_criteria_for_successful%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsut1h2%2Fccip028_adjust_the_criteria_for_successful%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sut1h2/ccip028_adjust_the_criteria_for_successful/</guid><pubDate>Fri, 18 Feb 2022 09:41:09 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Problem&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We are currently using the default criteria for all governance polls, which says a poll passes if the Moons voting in favor represent over 50% of the participating moons and exceed the &amp;lt;a href=&quot;https://www.reddit.com/community-points/documentation/reputation-and-governance&quot;&amp;gt;Decision Threshold&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;However, this was the criteria meant for changes to Moons, but not necessarily governance of the subreddit, such as rule changes.  This criteria is a very high bar because Moons should be difficult to change, but isn’t necessarily the best for subreddit governance.  For example, should &amp;lt;a href=&quot;https://www.reddit.com/poll/qh2l1z?utm_source=reddit&amp;amp;amp;utm_medium=usertext&amp;amp;amp;utm_name=CryptoCurrency&amp;amp;amp;utm_content=t3_qh2l1z&quot;&amp;gt;the poll about live posts&amp;lt;/a&amp;gt; with 83% approval have failed?  Conversely, in a contentious situation like &amp;lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/oylpp9/reduce_the_karma_value_by_50_for_the_daily/&quot;&amp;gt;the poll on the daily discussion&amp;lt;/a&amp;gt;, should a poll with record breaking 12.9 million moons but only 52% approval be successful?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Solution&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We should adopt new criteria for successful subreddit governance polls:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;2/3&amp;lt;sup&amp;gt;rds&amp;lt;/sup&amp;gt; supermajority (66.6…%) of participating moons voting in favor&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;50% of the Decision Threshold voting in favor&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;At least 1,000 votes&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;This will treat subreddit governance polls differently from Moons governance polls, which will retain the same criteria they currently use. Moons governance polls are ones which change Moons themselves, such as karma weight, membership prices, or the distribution (&amp;lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/wiki/ccip&quot;&amp;gt;CCIPs&amp;lt;/a&amp;gt; 1, 2, 3, 4, 6, 7, 9, 10, 11, 13, 14, 15, 16, 18, 20, 22, 23, 24, 25, and 27).  These are typically things only the admins can change.  Subreddit governance polls are ones which change how the subreddit operates and are things the mods can change (CCIPs 5, 8, 12, 17, 19, 21, 26, and 28)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Reasoning&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;These values were chosen based on &amp;lt;a href=&quot;https://docs.google.com/spreadsheets/d/1xY2DD2bCKSCySFrXdsaE0Ow-ocM0HSs9T6jZ4_6-zCA/edit?usp=sharing&quot;&amp;gt;historical voting data here&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/tfvsn7c3bfi81.png?width=741&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=ae9dff4cdb1e017ebcc203a73dd5009fdf0c2a68&quot;&amp;gt;https://preview.redd.it/tfvsn7c3bfi81.png?width=741&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=ae9dff4cdb1e017ebcc203a73dd5009fdf0c2a68&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;When considering governance, we want to set criteria that ensures polls pass when they have enough support, but not require so much support that we end up with gridlock where nothing can pass. The Decision Threshold, or &amp;lt;a href=&quot;https://www.merriam-webster.com/dictionary/quorum&quot;&amp;gt;quorum&amp;lt;/a&amp;gt;, should be set so that a sufficient number of voters are present and a poll is not sneaked through without the majority knowing.  Similarly, quorum should not be unreachable where you are gridlocked from passing any polls.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I chose these figures because the low approval requirement and high participation requirement of the current systems are leading to good polls failing.  Polls which achieve over 2/3&amp;lt;sup&amp;gt;rds&amp;lt;/sup&amp;gt; support are popular enough that they should be implemented and should not require and artificially high quorum.  However we do not want controversial 50/50 polls to pass, even if they do have high participation.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The quorum requirements have been linked to the Decision Threshold because it dynamically adjusts according to the amount of moons in circulation.  The number of votes was increased from 500 to 1,000 based on community feedback in ccmeta.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Thank you for reading and let me know if you have any questions or concerns&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Original ccmeta post: &amp;lt;a href=&quot;https://www.reddit.com/r/CryptoCurrencyMeta/comments/sof2sg/proposal_adjust_the_criteria_for_successful/&quot;&amp;gt;https://www.reddit.com/r/CryptoCurrencyMeta/comments/sof2sg/proposal_adjust_the_criteria_for_successful/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.reddit.com/poll/sut1h2&quot;&amp;gt;View Poll&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我在2018年1月1日买了1千美元的十大加密货币（JAN Update/Month 49）。]]></title><description><![CDATA[试验--追踪2018年十大加密货币--第四十九个月--涨幅4
+[https://preview.redd.it/vp6ri27e2ji81.png?width=666&format=png&auto=webp&s=490548527c182d98a6a5b2bf68952307eea6b792]
+
+在这里找到包含所有表格的完整博文
+[https://toptencryptoindexfund.com/tracking-2018-top...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/svahi5/i_bought_1k_of_the_top_10_cryptos_on_january_1st/?score=330&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsvahi5%2Fi_bought_1k_of_the_top_10_cryptos_on_january_1st%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsvahi5%2Fi_bought_1k_of_the_top_10_cryptos_on_january_1st%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/svahi5/i_bought_1k_of_the_top_10_cryptos_on_january_1st/</guid><pubDate>Fri, 18 Feb 2022 09:41:09 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/vp6ri27e2ji81.png?width=666&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=490548527c182d98a6a5b2bf68952307eea6b792&quot;&amp;gt;EXPERIMENT – Tracking 2018 Top Ten Cryptocurrencies – Month Forty-Nine – UP 4&amp;amp;#37;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;Find the full blog post with all the tables&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-10-cryptocurrencies-month-49&quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;here&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;.&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Welcome to your monthly no-shill data dump: Here&amp;amp;#39;s the 49th monthly report for the 2018 Top Ten Experiment featuring &amp;lt;strong&amp;gt;BTC, XRP, ETH, BCH, ADA, LTC, NEM, DASH, IOTA,&amp;lt;/strong&amp;gt; and &amp;lt;strong&amp;gt;Stellar.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;tl;dr&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;What&amp;amp;#39;s this all about?&amp;lt;/strong&amp;gt; I purchased $100 of each of Top 10 Cryptos in Jan. 2018, haven&amp;amp;#39;t sold or traded, reporting monthly for over four years. Did the same in 2019, 2020, 2021, and 2022. &amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;Learn more about the history and rules of the Experiments&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://toptencryptoindexfund.com/about/&quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;here&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;.&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Snapshots taken on the 1st of each month.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;January Highlights:&amp;lt;/strong&amp;gt;  (crickets)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Overall since Jan. 2018:&amp;lt;/strong&amp;gt; &amp;lt;strong&amp;gt;ETH&amp;lt;/strong&amp;gt; solidly in the lead, followed by &amp;lt;strong&amp;gt;BTC&amp;lt;/strong&amp;gt; and &amp;lt;strong&amp;gt;ADA&amp;lt;/strong&amp;gt;, the only three in the green.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2018+2019+2020+2021+2022 Combined Top Ten Portfolios are returning 224%.&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Reminder: I&amp;amp;#39;m focusing mainly on the 2022 Top Ten Portfolio this year and will release one other bonus update per month on a rotating basis. &amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;h2&amp;gt;Month Forty-Nine – UP 4%&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/fqkjno1z5ji81.jpg?width=939&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=69b83bb2e4f564346525afc6d789432f3c5d9212&quot;&amp;gt;https://preview.redd.it/fqkjno1z5ji81.jpg?width=939&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=69b83bb2e4f564346525afc6d789432f3c5d9212&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The 2018 Top Ten Crypto Index Fund Portfolio is &amp;lt;strong&amp;gt;BTC, XRP, ETH, BCH, ADA, LTC, IOTA, NEM, Dash,&amp;lt;/strong&amp;gt; and &amp;lt;strong&amp;gt;Stellar&amp;lt;/strong&amp;gt;.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;January highlights for the 2018 Top Ten Portfolio:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;A rough start to 2022 and the &amp;lt;strong&amp;gt;second 100% red month in a row&amp;lt;/strong&amp;gt;. &amp;lt;strong&amp;gt;Bitcoin&amp;lt;/strong&amp;gt; (-18%) falls the least.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;ETH&amp;lt;/strong&amp;gt; maintains a solid overall lead, &amp;lt;strong&amp;gt;BTC&amp;lt;/strong&amp;gt; in second place, &amp;lt;strong&amp;gt;ADA&amp;lt;/strong&amp;gt; in third.  Only these three cryptos are in the green since January 2018.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;The 2018 Portfolio drops -30% in January, now just +4% since January 2018&amp;lt;/strong&amp;gt; and well behind the S&amp;amp;amp;P 500’s ROI over the same time period.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;h2&amp;gt;January Ranking and Dropouts&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;Here’s a look at the movement in the ranks since January 2018:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/temsfw736ji81.jpg?width=406&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=976f2b628fad278e6fdd065c9474fa3de3bc233d&quot;&amp;gt;https://preview.redd.it/temsfw736ji81.jpg?width=406&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=976f2b628fad278e6fdd065c9474fa3de3bc233d&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Top Ten dropouts since January 2018:&amp;lt;/strong&amp;gt; After four+ years of the 2018 Top Ten Experiment, only 40% of the cryptos that &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-ten-month-one/&quot;&amp;gt;started in the Top Ten&amp;lt;/a&amp;gt; have remained.  &amp;lt;strong&amp;gt;NEM, Dash, Stellar, Bitcoin Cash, IOTA&amp;lt;/strong&amp;gt;, and &amp;lt;strong&amp;gt;Litecoin&amp;lt;/strong&amp;gt; have been replaced by &amp;lt;strong&amp;gt;Binance Coin, Tether&amp;lt;/strong&amp;gt;, &amp;lt;strong&amp;gt;DOT, SOL&amp;lt;/strong&amp;gt;, &amp;lt;strong&amp;gt;LUNA&amp;lt;/strong&amp;gt;, and &amp;lt;strong&amp;gt;USDC.  NEM&amp;lt;/strong&amp;gt; looks like it wants to be the first to drop out of the Top 100.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;January Winners and Losers&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;January Winners&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; –  100% red month, but &amp;lt;strong&amp;gt;Bitcoin&amp;lt;/strong&amp;gt; dropped the least, ending January down -18%.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;January Losers&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; –  &amp;lt;strong&amp;gt;IOTA&amp;lt;/strong&amp;gt;, dropping -38% this month.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Tally of Monthly Winners and Losers&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;After forty-nine months, here’s a tally of the monthly winners and losers over the life of the 2018 Top Ten Experiment. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/x444xoc66ji81.jpg?width=415&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=4ec6e2bedb557270570fd6ce5af8adeca79d3abb&quot;&amp;gt;https://preview.redd.it/x444xoc66ji81.jpg?width=415&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=4ec6e2bedb557270570fd6ce5af8adeca79d3abb&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;With 12, &amp;lt;strong&amp;gt;Bitcoin&amp;lt;/strong&amp;gt; has three more monthly wins than second place &amp;lt;strong&amp;gt;Cardano&amp;lt;/strong&amp;gt;.  &amp;lt;strong&amp;gt;NEM&amp;lt;/strong&amp;gt; has finished last place most often (12 months out of 49).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Bitcoin&amp;lt;/strong&amp;gt; is still the only cryptocurrency that hasn’t yet lost a month since January 2018 (although it has come very close a couple of times).&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Overall Update –  A bloody start to 2022. Overall ETH in first place, BTC is second place. Dash in last place.&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;After reaching an All Time High (+72%) in &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-10-cryptocurrencies-month-46&quot;&amp;gt;October&amp;lt;/a&amp;gt;, the 2018 Top Ten Portfolio continued to lose value.  After four years of holding these cryptos, only 3 out of the 10 cryptos are in the green: &amp;lt;strong&amp;gt;BTC,&amp;lt;/strong&amp;gt; &amp;lt;strong&amp;gt;ETH,&amp;lt;/strong&amp;gt; and &amp;lt;strong&amp;gt;ADA.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Overall, first place &amp;lt;strong&amp;gt;ETH&amp;lt;/strong&amp;gt; (+285%) is well ahead of &amp;lt;strong&amp;gt;BTC&amp;lt;/strong&amp;gt; (+193%) and third place &amp;lt;strong&amp;gt;ADA&amp;lt;/strong&amp;gt; (+60%).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The initial $100 invested in first place &amp;lt;strong&amp;gt;ETH&amp;lt;/strong&amp;gt; four years ago?  It’s worth $386 today.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;DASH&amp;lt;/strong&amp;gt; is at the bottom, down nearly -91% since &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-ten-month-one/&quot;&amp;gt;January 2018&amp;lt;/a&amp;gt;&amp;lt;strong&amp;gt;.&amp;lt;/strong&amp;gt;  The initial $100 invested in &amp;lt;strong&amp;gt;DASH&amp;lt;/strong&amp;gt; forty-nine months ago is worth about $9 today.  &amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Total Market Cap for the entire cryptocurrency sector:&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/jnwd1kn96ji81.png?width=582&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=86f05288589b3d9750278a9ca483846f2441e911&quot;&amp;gt;https://preview.redd.it/jnwd1kn96ji81.png?width=582&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=86f05288589b3d9750278a9ca483846f2441e911&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;End of January 2021 market cap: &amp;lt;strong&amp;gt;$1,773,545,018,753&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The total crypto market dropped significantly in January.  That said, crypto as a sector is up +208% since &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-ten-month-one/&quot;&amp;gt;January 2018&amp;lt;/a&amp;gt;.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;There was no easy way to achieve this at the time, but if you were able to capture the entire crypto market since New Year’s Day 2018, you’d be doing much, much better than the Experiment’s Top Ten approach (+4%), the return of the S&amp;amp;amp;P (+70%) over the same period of time, and nine of the individual cryptos within the 2018 Top Ten (except for &amp;lt;strong&amp;gt;Ethereum)&amp;lt;/strong&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Crypto Market Cap Low Point in the 2018 Top Ten Crypto Index Experiment: &amp;lt;strong&amp;gt;$114B in&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-ten-month-thirteen/&quot;&amp;gt;&amp;lt;strong&amp;gt;January 2019&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Crypto Market Cap High Point in the 2018 Top Ten Crypto Index Experiment: &amp;lt;strong&amp;gt;$2.65T in&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-10-cryptocurrencies-month-46/&quot;&amp;gt;&amp;lt;strong&amp;gt;October 2021&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;strong&amp;gt;.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Bitcoin dominance:&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/g0b69nkb6ji81.png?width=487&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=0855ec69693427885b1069d5e007158e15329ece&quot;&amp;gt;https://preview.redd.it/g0b69nkb6ji81.png?width=487&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=0855ec69693427885b1069d5e007158e15329ece&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;BitDom&amp;lt;/strong&amp;gt; ticked up one percentage point in January, ending the month at 41.2%.  When looking at the entire four year 2018 Experiment time frame, &amp;lt;strong&amp;gt;BTC&amp;lt;/strong&amp;gt; dominance is near the low end.  For context:   &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Low Point in the 2018 Top Ten Crypto Index Experiment: &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-ten-month-one&quot;&amp;gt;&amp;lt;strong&amp;gt;33% in January 2018&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;High Point in the 2018 Top Ten Crypto Index Experiment: &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-ten-month-twenty/&quot;&amp;gt;&amp;lt;strong&amp;gt;70.5% in August 2019&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Overall return on $1,000 investment since January 1st, 2018: &amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/dzik21kc6ji81.jpg?width=340&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=5226e53ab2f3057f5e16ba0b99a9a31671f1b7eb&quot;&amp;gt;https://preview.redd.it/dzik21kc6ji81.jpg?width=340&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=5226e53ab2f3057f5e16ba0b99a9a31671f1b7eb&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The 2018 Top Ten Portfolio lost -$306 in January.  Believe it or not, December was slightly worse for this portfolio (-$325).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If I decided to cash out the 2018 Top Ten Experiment today, &amp;lt;strong&amp;gt;the $1000 initial investment would be worth $1,035&amp;lt;/strong&amp;gt;, up 4% from &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-ten-month-one/&quot;&amp;gt;January 2018&amp;lt;/a&amp;gt;.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Green is unfamiliar territory for the 2018 Top Ten Portfolio and a recent development.  Over the first four+ years of the 2018 Index Fund Experiment, thirty-eight months have been in the red, with only eleven months of green.  All eleven of the green months have come in 2021/22. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here’s a look at the ROI over the life of the experiment, month by month, since the beginning of the 2018 Experiment four years ago:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/qqw0snxf6ji81.jpg?width=760&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=0976074dcd6d26331aaaa245aab3d558cd69c328&quot;&amp;gt;https://preview.redd.it/qqw0snxf6ji81.jpg?width=760&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=0976074dcd6d26331aaaa245aab3d558cd69c328&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The all time high for this portfolio is &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-10-cryptocurrencies-month-46&quot;&amp;gt;October 2021&amp;lt;/a&amp;gt; (+72%).  The lowest point was in January 2019 when the 2018 Top Ten Portfolio was down &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-ten-month-thirteen/&quot;&amp;gt;-88%&amp;lt;/a&amp;gt;.   &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Remember: no one can predict the value of any crypto tomorrow, let alone next month or next year.  The 2018 Top Ten Crypto Portfolio was down -88% after one year, -80% after two years, -25% after three years.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Combining the 2018, 2019, 2020, 2021, and 2022 Top Ten Crypto Portfolios&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;Alright, that’s that for the 2018 Top Ten Crypto Index Fund Experiment recap.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;But I didn’t stop the Experiment in 2018:  I invested another $1000 into each of the &amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;2019&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;, &amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;2020, 2021,&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; &amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;and&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://toptencryptoindexfund.com/announcing-top-10-2022/&quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;2022&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt; Top Tens as well.  How are the other Crypto Index Fund Experiments doing?    &amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-10-cryptocurrencies-month-49&quot;&amp;gt;2018 Top Ten Experiment&amp;lt;/a&amp;gt;: up +4% (total value $1,035)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;2019 Top Ten Experiment: up +364% (total value $4,639)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;2020 Top Ten Experiment: up +577% (total value $6,766)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;2021 Top Ten Experiment: up +201% (total value $3,009)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;2022 Top Ten Experiment: down -25% (total value $747)&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;So overall? Taking the five portfolios together, here’s the bottom bottom bottom bottom &amp;lt;em&amp;gt;bottom&amp;lt;/em&amp;gt; line: &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;After a $5,000 investment in the 2018, 2019, 2020, 2021, and 2022 Top Ten Cryptocurrencies,&amp;lt;/strong&amp;gt; the combined portfolios are worth &amp;lt;strong&amp;gt;$16,196.&amp;lt;/strong&amp;gt; &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;That’s up +224%&amp;lt;/strong&amp;gt; on the combined portfolios, &amp;lt;strong&amp;gt;down from&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-10-cryptocurrencies-month-47&quot;&amp;gt;&amp;lt;strong&amp;gt;November’s all time high of +553%&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt; for the combined Top Ten Index Fund Experiments.  Here’s the combined monthly ROI since I started tracking the metric in January 2020:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/8m9uctlj6ji81.png?width=600&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=60e62c5720dff1128ee607c445c6c853c596e704&quot;&amp;gt;https://preview.redd.it/8m9uctlj6ji81.png?width=600&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=60e62c5720dff1128ee607c445c6c853c596e704&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;That’s a +224% gain by investing $1k in whichever cryptos happened to be in the Top Ten on January 1st (including stablecoins) for five years in a row.&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Comparison to S&amp;amp;amp;P 500:&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;I’m also tracking the S&amp;amp;amp;P 500 as part of the Experiment to have a comparison point with other popular investments options.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/nxudx2vn6ji81.png?width=582&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=5d7305ca4e89e11fe0a5d71b45112afdc86c7416&quot;&amp;gt;https://preview.redd.it/nxudx2vn6ji81.png?width=582&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=5d7305ca4e89e11fe0a5d71b45112afdc86c7416&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The S&amp;amp;amp;P 500 is up +70% since January 2018, so the initial $1k investment into crypto on &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-ten-month-one/&quot;&amp;gt;January 1st, 2018&amp;lt;/a&amp;gt; would be worth $1,700 had it been redirected to the S&amp;amp;amp;P.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Taking the same invest-$1,000-on-January-1st-of-each-year approach with the S&amp;amp;amp;P 500 that I’ve been documenting through the Top Ten Crypto Experiments, the yields are the following:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;$1000 investment in S&amp;amp;amp;P 500 on January 1st, 2018 = $1,700 today&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;$1000 investment in S&amp;amp;amp;P 500 on January 1st, 2019 = $1,810 today&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;$1000 investment in S&amp;amp;amp;P 500 on January 1st, 2020 = $1,410 today&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;$1000 investment in S&amp;amp;amp;P 500 on January 1st, 2021 = $1,210 today&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;$1000 investment in S&amp;amp;amp;P 500 on January 1st, 2022 = $950 today&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;Taken together, here’s the bottom bottom bottom bottom &amp;lt;em&amp;gt;bottom&amp;lt;/em&amp;gt; line for a similar approach with the S&amp;amp;amp;P: &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;After five $1,000 investments into an S&amp;amp;amp;P 500 index fund in January 2018, 2019, 2020, 2021, and 2022 my portfolio would be worth $7,080.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;That is up &amp;lt;strong&amp;gt;+42%&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2018-top-ten-month-one/&quot;&amp;gt;since January 2018&amp;lt;/a&amp;gt; compared to a &amp;lt;strong&amp;gt;+224%&amp;lt;/strong&amp;gt; gain of the combined Top Ten Crypto Experiment Portfolios.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here’s a fancy new chart showing the four year ROI comparison between a Top Ten Crypto approach and the S&amp;amp;amp;P as per the rules of the Top Ten Experiments: &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/oyo0c99q6ji81.png?width=575&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=f426556b1975b3e706e89121b37b083f1295d007&quot;&amp;gt;https://preview.redd.it/oyo0c99q6ji81.png?width=575&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=f426556b1975b3e706e89121b37b083f1295d007&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Conclusion:&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;Many thanks to the long-time Experiment followers, appreciate you taking the time to follow along over the years.  For those just getting into crypto, welcome! I hope these reports can somehow give you a taste of what you may be in for as you begin your crypto adventures.  Buckle up, think long term, don’t invest what you can’t afford to lose, and try to enjoy the ride! Feel free to reach out with any questions and stay tuned for monthly progress reports. Keep an eye out for my parallel projects where I repeat the experiment, purchasing another $1000 ($100 each) of new sets of Top Ten cryptos as of &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2019-top-10-cryptocurrencies-month-36&quot;&amp;gt;January 1st, 2019&amp;lt;/a&amp;gt;, &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2020-top-10-cryptocurrencies-month-24&quot;&amp;gt;January 1st, 2020&amp;lt;/a&amp;gt;, &amp;lt;a href=&quot;https://toptencryptoindexfund.com/tracking-2021-top-10-cryptocurrencies-month-12&quot;&amp;gt;January 1st, 2021&amp;lt;/a&amp;gt;, and most recently, &amp;lt;a href=&quot;https://toptencryptoindexfund.com/announcing-top-10-2022/&quot;&amp;gt;January 1st, 2022&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[只发生在第三世界国家...]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sv09k5/only_happens_in_3rd_world_countries/?score=310&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsv09k5%2Fonly_happens_in_3rd_world_countries%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsv09k5%2Fonly_happens_in_3rd_world_countries%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sv09k5/only_happens_in_3rd_world_countries/</guid><pubDate>Fri, 18 Feb 2022 08:36:54 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[萨尔瓦多开始使用比特币。亚利桑那州试图通过法案来使用比特币。乌克兰刚刚将比特币合法化。美国其他州也在尝试使用比特币。斯台普斯竞技场现在是CRYPTO ARENA。比特币是.........down]]></title><description><![CDATA[每次有关于比特币的好消息时，它都是红色的。这难道不是证明
 整个市场被其他东西操纵着，而不是通过？想想看
 每当有关于比特币的好消息或大好消息时。它几乎
 总是红色的。在这一点上，如果亚马逊今天拿下比特币，我可以看到...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/suyrvc/el_salvador_started_using_bitcoin_arizona_trying/?score=340&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsuyrvc%2Fel_salvador_started_using_bitcoin_arizona_trying%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsuyrvc%2Fel_salvador_started_using_bitcoin_arizona_trying%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/suyrvc/el_salvador_started_using_bitcoin_arizona_trying/</guid><pubDate>Fri, 18 Feb 2022 06:43:47 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;EVERY TIME there is good news about bitcoin its in the red. Is this not proof that the whole market is manipulated by something other than adoption? Think about every time there has been good or GREAT news about bitcoin. Its almost ALWAYS red. At this point if amazon took bitcoin today I can see the price dropping.&amp;lt;/p&amp;gt;
@@ -472,30 +680,4 @@ CryptoPunk的销售记录（之前的记录是以1175万美元的价格），...
 &amp;lt;p&amp;gt;But how much would you give for an avatar like this?&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/ligje1t076i81.jpg?width=600&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=442cb29d10e226d1ad3fac18aab1884b7e7425c3&quot;&amp;gt;https://preview.redd.it/ligje1t076i81.jpg?width=600&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=442cb29d10e226d1ad3fac18aab1884b7e7425c3&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[美国科罗拉多州今年夏天将接受比特币缴税]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/stx3pp/us_state_colorado_will_accept_bitcoin_for_tax/?score=390&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fstx3pp%2Fus_state_colorado_will_accept_bitcoin_for_tax%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fstx3pp%2Fus_state_colorado_will_accept_bitcoin_for_tax%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/stx3pp/us_state_colorado_will_accept_bitcoin_for_tax/</guid><pubDate>Wed, 16 Feb 2022 18:46:27 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA["活着但内心已死"]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/stxl6l/alive_but_dead_inside/?score=346&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fstxl6l%2Falive_but_dead_inside%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fstxl6l%2Falive_but_dead_inside%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/stxl6l/alive_but_dead_inside/</guid><pubDate>Wed, 16 Feb 2022 17:37:27 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[好莱坞明星瑞安-雷诺兹认为加密货币正在 "作为一个巨大的角色出现]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/stwsvu/hollywood_star_ryan_reynolds_believes_crypto_is/?score=317&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fstwsvu%2Fhollywood_star_ryan_reynolds_believes_crypto_is%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fstwsvu%2Fhollywood_star_ryan_reynolds_believes_crypto_is%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/stwsvu/hollywood_star_ryan_reynolds_believes_crypto_is/</guid><pubDate>Wed, 16 Feb 2022 16:39:37 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[影响者是现代社会的瘟疫。而Cypto影响者是他们中最糟糕的。]]></title><description><![CDATA[一辆法拉利停下，一个微笑的年轻人下车。他所穿的一切都散发着
-"富有"。一切都喊着 "炫耀"。然而，这正是问题所在。他正走到
-对着镜头，嘴角还挂着 "成功 "的假笑，并开始说话。
-"你知道。我曾经很穷（像你们这些失败者一样）。但这并没有阻止...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/stwn8a/influencers_are_plagues_of_the_modern_society_and/?score=330&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fstwn8a%2Finfluencers_are_plagues_of_the_modern_society_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fstwn8a%2Finfluencers_are_plagues_of_the_modern_society_and%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/stwn8a/influencers_are_plagues_of_the_modern_society_and/</guid><pubDate>Wed, 16 Feb 2022 16:39:37 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;A Ferrari stops and a smiling young man gets off.
-Everything he wears radiates &amp;amp;quot;rich&amp;amp;quot;.
-Everything cries &amp;amp;quot;show off&amp;amp;quot;.
-Yet this is exactly the point.
-He is coming to the camera, Fake smile of &amp;amp;quot;success&amp;amp;quot; still on his lips, and starts talking:
-&amp;amp;quot;You know. I was poor (like you losers). But it didn&amp;amp;#39;t stoped me from trying. And you shouldn&amp;amp;#39;t too. Stop nagging and start trying. I am here for you guys! (Yes. It is pure altruism which drives these guys).&amp;amp;quot;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;He even gives away the first dose of his magical &amp;amp;quot;be rich in a month&amp;amp;quot; telegram channel for free. Just like my old neighborhood&amp;amp;#39;s dealer. Only what that dealer has sold actually worked. His magical channel gives 10 or more &amp;amp;quot;buy&amp;amp;quot; signal per day which &amp;amp;quot;magically&amp;amp;quot; around 50% of which turns out to be true! But hey! &amp;amp;quot;What is with all negativity?&amp;amp;quot; he tells his followers on Instagram. And god there are so many of them.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The &amp;amp;quot;premium&amp;amp;quot; version of his telegram channel has around 100k members. Each paying around 20$ per month for subscription. Which means 2 million dollar per month just from his telegram subscribers. but that&amp;amp;#39;s not the only method of income crypto influencers have.
-He just need to say &amp;amp;quot;buy (put a random shotcoin in here)&amp;amp;quot; and that shitcoin will indeed goes &amp;amp;quot;to the moon&amp;amp;quot;, Usually for few days or week before everyone panic sells. Those who made a quick buck will worship him even more and those who didn&amp;amp;#39;t, well, they should grow the fuck up and &amp;amp;quot;understand that it is all a part of the road to success&amp;amp;quot;. He is not lying tho. It is all a part of the road to success, his road.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Now think about the above scenario.
-Not only he can buy that coin before the pump and sell at the top, he (like most influencers) can charge a tone of money for advocating that same coin. Two birds with one stone if I ever saw one.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;With that kind of cash flow, famous crypto influencers can afford an extremely luxurious and joyful life and all they need to do is to show it off on social media to attract even more cluless victims. That&amp;amp;#39;s why they love to show off their wealth so much. The message is clear.
-&amp;amp;quot;You can be a winner too! You just need to follow my model.&amp;amp;quot;
-It is a dream comes true for them. A dream which spells nightmare for thousands.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I always hated influencers. They are champions of a system who triumphs on making people hate themselves and their life. A system made on top of people insecurities to sell them more and more junk they don&amp;amp;#39;t need. Everything about them is fake, everything fabricated. Body, face, smile and even happiness and love.
-But crypto influencers are even worst. Not only they do all the things that usual social media influencers are doing, They are literally using ponzi schemes in broad daylight to rob people who trusted them.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Tldr: fuck crypto influencers. They are even worst then Kardashians.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[俄罗斯计划将比特币开采合法化，甚至推广，只要是在能源过剩地区。看涨。]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/stsnsk/russia_planning_to_legalize_and_even_promote/?score=329&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fstsnsk%2Frussia_planning_to_legalize_and_even_promote%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fstsnsk%2Frussia_planning_to_legalize_and_even_promote%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/stsnsk/russia_planning_to_legalize_and_even_promote/</guid><pubDate>Wed, 16 Feb 2022 16:39:37 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[美国科罗拉多州今年夏天将接受比特币缴税]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/stx3pp/us_state_colorado_will_accept_bitcoin_for_tax/?score=390&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fstx3pp%2Fus_state_colorado_will_accept_bitcoin_for_tax%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fstx3pp%2Fus_state_colorado_will_accept_bitcoin_for_tax%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/stx3pp/us_state_colorado_will_accept_bitcoin_for_tax/</guid><pubDate>Wed, 16 Feb 2022 18:46:27 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA["活着但内心已死"]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/stxl6l/alive_but_dead_inside/?score=346&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fstxl6l%2Falive_but_dead_inside%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fstxl6l%2Falive_but_dead_inside%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/stxl6l/alive_but_dead_inside/</guid><pubDate>Wed, 16 Feb 2022 17:37:27 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[好莱坞明星瑞安-雷诺兹认为加密货币正在 "作为一个巨大的角色出现]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/stwsvu/hollywood_star_ryan_reynolds_believes_crypto_is/?score=317&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fstwsvu%2Fhollywood_star_ryan_reynolds_believes_crypto_is%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fstwsvu%2Fhollywood_star_ryan_reynolds_believes_crypto_is%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/stwsvu/hollywood_star_ryan_reynolds_believes_crypto_is/</guid><pubDate>Wed, 16 Feb 2022 16:39:37 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
