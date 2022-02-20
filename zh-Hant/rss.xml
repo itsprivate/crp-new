@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密貨幣國外熱門討論]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 20 Feb 2022 21:34:29 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[不要對ETH2.0有太大的壓力。維塔利克本人在Bankless播客中承認，它可能需要6年時間才能完全完成。]]></title><description><![CDATA[冷靜下來，慢慢來，因爲ETH2.0的最終形式很可能需要數年才能完成。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密貨幣國外熱門討論]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 20 Feb 2022 23:30:53 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我第一次嘗試了Cardano DeFi，它是令人難以置信的糟糕。]]></title><description><![CDATA[聽着，我不是第一次接觸DeFi的人。
+我已經使用了其他的網絡和各種協議，我想知道在我的第一次Cardano體驗中，什麼地方出了問題？
+我的第一次Cardano體驗出了問題。所以請保持開放的心態。
+
+以下是我的故事。
+
+安裝了Nami錢包。
+
+開始提取...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sx3yhs/i_tried_cardano_defi_for_the_first_time_and_it/?score=373&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsx3yhs%2Fi_tried_cardano_defi_for_the_first_time_and_it%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsx3yhs%2Fi_tried_cardano_defi_for_the_first_time_and_it%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sx3yhs/i_tried_cardano_defi_for_the_first_time_and_it/</guid><pubDate>Sun, 20 Feb 2022 22:35:30 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Look I&amp;amp;#39;m not someone who&amp;amp;#39;s just dipping their toes into DeFi for the first time, I&amp;amp;#39;ve used other networks and various protocols and I want to know what went so wrong with my first Cardano experience. So please keep an open mind.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here&amp;amp;#39;s my story:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Installed Nami wallet. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Started a withdrawal of just 5 Ada from Kraken to this wallet, it took 30 minutes (??) for funds to arrive.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Went to SundaeSwap, tried to swap 1 Ada for 1.4 Sundae but kept saying that I have insufficient funds, apparently Sundae has additional fees that I was not aware of (2.5 Ada + some refundable deposit of 2 Ada).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Waited another 30 minutes to withdraw more Ada.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Big red warning on the Sundae page that the network is heavily congested. Checked the explorer and blocks were indeed (85%+) full while running at 2 tps. How is that possible?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;First 4 swap attempts failed with 0 warnings, nothing to be found on-chain in the explorer, just pending attempts that disappeared after reconnecting my wallet.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The 5th one I think was recorded on-chain and remained in pending.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;40 minutes later another on-chain swap attempt magically appeared, probably from the first 4 &amp;amp;quot;failed&amp;amp;quot; txs. Wtf?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Tried to cancel this second order...cancellation pending with 0 feedback on what is happening, tried to cancel 3 more times... nothing.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Exactly one hour and 7 minutes later the first swap completed.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;m used to getting near instant confirmations and swaps on other networks, 1 hour+ is definitelly the longest I&amp;amp;#39;ve ever had to wait on any Dex by a factor of 1000x and combined with all the fails and weird behaviour that I got I can&amp;amp;#39;t call this a good UX. What exactly went so wrong and what&amp;amp;#39;s the solution? Please don&amp;amp;#39;t call me a fudder because none of this is made up and anyone can try it for themselves.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我學得越多，我就越覺得應該把我所有的代理賬戶都轉換成BTC。這符合邏輯嗎？]]></title><description><![CDATA[我的加密貨幣投資主要是BTC和ETH，但也有很大一部分是alts，因爲我
+我認爲其中一些有良好的短期收益潛力。然而，我對比特幣的瞭解越多
+我對比特幣的瞭解越多，我就越想全身心地投入到BTC中去，尤其是在最近的政治氣候下。
+最近的政治氣候。我的計劃是長期持有（10+...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/swr7x3/the_more_i_learn_the_more_i_think_i_should/?score=328&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fswr7x3%2Fthe_more_i_learn_the_more_i_think_i_should%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fswr7x3%2Fthe_more_i_learn_the_more_i_think_i_should%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/swr7x3/the_more_i_learn_the_more_i_think_i_should/</guid><pubDate>Sun, 20 Feb 2022 22:35:30 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;My crypto investments are primarily BTC and ETH, but a solid chunk in alts as I thought a few of them had good potential for short-term gains. However, the more I learn about Bitcoin the more I want to go all in on BTC especially with the recent political climate. My plan is to hold long-term (10+ years). &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I’m curious if this community finds this logical or not. I am a software engineer and I think a generally smart person but there are so many factors that could affect this in the next 5-10 years I can’t help but second guess myself.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[有一個大規模的PsyOp正在進行，以毒害公衆對比特幣的看法。]]></title><description><![CDATA[他們來了。他們試圖分化社區，分裂它，使它
+更容易控制。要提高警惕。
+
+這句話會被反駁，但就像 "革命不會被轉播 "這句話一樣。
+電視轉播 "一樣，"真相不會被人投票"。
+
+朋友們要保持警惕。比特幣不是政治。比特幣是爲...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/sx4a9b/there_is_a_massive_psyop_going_on_to_poison_the/?score=417&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsx4a9b%2Fthere_is_a_massive_psyop_going_on_to_poison_the%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsx4a9b%2Fthere_is_a_massive_psyop_going_on_to_poison_the%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/sx4a9b/there_is_a_massive_psyop_going_on_to_poison_the/</guid><pubDate>Sun, 20 Feb 2022 22:35:30 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;They’re here. They’re trying to divide the community, splinter it, make it easier to control. Be vigilant. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This will be downvoted but much like the saying “The Revolution will not be televised”, “The truth will not be upvoted”&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Be vigilant friends. Bitcoin is not political. Bitcoin is for everyone.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[在加密貨幣的任何重大變動期間，你絕對不應該聽這個子。]]></title><description><![CDATA[由於我們目前在加密貨幣市場上有一些主要的下降趨勢，其方式是
+堅持你的計劃比以往更重要。但是，主要的運動也是
+時候，這個子是過度的兩極化。
+
+這個子是比加密貨幣更不穩定的東西。任何微小的運動都會導致
+徹底轉變，從...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sx71xo/you_should_definitely_not_listen_to_this_sub/?score=313&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsx71xo%2Fyou_should_definitely_not_listen_to_this_sub%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsx71xo%2Fyou_should_definitely_not_listen_to_this_sub%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sx71xo/you_should_definitely_not_listen_to_this_sub/</guid><pubDate>Sun, 20 Feb 2022 22:35:30 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;As we are currently having some major downtrends in the crypto market its way more important to stick to your plan than ever. But also major movements are the time where this sub is overly bipolar. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This sub is something way more volatile than crypto. Any minor movement causes a complete shift from bull to bearish in this subs sentiment. And during major movements like this, the sub goes completely crazy. Making predictions of either 100k in a week or as now 18k tomorrow. If you would listen to this sub you would absolutely master buy high sell low. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You should not listen to anyone actually during rough times and during very amazing times. Those are the moments you should keep your plan to yourself. Just strictly follow it and sell/buy when YOU think it&amp;amp;#39;s right. That way you won&amp;amp;#39;t regret it.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[不要對ETH2.0有太大的壓力。維塔利克本人在Bankless播客中承認，它可能需要6年時間才能完全完成。]]></title><description><![CDATA[冷靜下來，慢慢來，因爲ETH2.0的最終形式很可能需要數年才能完成。
 的形式將需要數年才能完成。
 
 這並不意味着我們將不得不等待6年才能擁有一個高性能的
@@ -386,34 +446,4 @@ This man was named the head of the &amp;lt;strong&amp;gt;Magellan Fund&amp;lt;/s
 &amp;lt;p&amp;gt;I’ll 100% take BTC to go down 50% more but then go up to $200k in about a year. In the meantime I’ll keep buying and increasing my bag.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;If you believe in the project, then these dips shouldn’t affect you.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[最近的調查顯示，83%的千禧一代百萬富翁擁有加密貨幣--在這些人中，超過一半的受訪者擁有至少50%的加密貨幣財富，並計劃繼續購買更多。]]></title><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sviv3o/recent_survey_shows_83_of_millennial_millionaires/?score=310&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsviv3o%2Frecent_survey_shows_83_of_millennial_millionaires%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsviv3o%2Frecent_survey_shows_83_of_millennial_millionaires%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sviv3o/recent_survey_shows_83_of_millennial_millionaires/</guid><pubDate>Sat, 19 Feb 2022 02:39:31 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[還有誰？"💯]]></title><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/svr670/who_else/?score=484&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsvr670%2Fwho_else%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsvr670%2Fwho_else%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/svr670/who_else/</guid><pubDate>Sat, 19 Feb 2022 01:02:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我們需要停止將我們看到的每一個跡象稱爲 "看漲"]]></title><description><![CDATA[求你了。
-
-這沒有任何意義。
-
-今天的一切似乎都是看漲的。
-
-是關於沃倫-布弗爾還是約翰-塞納，或者埃隆-馬斯克在推特上發表的文章？
-什麼？
-
-這並不意味着它是一個看漲的跡象，所以我們真的需要停止。
-
-看起來我們會說今天的任何事情都是 "看漲 "的，當它不是....。]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/svowxe/we_need_to_stop_calling_every_sign_we_see_bullish/?score=348&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsvowxe%2Fwe_need_to_stop_calling_every_sign_we_see_bullish%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsvowxe%2Fwe_need_to_stop_calling_every_sign_we_see_bullish%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/svowxe/we_need_to_stop_calling_every_sign_we_see_bullish/</guid><pubDate>Fri, 18 Feb 2022 23:37:50 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Please.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It does not make any sense.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Everything today seem bullish.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Is it something about Warren Buffer or perhaps John Cena, or Elon musk tweeted something?&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It does not mean that it is a bullish sign  so we really need to stop.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Looks like we will say anything today is &amp;amp;quot;bullish&amp;amp;quot; when it is not. Like come on people.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Bullish is when some country like El Salvador legalize Bitcoin and start using it to make more money.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Bullish is when some big company start accepting cryptocurrency as a form of payment.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Some random folks doing something, changing their name (like CRO to CRONOS) is not a bullish sign.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We started looking like a crypto cult, not crypto investors.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[他們不會譴責特魯多，因爲他們也都在計劃這樣做]]></title><link>https://crypto.buzzing.cc/zh-Hant/tweet/1494803298649530369/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/tweet/1494803298649530369/</guid><pubDate>Fri, 18 Feb 2022 22:42:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我只是不相信還沒有一個西方領導人譴責特魯多。 這是令人作嘔的]]></title><link>https://crypto.buzzing.cc/zh-Hant/tweet/1494804061153026054/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/tweet/1494804061153026054/</guid><pubDate>Fri, 18 Feb 2022 22:42:32 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[最近的調查顯示，83%的千禧一代百萬富翁擁有加密貨幣--在這些人中，超過一半的受訪者擁有至少50%的加密貨幣財富，並計劃繼續購買更多。]]></title><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sviv3o/recent_survey_shows_83_of_millennial_millionaires/?score=310&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsviv3o%2Frecent_survey_shows_83_of_millennial_millionaires%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsviv3o%2Frecent_survey_shows_83_of_millennial_millionaires%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/sviv3o/recent_survey_shows_83_of_millennial_millionaires/</guid><pubDate>Sat, 19 Feb 2022 02:39:31 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
