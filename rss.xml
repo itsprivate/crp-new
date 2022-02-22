@@ -1,4 +1,365 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 22 Feb 2022 02:03:01 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我对拜登关于加密货币的行政命令很感兴趣。]]></title><description><![CDATA[正如你们许多人所知，拜登预计将在本周签署一项关于加密货币的行政命令。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 22 Feb 2022 03:38:38 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[CRYPTOCENCY初学者指南--如果你刚刚开始，你需要知道的一切]]></title><description><![CDATA[大家好! 这将是一个非常长的帖子，我尽我所能来解释
+在我的加密货币之旅开始时，我挣扎的事情。我不是一个
+专家，但我觉得我可以为那些需要帮助的人提供有价值的信息。
+比我更年轻的人提供有价值的信息，他们正试图开始，但却被各种问题所困扰。]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sy4y4g/beginners_guide_to_cryptocurrency_all_you_need_to/?score=319&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsy4y4g%2Fbeginners_guide_to_cryptocurrency_all_you_need_to%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsy4y4g%2Fbeginners_guide_to_cryptocurrency_all_you_need_to%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sy4y4g/beginners_guide_to_cryptocurrency_all_you_need_to/</guid><pubDate>Tue, 22 Feb 2022 02:37:27 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi all! This is going to be a &amp;lt;strong&amp;gt;VERY&amp;lt;/strong&amp;gt; long post, I did my best to explain the things I struggled with at the beginning of my Crypto journey. I am not an expert by any means, but I feel I can provide valuable information to those newer than me who are trying to get started but are overwhelmed by the amount of information on the internet.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I also have a Crypto/Finance &amp;lt;a href=&quot;https://www.youtube.com/channel/UCZPtriLb37Vth1KQ2u7PmGw&quot;&amp;gt;Youtube Channel&amp;lt;/a&amp;gt; and the text below is the transcript of my video. If you will gain some useful knowledge and have some time, I would &amp;lt;strong&amp;gt;really&amp;lt;/strong&amp;gt; appreciate if you&amp;amp;#39;d take a look. :) &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;TOPICS I COVER IN THIS POST&amp;lt;/strong&amp;gt;:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Cryptocurrency&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Centralized vs Decentralized&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Distributed Ledger&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Blockchain&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Satoshi&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Bitcoin&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;White Paper&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Proof of Work&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Mining&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Proof of Stake&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Ethereum&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Smart Contracts&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Coin vs Token&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Tokenomic&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Exchanges&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Wallets&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Mnemonic Phrases&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Types of Crypto&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;DEFI&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;DEXs&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Lending and Borrowing DAPPs&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;1. Cryptocurrency&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Let’s start from ground zero: cryptocurrencies. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Everyone has heard of this term, but few know what it means. It derives from two words: cryptography and currency. &amp;lt;strong&amp;gt;Cryptography&amp;lt;/strong&amp;gt; is at the basis of all cryptocurrencies as all of them depend on it to secure transaction records, to control the creation of additional coins, to verify the transfer of coins, and most importantly, to make them decentralized.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Secondly, they’re called &amp;lt;strong&amp;gt;currency&amp;lt;/strong&amp;gt; because well, cryptos are a currency.. &amp;lt;del&amp;gt;for the most part&amp;lt;/del&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Now, a cryptocurrency is a form of digital asset, so online, based on a network that is distributed across a vast number of computers, and they are based on something referred to as a distributed ledger, or, more specifically, blockchain technology.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;2. Centralized and Decentralized&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;The difference between centralized and decentralized is that in a centralized system, as the name suggests, the power and control are in the hands of a central authority, usually it’s a very small and limited group of individuals, such as the owner of a business, or the director of bank, whereas a decentralized system is controlled by everyone who partakes in that system. In the case of crypto, it can be you, me, and everyone else.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The main point of cryptocurrencies is that they are decentralized, which contrasts with the traditional monetary payment systems such as banks and financial institutions, which are heavily centralized.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;3. Distributed Ledger&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;A distributed ledger is a &amp;lt;strong&amp;gt;PUBLIC&amp;lt;/strong&amp;gt; decentralized database that is shared and synchronized by multiple people who have equal access to all the information shared across that network and can own an identical copy of it. Nobody is cut out, and everyone who wishes to partake in it, can do so.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;One of the types of these distributed ledger databases is none other than blockchain, which is what cryptocurrencies are fundamentally based on.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;4. Blockchain&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;A blockchain is a database that is shared among the participants, also called computers or nodes, of a network, and it stores information digitally. They are best known for their crucial role in cryptocurrency systems for maintaining a secured and decentralized record of transactions.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The mind-blowing innovation is that this technology guarantees the security of the data stored in it, without the need for a trusted third party, in other words not only there will be no need to have a central authority, but this technology was designed to be entirely public to anyone. You don’t see a bank’s internal transaction, you don’t see a company’s financial statements, but you see each Bitcoin user’s balance and transactions.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Another key difference between a typical database and a blockchain is how the data is structured. A blockchain, collects information together in groups, known as blocks, that hold sets of information together. These digital blocks, which are blocks just metaphorically speaking but not in the literal sense, have certain storage capacities, for example, each Bitcoin’s block is &amp;lt;strong&amp;gt;1MB&amp;lt;/strong&amp;gt; and can contain on average &amp;lt;strong&amp;gt;2500 transactions&amp;lt;/strong&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;When a block is filled and completed, it is linked to the previous completed block in a way we’ll see shortly, effectively forming a chain of blocks containing data, known as a blockchain.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;5. Satoshi&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;This brings us to the first and most famous cryptocurrency that everyone knows, Bitcoin. It was created in &amp;lt;strong&amp;gt;January 2009&amp;lt;/strong&amp;gt; by the pseudonymous &amp;lt;strong&amp;gt;Satoshi Nakamoto&amp;lt;/strong&amp;gt;. No one to this day knows who he is, and people have been speculating about his identity for over a decade with speculations ranging from, for example, that he may have been a group of people rather than a single individual, or perhaps even one of the three letter agencies. There are a few valid candidates, but no one knows for sure.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;One thing however that is for sure is Satoshi’s hatred for banks and for the people at the top who hold the power to control financial systems to the point where they can willingly cause citizens to lose their livelihoods, homes, and sometimes, even lives through financial crashes, without any repercussion, such as the 2008 housing market crash.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Satoshi is said to own close to &amp;lt;strong&amp;gt;1 million Bitcoins&amp;lt;/strong&amp;gt; divided in multiple addresses, which would place him at a net worth of 40 billion dollars today if it’s true, and IF he is still alive, and those are two big ifs.&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;6. White Paper&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Satoshi published the white paper of BTC in &amp;lt;strong&amp;gt;October 2008.&amp;lt;/strong&amp;gt; A white paper, in cryptocurrency, is a document released by a project’s funders, not only in the case of Bitcoin, but in the case of any &amp;lt;del&amp;gt;serious&amp;lt;/del&amp;gt; crypto project.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;A white paper gives technical information about a project and its future roadmap. Satoshi’s vision for Bitcoin was quote “A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution&amp;amp;quot;. He wanted people to have the means to make payments with a currency, Bitcoin, without being under the control of the big guys at the top while doing so.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;But then begs the question.. how is consensus achieved? How do all the participants agree which transactions are valid and which are not, in a situation where everything is public and everyone, including bad people, can see everything?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;7. Consensus Mechanism&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Here comes into play the part of consensus mechanisms. It is the process through which the nodes in charge of a blockchain database achieve consensus on the validity of each transaction and decide if to proceed with it, or not.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Being that everyone can take part in a blockchain we needed something to prevent any malicious user trying to hijack the network, for example, by creating fake transactions where he gives himself all the Bitcoins in existence and becomes the richest person in the world. This is also known as the double spending problem, and Bitcoin was the first system to solve it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;To solve this, cryptocurrencies need some type of consensus method, through which, everyone taking part in the system, comes to a mutual agreement. There are multiple types of consensus mechanisms, &amp;lt;strong&amp;gt;the two main ones are Proof of Work and Proof of Stake&amp;lt;/strong&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;8. Proof of Work&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Proof of Work (PoW) is a decentralized consensus mechanism that requires all the participants of a network to spend computational power, solving a complex mathematical equation, commonly referred to as mining, to prevent anybody from manipulating the system.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Now, let’s start with an example to make things easier.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;There are two friends, Bob and Alice. Each have $20 worth of Bitcoin and Bob sends Alice $10 of those $20, in a Bitcoin transaction. The transaction is placed in a block together with about 2500 other transactions, the block then gets confirmed and recorded into the blockchain. Now, Bob effectively has $10 worth of BTC, and Alice has $30 worth of BTC.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;To avoid Bob claiming he never sent that $10 worth of Bitcoin in the original block, there was let’s call it a code, more specifically &amp;lt;strong&amp;gt;hash&amp;lt;/strong&amp;gt;, placed in that block and it looked like this:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f&amp;lt;/strong&amp;gt; &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;(First Bitcoin&amp;amp;#39;s Block Hash)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;That hash uniquely identified the block which got filled with Bob and Alice’s transaction. It was created through an algorithm, and it was a sort of summary of all those unique 2500 transactions that took place in that block.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The following block will not only have its own unique hash as well, but that hash will merge with Bob and Alice’s block’s hash, forming a final hash and connecting the two blocks together, effectively creating a chain of linked blocks where each new block is connected to the previous one.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The third block will again have its own hash merged with the hash of the second block, which was merged with the hash of Bob and Alice’s block.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The catch point is, if just 1 of those 2500 transactions in each block is altered, the entire hash for that block will change, even if the other 2499 transactions are intact. This will inevitably cause the second block to be invalid as its hash wouldn’t match with the first block’s hash, which will cause the third block to not match with the hash of the second one and so on, and so on, effectively creating a chain  of events. &amp;lt;del&amp;gt;I know, this joke was not funny at all, but I wanted to say it.&amp;lt;/del&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Do you see where I am getting with this?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The transactions are in the blocks, and all the blocks are linked together.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If Bob would alter his original transaction, the hash of the block in which the transaction was placed would change and would make all the following blocks with all the transactions in them, invalid. To successfully fake or alter a transaction, he would need to control a majority, at least 51%, of the entire computing power of the Bitcoin blockchain, to manipulate the following blocks quicker than the honest participants of the network.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;All of this, finally brings us to mining.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;9. Mining&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Mining, which is applied to any cryptocurrency based on Proof of Work such as Bitcoin, Ethereum (for now), Dogecoin, Litecoin and many more, is the process by which new coins enter in circulation. It is also the way a network confirms new transactions, and it is a critical component of a blockchain ledger&amp;amp;#39;s maintenance and development.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Participants need to use their computational power through specific mining hardware, called application-specific integrated circuit, or &amp;lt;strong&amp;gt;ASIC&amp;lt;/strong&amp;gt;s, to solve a complex and random mathematical equation in order to create a new block.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Put in simple terms, those very powerful machines have to guess a certain number. The more computer power you have, the higher the chances to guess that number before anyone else does are.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Whoever guesses it first, will effectively create a new block and new Bitcoins (or any other crypto that is mined) into existence, and those Bitcoins will be rewarded to them as a reward for the time and effort they had to put in to sustain the network.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This process allows for the removal of bad players from the ecosystem, as taking part in it requires huge amounts of resources such as space, electricity, and especially the costs of mining hardware.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You need to know however that not all Proof of Work cryptos require ASIC card to be mined. It depends on the algorithm on which a crypto is built on. Any mineable crypto can be mined in one of two ways, either through ASIC cards or normal GPUs such as Nvidia or AMD cards.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;For example, to mine Ethereum, the second largest crypto, you can do it from your computer’s graphics card and does not require you to buy any additional components, and that’s why all Nvidia’s new 3000 series GPUs are always sold out.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Mining has extensively been up to debate as it consumes a lot of electricity due to the huge power consumption of graphics cards. Back in the day, you could mine Bitcoin from your laptop, but those days are long gone now. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Now. Here is where the genius of Satoshi comes into place, which is applied to any proof of work cryptocurrency, not just Bitcoin.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The more powerful GPUs get, the more difficult it will become to solve this mathematical equation and create new blocks.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Wait.. what? Shouldn’t it become faster rather than slower, if more powerful components become available? &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Bitcoin was programmed so that one block would be mined every 10 minutes on average, and every 2016 blocks, or about two weeks, or the algorithm calculates how long it took to mine those blocks. If it took more than 14 days it means that it was too difficult and the difficulty will decrease, if it took less than 14 days it means that it was too easy, and the difficulty will increase. The more people enter the network and start mining, the more difficult mining becomes to obtain the same results and the more powerful GPU’s will be required to produce those same results.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Each Bitcoin block rewards 6.25 Bitcoins to the winner. This reward is cut in half approximately every 4 years and it is called halving.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;At the beginning, the reward was 50 BTC per block. The first halving happened in 2012 and it reduced the block reward to 25 BTC. The second halving was in 2016 and it reduced the reward to 12.5 BTC, and finally, the last halving happened in May 2020 which brought the reward to 6.25BTC per block. The next one will be in 2024 and it will drop the reward to 3.125 BTC.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;On a final note, mining crypto on your own, especially in the case of Bitcoin, is close to impossible unless you are considerably wealthy, because it would require an absurd amount of capital just to have a small chance to mine a block, that’s why there are networks called mining pools, made of thousands if not tens of thousands of people combining their computing power to mine one specific crypto together and proportionally split the block rewards. The vast majority of mining pools are either in Bitcoin or Ethereum.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;10. Proof of Stake&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;As the second most used consensus mechanism, we have Proof of Stake. The holders of a Proof of Stake crypto will deposit and lock up, called staking, the coins of that crypto that they own, and &amp;lt;strong&amp;gt;become a validator&amp;lt;/strong&amp;gt;. By doing this, they will get the chance to be chosen to validate the next block, and whoever does it, will be rewarded the block reward.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Whether a validator will get chosen to validate the next block will depend on different factors, two of the main ones are randomness and how many coins they staked. This cuts out the gigantic energy and resources consumption that happens with Proof of Work as with Proof of Stake you do not require any sort of specific computer hardware.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;At the same time however, people argue that this consensus mechanism tends to reward those already wealthy, as the more coins you have, the more likely the chances to be randomly selected and earn the block rewards are.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Some argue that this makes the ecosystem more centralized as wealthier individuals become even wealthier, however, the same argument can also be applied to Proof of Work, as if you have more capital you can afford to buy more mining equipment which in contrast will generate more revenue. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;11. Ethereum&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;This connects us to Ethereum. The second largest cryptocurrency by market cap since its creation in 2016, second only to Bitcoin.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Ethereum has always been on POW just like Bitcoin, but it is currently migrating to POS to solve several issues such as transaction fees, called gas fees, and transactions per second.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The main difference from Bitcoin, is that Ethereum features a key technology called “smart contracts”.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;12. Smart Contracts&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Smart contracts are automated programs, built on the Ethereum blockchain, or any other blockchain with smart contract capabilities. &amp;lt;strong&amp;gt;They are fully controlled by code&amp;lt;/strong&amp;gt; and once deployed on the blockchain, they cannot be changed or altered. They allow you to build multiple programmable functions on top of them, to be executed once a criteria is met.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;With Bitcoin, for example, all you can do is transfer the coin as a means of payment and you cannot build anything on top of its blockchain. With Ethereum however, besides transferring its main coin, Ether, you can build and create all sorts of applications on it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;And no, Ether and Ethereum are not quite exactly the same thing. Ethereum is the blockchain, the network, the foundation, whereas Ether is the native coin of the blockchain.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The most famous examples of smart contracts by far, are well, NFTs, and it shouldn’t really come at a surprise.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;On the other hand, however, there are also useful smart contracts that provide real financial services, such as crypto lending and borrowing, decentralized exchanges, liquidity pools, insurance services, and much more, but we will get into that a bit later.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;13. Coin vs Token&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Now. All of them are cryptocurrencies, but not all of them are coins or tokens. Many people call them coins when in reality, they are tokens or call them tokens when in reality, they are coins.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The difference is that &amp;lt;strong&amp;gt;a coin is native to its own blockchain&amp;lt;/strong&amp;gt;, Ether is a coin native to its own blockchain called Ethereum. Bitcoin is a coin native to its own blockchain called Bitcoin. Shiba inu, however, is a token because it is built on Ethereum’s blockchain. Creating a fully operable blockchain is way more difficult than creating a token on an already established blockchain.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;14. Tokenomics&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Now, let’s get into how the value of a cryptocurrency is derived and its tokenomics, which is simply a term that indicates the economics of a crypto.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Supply&amp;lt;/strong&amp;gt; - The first and most important thing of any given cryptocurrency is the supply. This can be further divided into three categories:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Maximum Supply&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Total Supply&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Circulating Supply&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Maximum Supply&amp;lt;/em&amp;gt; - It is the amount of tokens or coins of a crypto that will ever exist, including the ones that will be created through mining, staking, or made available in the future. Bitcoin&amp;amp;#39;s maximum supply is 21,000,000 coins which will only be reached in over 100 years from now. Ethereum, on the other hand, has an unlimited max supply.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Total Supply&amp;lt;/em&amp;gt; – It is the amount of coins or tokens of a crypto currently in existence, including the ones that may not be publicly available, such as those locked in an escrow or held by the team, but without counting the coins or tokens yet to be created and put into existence through mining, staking etc.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Circulating Supply&amp;lt;/em&amp;gt; - Circulating supply is the amount of a crypto in circulation in the present moment and in the hands of the general public, EXCLUDING the coins or tokens of that crypto, that are locked or held by entities such as the team behind the project.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Market Cap&amp;lt;/strong&amp;gt; – Market capitalization, or market cap for short, is the dollar value of all the coins or tokens of a crypto combined and it is calculated by multiplying the total supply by the last price a single coin or token was sold for. In the case of Bitcoin, there are approximately 18,950,000 Bitcoins, and with about $40,000 per coin, it would place the market cap at around 750 billion dollars.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;15. Exchanges&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Now, However, begs the question, where are these cryptocurrencies bought from and how do you store them safely?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Cryptocurrencies are generally bought from what are called &amp;lt;strong&amp;gt;centralized exchanges&amp;lt;/strong&amp;gt;. They are regulated companies which provide you the service of acting as a trusted middlemen between the people who want to sell a specific crypto, and the people who want to buy it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;They decide which cryptos to list and there is no exchange that has all the cryptos in existence listed. It is a decision up to them. There are exchanges which list as many cryptos as possible to earn as much as they can, and exchanges known for listing as few as possible, but when they do, it’s all over the news &amp;lt;del&amp;gt;*cough* Coinbase *cough*&amp;lt;/del&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The way they stay in business is by charging a small commission on each trade. The typical commission fee averages between 0.05% and 0.1%, and the larger your order will be, the lesser you will pay in fees.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;16. Wallets&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;After you purchase a cryptocurrency on an exchange, the next step is always choosing how to store it safely. There are two main types of crypto storages. Custodial and non-custodial wallets.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Custodial Wallets -&amp;lt;/strong&amp;gt; Someone else retains custody of your assets. You do not own your cryptos but they do, on your behalf. These are mostly the previously mentioned exchanges, and this is where the famous phrase in the crypto community “not your keys, not your coins” comes from.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;By giving up custody of your funds, you have a better peace of mind because you do not bear the responsibility of securing your assets and all the risks involved with it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The Crypto community however has mixed feelings on whether holding your cryptos on an exchange is worth it due to previous exchange hacks which resulted in stolen and lost funds on multiple occasions. On top of that, it totally ruins the goal of crypto: to escape from the control of centralized entities and aiming to be our own banks.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Non-Custodial Wallets&amp;lt;/strong&amp;gt; - These are the wallets that you personally own and hold your crypto in. They can be mainly divided into two categories: hot wallets and cold wallets.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Hot Wallets&amp;lt;/strong&amp;gt; - They are software, usually apps you can download on your phone, such as the Trust wallet, Exodus or Coinbase wallet. They do offer a fantastic grade of protection and are free to use. You are the only owner of your assets and under most circumstances they are more than enough to protect what you hold, but if your device becomes compromised, you can lose everything. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The most famous hot wallet by far is Metamask. It’s an Ethereum based wallet that comes as a web browser extension and every Ethereum compatible blockchain, such as Binance Smart Chain, Polygon and Avalanche, plus all the decentralized applications built on those blockchains, are compatible with Metamask. They also have a mobile app, but it’s not used as often.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Cold Wallets&amp;lt;/strong&amp;gt; - They are offline physical devices such as the Ledger Nano and the Trezor. You usually connect them to the computer through a cable and use a specific program to access them.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The difference is that you will have to write your mnemonic phrase, we’ll get into what it is shortly, and approve transactions from the device itself which cannot get accessed unless someone has physical access to it, and as it is offline it can’t be hacked. They offer a way higher grade of protection because they do not rely on the security of your mobile phone or computer and that’s why they cost from around $60 to $200 to buy, depending on the type and features. For this reason, it isn’t the best option if you do not have much money to begin investing with. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Broadly speaking, most crypto holders, including myself, tend to agree that if you have a small capital to invest, it might be better to keep it on an established exchange, especially if it is in Ethereum, and transferring those coins out would cost a fortune in transaction fees.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The most important thing to know if you decide to buy a hardware wallet, is to &amp;lt;strong&amp;gt;ALWAYS&amp;lt;/strong&amp;gt; buy it from the official company’s website and not from a third-party seller, even if you might find it discounted. This is because you would increase the risk of receiving a tampered device, which is by no means worth it just to save a few dollars.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;17. Mnemonic Phrases&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Now, mnemonic phrases. All you need to know to keep your crypto safe is that when you create a so called “account” on a wallet, you are given a random set of 12-18-24 words which is called a mnemonic phrase. This combination of words will act as a password to access all your crypto. These words are randomly chosen from a specific list of 2048 words, and each word can all be identified by the first four letters. This technology was designed so that we could have a human readable “password” instead of a random set of numbers and letters.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;THE MOST IMPORTANT THING&amp;lt;/strong&amp;gt; you need to understand is that your crypto will &amp;lt;strong&amp;gt;NOT&amp;lt;/strong&amp;gt; be stored in that mobile app or ledger device, but on the blockchain. The wallets are just a gateway, like an intermediary, that provide an easy-to-use interface for everyone.  The one and only thing you must carefully store, is the mnemonic phrase.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you lose your phone with a hot wallet installed, or a hardware device like the ledger nano, nothing will happen to your crypto as long as you still have access to the mnemonic phrase, which you can use to restore your crypto on a new wallet.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You absolutely &amp;lt;strong&amp;gt;MUST&amp;lt;/strong&amp;gt; write down on at least two pieces of paper those words, &amp;lt;strong&amp;gt;NEVER&amp;lt;/strong&amp;gt; take pictures or screenshots of them, store them safely and never tell anyone where they are.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Do not try to bury your ledger nano 10 feet under the ground, the only thing that matters is the mnemonic phrase which can be restored on any wallet, both hot and cold. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;As you can imagine, the difficulty with self-custody is evident. If you lose access to both your seed phrase and to the device where it was connected, your crypto will be lost forever. Hacking a mnemonic phrase is impossible, and 99% of those “hacking” claims you see online are simply because people’s phones or computers were either compromised or they accidentally screenshotted or emailed themselves the mnemonic phrase, or sometimes even both, for the sake of comfort, and it got leaked.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;18. Types of Cryptocurrencies&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Going back to Cryptos. There are many types of cryptocurrencies, but only about eight are the most common:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Store of Values&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Smart Contracts&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Stablecoins&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Payments&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Privacy&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Exchange Tokens or Coins&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Governance tokens&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Sh*tcoins&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Store of Value&amp;lt;/em&amp;gt; - They are designed to hold their value and purchasing power over time. The only crypto which is arguably considered to be one is Bitcoin because it has always tremendously increased in value over time since its inception rather than losing value like our beloved fiat currencies. People believe it is an effective hedge against inflation and that’s why Bitcoin is sometimes referred to as digital gold.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Smart Contract&amp;lt;/em&amp;gt; - They are designed to be programmable and allow building applications on their blockchain, for different purposes. The most famous and used one, is Ethereum. This brought to the creation of Decentralized finance, or DEFI, in which we’ll get into in a minute. Other examples of smart contract cryptos are Binance Smart Chain, Avalanche and Solana.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Stablecoins&amp;lt;/em&amp;gt; - They are usually pegged to fiat currencies, mostly, to the US dollar. They hold all the properties of any other crypto, but their value is… stable. For example, when a stablecoin is indeed pegged to the dollar, the goal will always be to maintain and hold the value of one dollar per coin. They aim to eliminate price volatility and to provide a stable medium of exchange without the need to cash out, or, in other words, without the need to withdraw those dollars to your bank account. Examples are: USDT (to avoid), USDC, BUSD and DAI&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Payment&amp;lt;/em&amp;gt; - They are very fast and cost very little to transact with. They are exceptionally good for transferring money quickly and cheaply. However, they tend to be more centralized as they require powerful machines to run them which normal people have no access to.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Privacy&amp;lt;/em&amp;gt; - They have.. well, privacy. You see, the thing with Bitcoin that not many understand is that it is pseudonymous. All the transactions, addresses and balances are nameless, but public. Everything can be easily tracked, but nobody knows which address you own. If, however, someone finds it out, they will immediately see how much you own, who you sent crypto to, and all your transactions. There are cryptos, however, that offer full privacy and anonymity of balances and transactions. Examples are Monero and Zcash.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Exchange Tokens or Coins&amp;lt;/em&amp;gt; - They are created by the exchanges from which you can purchase crypto. They offer you perks such as fee discounts if you hold their coin or token and use it to pay for the fees. The most famous one is by far Binance, and its coin, Binance coin. If you paid attention I said coin, and that is because Binance also created its own blockchain called Binance Smart Chain, with BNB as the native coin, just like ETH is the native coin of Ethereum.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Governance Tokens&amp;lt;/em&amp;gt; - They grant voting and management powers to their users. They are very important in DeFi ecosystems such as Uniswap.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Memecoins, also called Sh\&amp;lt;/em&amp;gt;tcoins* - They are always created on other blockchains, just like Shiba Inu is on Ethereum. The only major exception is Dogecoin, which has its own blockchain. They serve no purpose or utility and people just buy them in the hopes of making money, which sometimes works, don’t get me wrong, otherwise we wouldn’t be hearing about them, but the best way to describe them, is gambling.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;19. DeFi&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Now that we covered the basics of the basics, and I know it’s lot, especially if you’re a beginner, let’s get into the final part with a bit more complex stuff.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;DeFi&amp;lt;/strong&amp;gt; - As we mentioned, smart contracts are automated programs that are built to follow a specific function, such as if I give you X amount of ETH, I receive X amount of a token built on Ethereum. Once deployed on a blockchain, these smart contracts cannot be changed, hence they are decentralized.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you combine multiple smart contracts into something more complex, you get decentralized finance, or DeFi, with decentralized applications, or &amp;lt;strong&amp;gt;DAPPs&amp;lt;/strong&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;DeFi is a collective term for financial products and services that are built on a blockchain and are accessible to anyone. These services are always open and there are no centralized authorities who can block payments or deny you access to something, as everything is fully based on code.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;In other words, DeFi cuts out the middleman and offers financial services to everyone, and unlike banks, it does so without discrimination. Let’s get now into a couple of examples of real world use cases.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Decentralized Exchanges&amp;lt;/strong&amp;gt; - They are simply exchanges where you can trade cryptocurrencies, with the difference that they are decentralized. They are built on one or multiple blockchains and you can trade any token built on that blockchain (or blockchains). These can range from stablecoins, to governance tokens, to meme coins.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The main pros of using a decentralized exchange is the fact that you do not need to create an account or share your personal information, everything is done in a completely anonymous way. You usually just need to create a Metamask wallet, and you are good to go.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;On the downside however, if you want to trade Ethereum based tokens, you will pay astronomical transaction fees, and on top of that, you will be the only person responsible for any loss of funds.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The most famous example is Uniswap, and you can use it to trade any token built on Ethereum.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Lending and Borrowing&amp;lt;/strong&amp;gt; - I’ll start this one with an example. Let’s say you own 2000$ worth of ETH and you believe that it is going to go to the moon soon. Let’s also hypothetically say that you find yourself in a real-life emergency situation and you need 1000$.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You will now have two options. You can either sell half of your ETH and call it a day, but miss out on an eventual price appreciation, or you can lock up your ETH as collateral in a lending and borrowing decentralized application and borrow 1000$ worth of a stable coin against the collateral that you just deposited. This way, you will end up with keeping your position in ETH and be able to ride it and you will also get the $1000 you need.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;To get back your ETH you would obviously need to pay back your debt of $1000 plus the occurring borrowing fees.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Respectively, if you wish to earn passive income, you can lock up your Crypto with the ability to withdraw it anytime (zoom face) and lend it to those interested in borrowing it just like in our previous example. In exchange, you will earn an interest, which is way higher than the 0.5% that a bank’s savings account gives you, while the inflation rate for 2021 rose up 7%.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;20. Conclusion&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;If you had the patience to read through these ~5500 words, thank you so much and I hope you gained some value!&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我对拜登关于加密货币的行政命令很感兴趣。]]></title><description><![CDATA[正如你们许多人所知，拜登预计将在本周签署一项关于加密货币的行政命令。
 监管的行政命令。我相信这不过是个好消息。你们中的一些人
 现在可能认为我疯了，因为 "监管 "从来都不是一件好事。
 好的事情。但在这种情况下，它是，或者我应该说，可能是....。]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sxuulh/i_am_intrigued_by_bidens_executive_order_on_crypto/?score=304&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsxuulh%2Fi_am_intrigued_by_bidens_executive_order_on_crypto%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsxuulh%2Fi_am_intrigued_by_bidens_executive_order_on_crypto%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sxuulh/i_am_intrigued_by_bidens_executive_order_on_crypto/</guid><pubDate>Tue, 22 Feb 2022 01:03:01 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;As many of you know Biden is expected to sign an executive order on crypto regulation this week. I believe this is nothing but great news. Some of you right about now are probably thinking I am crazy because “regulation” is never a good thing. But in this case it is, or should I say, could be. Shining the light on crypto and providing a base set of regulations could open the door to a whole new world of investors such as major institutions and every day investors such as you and me. Crypto will never be widely accepted by the majority until there are some forms of regulation. Now saying that, I am not for overstepping the boundaries and the government going all out to try to kill crypto in general. But I am for a small set of regulations to ease the mind of those on the fence for investing or making it any option for their investors. How does everyone else feel? This is just a general discussion to go over the possible pros and cons of the executive order.&amp;lt;/p&amp;gt;
@@ -468,13 +829,4 @@ Opensea一直在他们网站的顶部向用户做广告，所以他们...]]></de
 &amp;lt;p&amp;gt;Edit 2: seems like the attacker has stolen over 700 eth worth as of yet&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler Filler&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Crypto.com获得了迈阿密大奖赛的冠名权。]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/swbg9m/cryptocom_secures_naming_rights_to_miami_grand/?score=304&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fswbg9m%2Fcryptocom_secures_naming_rights_to_miami_grand%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fswbg9m%2Fcryptocom_secures_naming_rights_to_miami_grand%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/swbg9m/cryptocom_secures_naming_rights_to_miami_grand/</guid><pubDate>Sun, 20 Feb 2022 01:09:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[钱獾不屑一顾]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/swkawg/money_badger_dont_give_a_fuck/?score=632&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fswkawg%2Fmoney_badger_dont_give_a_fuck%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fswkawg%2Fmoney_badger_dont_give_a_fuck%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/swkawg/money_badger_dont_give_a_fuck/</guid><pubDate>Sun, 20 Feb 2022 01:09:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我确信90%的NFT和metaverse销售都是人们向自己销售的狗屎。9%的人是白痴，他们认为自己可以把一张难看的jpeg转手卖出更多，也许1%的人真的相信虚拟生态系统。]]></title><description><![CDATA[夸大任何NFT的价格是非常容易的。创建两个钱包，卖出
-用一个，用另一个购买。你只是为你自己的NFT设定了一个价格!
-
-仅这一点就足以让我怀疑每个NFT市场上的所有销售。
-你也应该如此。我将远离所有的NFT，尤其是...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/swggxe/i_am_sure_90_of_all_nft_and_metaverse_sales_are/?score=313&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fswggxe%2Fi_am_sure_90_of_all_nft_and_metaverse_sales_are%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fswggxe%2Fi_am_sure_90_of_all_nft_and_metaverse_sales_are%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/swggxe/i_am_sure_90_of_all_nft_and_metaverse_sales_are/</guid><pubDate>Sat, 19 Feb 2022 22:41:05 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;It is extremely easy to inflate a price of any NFT. Create two wallets, sell with one, buy with another. You just set a price for your own NFT!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This alone is proof enough for me to doubt all sales on every NFT marketplace and you should too. I would stay away from all NFTs and especially the &amp;amp;quot;established&amp;amp;quot; and expensive ones. The prices are inflated by a couple of wealthy crypto-bros who are not wealthy enough to manipulate mid-cap coins anymore. They realized that it is incredibly easy to make idiotic Jpegs, sell them to themselves and the community will do the legwork and write articles about &amp;amp;quot;Bored Ugly Gorilla Club for 6.000.000!!&amp;amp;quot; and so on. This will lead to suckers buying this shit for &amp;amp;quot;cheap&amp;amp;quot; (bro, it&amp;amp;#39;s only 10 ETH, bro!).&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Is there a place for a virtual market? Undoubtedly yes, but you will not sell you ugly-ass cartoon for millions in a couple years.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Crypto.com获得了迈阿密大奖赛的冠名权。]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/swbg9m/cryptocom_secures_naming_rights_to_miami_grand/?score=304&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fswbg9m%2Fcryptocom_secures_naming_rights_to_miami_grand%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fswbg9m%2Fcryptocom_secures_naming_rights_to_miami_grand%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/swbg9m/cryptocom_secures_naming_rights_to_miami_grand/</guid><pubDate>Sun, 20 Feb 2022 01:09:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[钱獾不屑一顾]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/swkawg/money_badger_dont_give_a_fuck/?score=632&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fswkawg%2Fmoney_badger_dont_give_a_fuck%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fswkawg%2Fmoney_badger_dont_give_a_fuck%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/swkawg/money_badger_dont_give_a_fuck/</guid><pubDate>Sun, 20 Feb 2022 01:09:29 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
