@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 23 Feb 2022 06:44:08 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[美联储官员被禁止交易!]]></title><description><![CDATA[正如你可能已经看到的那样，在过去的几天里，有一个头条新闻在互联网上流传。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 23 Feb 2022 07:48:18 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[只是为了好玩，我做了一个预测比特币价格的程序]]></title><description><![CDATA[我很无聊，想写一个python程序，我决定写一个
+一个预测比特币的程序。
+
+它的工作原理是，它查看过去N天的价格图（通过不同的N值循环），然后试图找到摩根的时间。
+不同的N值），然后试图找到过去最相似的价格模式的时间
+在过去发生的价格...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sz29b9/just_for_fun_i_made_a_program_that_predicts_the/?score=342&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsz29b9%2Fjust_for_fun_i_made_a_program_that_predicts_the%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsz29b9%2Fjust_for_fun_i_made_a_program_that_predicts_the%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sz29b9/just_for_fun_i_made_a_program_that_predicts_the/</guid><pubDate>Wed, 23 Feb 2022 06:39:03 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I was bored trying to think of a python program to write and I decided to write a bitcoin predicting program.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;How it works is it looks at the price graph for the last N (cycling through different values of N) days then tries to find the time the most similar pattern in price occurred in the past to the current pattern, then predicts the price based on what happened after that previous pattern occurred.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This is probably worthless and won&amp;amp;#39;t be an accurate reflection of the future price at all, but just for fun, here&amp;amp;#39;s what it says about the next few years of bitcoin.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It says that the current pattern we&amp;amp;#39;re in is reminiscent of 2018-01-06.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;On the graph, the left side of the green line is the recent price history (red line) and historical price history from 2018-01-06 (blue line), and right of the green line, the future price (red line) is modelled after the price history from 2018. The y-axis numbers on the left are the recent/future price and the y-axis numbers on the right are the historical prices from 2018.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;90-day prediction:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Graph: &amp;lt;a href=&quot;https://i.imgur.com/gyQu523.png&quot;&amp;gt;https://i.imgur.com/gyQu523.png&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Peak: 2022-02-24 $41,030.37&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Bottom: 2022-04-19 $24,538.98&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Final: 2022-05-21 $34,227.86&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;1-year prediction:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Graph: &amp;lt;a href=&quot;https://i.imgur.com/1MZjLFX.png&quot;&amp;gt;https://i.imgur.com/1MZjLFX.png&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Peak: 2022-02-24 $41,030.37&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Bottom: 2022-10-06 $13,340.72&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Final: 2023-02-20 $22,262.68&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;(just under) 3-year prediction:&amp;lt;/strong&amp;gt; (falls just short of 3 years, I think because it doesn&amp;amp;#39;t have enough data)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Graph: &amp;lt;a href=&quot;https://i.imgur.com/m76ks2c.png&quot;&amp;gt;https://i.imgur.com/m76ks2c.png&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Peak: 2025-08-30 $282,899.62&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Bottom: 2022-10-06 $13,340.72&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Final: 2025-12-13 $155,385.66&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So there you have it. Just a bit of entertainment. Don&amp;amp;#39;t go investing based on this. I&amp;amp;#39;m gonna keep track and see how successful its predictions were.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[美联储官员被禁止交易!]]></title><description><![CDATA[正如你可能已经看到的那样，在过去的几天里，有一个头条新闻在互联网上流传。
 互联网。美联储官员被禁止交易股票、债券和
 加密货币。
 
@@ -722,14 +768,4 @@ make things worst.&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;So my question is: how do you guys address the common accusation that we&amp;amp;#39;re all just crabs trying to claw our way to the tippy-top of a grand digital ponzi? Many thanks.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Edit:&amp;lt;/strong&amp;gt; To those saying &amp;amp;quot;nothing&amp;amp;quot;, I appreciate the pragmaticism - but I&amp;amp;#39;m after retorts that address the core scepticisms that a lot of people display towards crypto. Either way, I always ask myself &amp;lt;em&amp;gt;&amp;amp;quot;am I still early??&amp;amp;quot;&amp;lt;/em&amp;gt; I wonder if the internet&amp;amp;#39;s early days were met with a similar response.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Lil Yachty和Soulja Boy因加密货币泵和倾销计划被起诉]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sxedqc/lil_yachty_soulja_boy_sued_for_crypto_pump_and/?score=301&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsxedqc%2Flil_yachty_soulja_boy_sued_for_crypto_pump_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsxedqc%2Flil_yachty_soulja_boy_sued_for_crypto_pump_and%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sxedqc/lil_yachty_soulja_boy_sued_for_crypto_pump_and/</guid><pubDate>Mon, 21 Feb 2022 03:46:35 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[不错的尝试]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sxflum/nice_try/?score=541&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsxflum%2Fnice_try%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsxflum%2Fnice_try%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sxflum/nice_try/</guid><pubDate>Mon, 21 Feb 2022 02:44:10 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[修复钱的问题]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sx8p3h/fix_the_money/?score=331&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsx8p3h%2Ffix_the_money%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsx8p3h%2Ffix_the_money%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sx8p3h/fix_the_money/</guid><pubDate>Mon, 21 Feb 2022 01:45:41 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[一个名为Polyroll的硬币在不到24小时内损失了100%的价值]]></title><description><![CDATA[因此，在不到24小时内，一个名为Polyroll的多边形链币刚刚拉动了
-90,000名持有人。我重复一遍，9万个该死的持有人。令人担忧的是
-的是，这个项目（骗局）是由ChainLink自己支持的。他们甚至在推特上说
-在他们的官方推特上介绍了这个币，以及这个币如何...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sx561g/a_coin_named_polyroll_lost_100_of_its_value_in/?score=340&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsx561g%2Fa_coin_named_polyroll_lost_100_of_its_value_in%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsx561g%2Fa_coin_named_polyroll_lost_100_of_its_value_in%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sx561g/a_coin_named_polyroll_lost_100_of_its_value_in/</guid><pubDate>Mon, 21 Feb 2022 00:35:51 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;So in less than 24 hours, a polygon-chain coin named Polyroll just rug pulled 90,000 of its holders. Im repeating, 90 freaking thousand holders. What worrying is that the project (scam) was backed by ChainLink itself. They even tweeted it on their official twitter about this coin and how this coin is the number 1 polygon casino game coin.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Edited: PolygonDaily with 56k followers also recommended this project to its followers.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This shows why countries can ban cryptos easily when projects that were trusted for years like ChainLink recommend you scam coins like this.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The project was verifies by RugDoc, the doxxed team, and a well built website with 90k holders. Anyone can blindfoldedly buy this. What lesson do we learn from this?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Lil Yachty和Soulja Boy因加密货币泵和倾销计划被起诉]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sxedqc/lil_yachty_soulja_boy_sued_for_crypto_pump_and/?score=301&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsxedqc%2Flil_yachty_soulja_boy_sued_for_crypto_pump_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fsxedqc%2Flil_yachty_soulja_boy_sued_for_crypto_pump_and%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/sxedqc/lil_yachty_soulja_boy_sued_for_crypto_pump_and/</guid><pubDate>Mon, 21 Feb 2022 03:46:35 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[不错的尝试]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sxflum/nice_try/?score=541&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsxflum%2Fnice_try%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsxflum%2Fnice_try%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sxflum/nice_try/</guid><pubDate>Mon, 21 Feb 2022 02:44:10 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[修复钱的问题]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sx8p3h/fix_the_money/?score=331&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsx8p3h%2Ffix_the_money%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fsx8p3h%2Ffix_the_money%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/sx8p3h/fix_the_money/</guid><pubDate>Mon, 21 Feb 2022 01:45:41 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
