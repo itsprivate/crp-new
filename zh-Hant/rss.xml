@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密貨幣國外熱門討論]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 28 Feb 2022 02:55:50 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一份文件，你可以給你的家人，解釋你死後該怎麼做]]></title><description><![CDATA[因此，正如一些人可以猜到的那樣，我一直在爲我死後準備一些東西。(不
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密貨幣國外熱門討論]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 28 Feb 2022 03:58:30 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[每個人都說我們需要方便和廉價的非KYC BTC市場...... 所以我已經做了這個。]]></title><description><![CDATA[TL;TR: 比特幣正慢慢地被緊緊抓住法幣的上/下限。
+坡道。我們需要方便、快捷、便宜的非KYC比特幣市場。我已經
+我花了兩個月的時間創建了一個簡單的私人P2P交易所。
+只使用閃電持有發票。它被稱爲RoboSats和...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/t2v44r/everyone_says_we_need_easy_and_cheap_markets_for/?score=306&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Ft2v44r%2Feveryone_says_we_need_easy_and_cheap_markets_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Ft2v44r%2Feveryone_says_we_need_easy_and_cheap_markets_for%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/t2v44r/everyone_says_we_need_easy_and_cheap_markets_for/</guid><pubDate>Mon, 28 Feb 2022 02:51:23 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;TL;TR:&amp;lt;/strong&amp;gt; Bitcoin is slowly being captured by the tight grip on the fiat on/off ramps. We need convenient, fast and cheap markets for non-KYC bitcoin. I have worked my ass off for two months to create an easy and private P2P exchange that uses solely lightning hold invoices. It is called RoboSats and I believe it can potentially rival centralized exchanges in ease of use and fees, while being totally private and having a close to custody-less pipeline. You can use it from your smartphone right now: it is straightforward to use even for the very noob. The platform is fully open source and will always be. It works quite well, but it is experimental: read the info and trade only small amounts. Open it now with Tor Browser: &amp;lt;a href=&quot;http://robosats6tkf3eva7x2voqso3a5wcorsnw34jveyxfqi2fu7oyheasid.onion/&quot;&amp;gt;Onion Link&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Background&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;One of the main threats for the Bitcoin network and its users is the ability of a few entities to control the fiat on/off-ramps. The tight grip on them allows for censorship and surveillance by linking funds with identities and strips the freedom away from Bitcoin. While there exists several peer-to-peer alternatives to centralized exchanges, these are rather technical, slow and costly. Most users still prefer the convenience of a centralized exchange at the cost of their privacy and a difficult initial setup (submit passport, selfie-video, etc). Things do not look too well for a truly free Bitcoin ecosystem.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;However, there are opportunities too. Using the Lightning Network it might very well be possible to create a very user friendly, safe, fast and cheap peer-to-peer market. By using hold invoices as fidelity bonds and trade escrows, trust/security can be maximized. It will never be as secure as an on-chain escrow. But one can dream that an open p2p market like that could rival the ease of use of centralized exchanges and have very low fees too; yet, with minimal privacy invasion and a close to custody-less trade pipeline.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/yvd6dqtpafk81.jpg?width=1200&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=6293fafd6fffffd1b6d792134007e588bdc19dd9&quot;&amp;gt;Wait, is that u/Reckless_Satoshi wearing a hoodie... AGAIN!?. He must have been up to something.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;For the last two months I have been locked in my basement, feeding protein shakes and listening to SaylorWaves instead of sleeping... yeah, living the good life. And... I have also built &amp;lt;strong&amp;gt;RoboSats&amp;lt;/strong&amp;gt; during that time :)&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;What is RoboSats?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;It is a BTC/FIAT peer-to-peer exchange over lightning. It simplifies matchmaking and minimizes the need for trust. RoboSats focuses in privacy, speed and user friendliness. RoboSats is an &amp;lt;a href=&quot;https://github.com/reckless-satoshi/robosats&quot;&amp;gt;open source project&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;How does it work?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;Alice wants to buy bitcoin privately. She generates an avatar in RoboSats homepage (AnonymousAlice01) and stores her random token safely so she can recover the avatar later. She creates a new buy order. Bob wants to sell bitcoin and takes Alice&amp;amp;#39;s order. Both have to post a small bond using lightning to prove they are &amp;lt;strong&amp;gt;real robots&amp;lt;/strong&amp;gt;. Then, Bob posts the trade collateral also using a lightning hold invoice. RoboSats locks the invoice until Bob confirms he received the fiat, then the satoshis are released to Alice. Enjoy your satoshis Alice!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;At no point, Alice and Bob have to entrust the bitcoin to each other. In case they have a conflict, RoboSats staff will help resolving the dispute. You can find a step-by-step description of the trade pipeline in &amp;lt;a href=&quot;https://github.com/Reckless-Satoshi/robosats/blob/main/README.md#how-it-works&quot;&amp;gt;How It Works&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Use it now&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;Click the link below to start buying/selling non-KYC Bitcoin, no registration or any other BS required. Just visit the site using TOR Browser (Mobile works great). Brave is OK too:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;http://robosats6tkf3eva7x2voqso3a5wcorsnw34jveyxfqi2fu7oyheasid.onion&quot;&amp;gt;&amp;lt;strong&amp;gt;RoboSats&amp;lt;/strong&amp;gt;6tkf3eva7x2voqso3a5wcorsnw34jveyxfqi2fu7oyheasid.onion&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;... if it does not work, you must download &amp;lt;a href=&quot;https://www.torproject.org/download/&quot;&amp;gt;Tor Browser for your device&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/ciii1r5wafk81.png?width=3407&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=ea29fb95e54c4a7c4184675754b8a8f3ff124dfc&quot;&amp;gt;They usually place fancy screenshots of the apps in the play store / apple store. This is just my attempt to conform to expectations. There is more to RoboSats that what can be seen here, make sure to read the how-to-use guide.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;In more details&amp;lt;/h2&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Here a full guide with two complete walk-throughs: &amp;lt;a href=&quot;https://github.com/reckless-satoshi/robosats/blob/main/docs/how-to-use.md&quot;&amp;gt;&amp;lt;strong&amp;gt;How to Use RoboSats&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;You can also read the full list of features in the &amp;lt;a href=&quot;https://github.com/reckless-satoshi/robosats/releases/tag/v0.1.0-mvp&quot;&amp;gt;&amp;lt;strong&amp;gt;RoboSats v0.1.0 stack release&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;h2&amp;gt;What payment methods are accepted?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;Basically all of them as long as they are FAST. You can write down your preferred payment method(s). You will have to match with a peer who also accepts that method as you pay each other directly. The step in the contract to exchange fiat has an expiry time of 24 hours before a dispute is automatically opened. So, I highly recommend using instant fiat payment rails.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Are there trade limits?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;Maximum single trade size is 500,000 satoshis to minimize lightning routing failure. There is no limits to the number of trades per day. A robot can only have one order at a time. However, you can use multiple robots simultaneously in different browsers (remember to back up your robot tokens!). At launch RoboSats is limited to a maximum of 100 public orders at a time (...just a temporary safety measure).&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Is RoboSats private?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;RoboSats will absolutely never ask you for your name, email, phone number, country or ID. RoboSats does not custody your funds and does not care pinch about who you are. For best anonymity use Tor Browser and access the .onion hidden site.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Your trading peer is the only one who can potentially guess anything about you. Keep your chat short and concise. Avoid providing non-essential information other than strictly necessary for the fiat payment. But don&amp;amp;#39;t forget to be polite! :)&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;What are the risks?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;This is an experimental lightning application, things could go wrong. Trade small amounts! The seller faces the same charge-back risk as with any other peer-to-peer service. I do not recommend using Paypal or credit cards.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;What is the trust model?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;The buyer and the seller never have to trust each other. Some trust on RoboSats is needed since linking the seller&amp;amp;#39;s hold invoice and buyer payment is not atomic (research ongoing). In addition, disputes are solved by the RoboSats staff.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;To be totally clear. Trust requirements are minimized. However, there is still one way RoboSats could run away with your satoshis: by not releasing the satoshis to the buyer. It could be argued that such move is not in the platform&amp;amp;#39;s interest as it would badly damage the reputation for a small payout. However, you should hesitate and only trade small quantities at a time. For large amounts use an on-chain escrow service such as Bisq. You can build more trust on RoboSats by inspecting the &amp;lt;a href=&quot;https://github.com/reckless-satoshi/robosats&quot;&amp;gt;source code&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;What are the fees?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;The trading fee is 0.2%. That&amp;amp;#39;s about the same as Binance, yet you will not have to pay a &amp;lt;em&amp;gt;withdrawal fine&amp;lt;/em&amp;gt; (that same fee covers for the routing to your wallet). The fidelity bonds are sized 1% with respect the trade amount, these are automatically returned.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;What happens if RoboSats suddenly disappears?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;Your sats will return to you. Any hold invoice that is not settled will automatically return even if RoboSats goes down forever. This is true for both, locked bonds and trading escrows. However, there is a small window between the seller confirms FIAT RECEIVED and the moment the buyer receives the satoshis when the funds could be permanently lost if RoboSats disappears. This window is about 1 second long, so make sure to have enough inbound liquidity to avoid routing failures. If you have any problem, reach out trough the RoboSats public channels (&amp;lt;a href=&quot;https://t.me/robosats&quot;&amp;gt;Telegram&amp;lt;/a&amp;gt;).&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Is RoboSats legal in my country?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;In most countries using RoboSats is no different than using Ebay or Craiglist. Your regulation may vary. It is your responsibility to comply (lmao, sorry but I have to write this). If your country is shitty about p2p commerce start thinking about moving, it will only get worse.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Can I access it without Tor Browser / Brave?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;Not yet, and why should you? Use Tor and improve your privacy! However, the site &amp;lt;strong&amp;gt;robosats.com&amp;lt;/strong&amp;gt; will be accessible at some point. It will be a simple web2tor bridge to widen the access to any browser and improve URL memorability... It comes with a huge set of caveats for privacy and security: so you should always use the .onion site and Tor Browser if possible!&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;You make RoboSats a great place&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;If you like what you see, there is a lot of ways you can become part of this open project. The most needed contributions are: develop code (funding might be possible, ask); create tutorials and guides; open outbound LN channels towards &amp;lt;a href=&quot;https://1ml.com/node/0282eb467bc073833a039940392592bf10cf338a830ba4e392c1667d7697654c7e&quot;&amp;gt;RoboSats node (1ML)&amp;lt;/a&amp;gt;; create art (logo, banners, they are shitty rn); and help newbies in our community groups (Telegram: &amp;lt;a href=&quot;https://t.me/robosats&quot;&amp;gt;English&amp;lt;/a&amp;gt; and &amp;lt;a href=&quot;https://t.me/robosats_es&quot;&amp;gt;Spanish&amp;lt;/a&amp;gt;). Needless to say, simply using the platform, telling a friend or sharing your idea/criticism is a huge help!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Give it a try now and contribute to make this open source project glorious!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Cheers, &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Reckless_Satoshi&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[oof，這不是首席。]]></title><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/t2xd1t/oof_this_aint_it_chief/?score=317&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Ft2xd1t%2Foof_this_aint_it_chief%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Ft2xd1t%2Foof_this_aint_it_chief%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/Bitcoin/comments/t2xd1t/oof_this_aint_it_chief/</guid><pubDate>Mon, 28 Feb 2022 02:51:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一份文件，你可以給你的家人，解釋你死後該怎麼做]]></title><description><![CDATA[因此，正如一些人可以猜到的那樣，我一直在爲我死後準備一些東西。(不
 我不是在期待。但最好現在就把這個問題說出來)
 
 總之，我做了一個模板，供任何人搗亂...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/t2y6r4/i_made_a_document_you_can_give_to_your_family/?score=374&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Ft2y6r4%2Fi_made_a_document_you_can_give_to_your_family%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Ft2y6r4%2Fi_made_a_document_you_can_give_to_your_family%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/t2y6r4/i_made_a_document_you_can_give_to_your_family/</guid><pubDate>Mon, 28 Feb 2022 01:47:35 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;So as some can figure out, I&amp;amp;#39;ve been preparing a few things for when I die. (No I&amp;amp;#39;m not expecting. But it is better to get this out of the way now)&amp;lt;/p&amp;gt;
@@ -392,120 +487,4 @@ reddit Moons是否更值錢。實際上，我很震驚，它的價值大約是
 
 &amp;lt;p&amp;gt;TAKING PROFITS IS NOT SHAMEFUL.
 I don’t know why this sub treats it as a sin. Its actually smart to sell if you make an educated decision as to when.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我怎樣才能向烏克蘭捐贈比特幣/加密貨幣。]]></title><description><![CDATA[我看到新聞說人們在向烏克蘭捐贈加密貨幣，但我在努力尋找如何進行捐贈。
-但我在努力尋找如何做（對加密貨幣相當陌生）。
-
-我可以通過像crypto.com這樣的交易所進行捐贈嗎？
-通過區塊鏈還是什麼？
-
-如果有人有這方面的任何鏈接或信息，...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/t12ipm/how_can_i_donate_bitcoincrypto_to_ukraine/?score=308&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Ft12ipm%2Fhow_can_i_donate_bitcoincrypto_to_ukraine%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Ft12ipm%2Fhow_can_i_donate_bitcoincrypto_to_ukraine%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/t12ipm/how_can_i_donate_bitcoincrypto_to_ukraine/</guid><pubDate>Sat, 26 Feb 2022 01:58:18 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey. Ive seen news that people have been donating crypto to Ukraine, but I’m struggling to find out how to do it (fairly new to crypto). &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Can I donate through and exchange like crypto.com, or do I need to transfer through a blockchain or what?&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;If anyone has any links or information at all on this, I would really appreciate it. If not I can always transfer fiat, but thought crypto seems like a good way to do it at the current time.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Also if anyone has any advice on the best crypto to send to them (eth or BTC?), would help a lot.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Thanks&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Edit: &amp;lt;/p&amp;gt;
-
-&amp;lt;ol&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Thanks for all the info ❤️&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Scammers really are vile creatures.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ol&amp;gt;
-
-&amp;lt;p&amp;gt;Edit edit:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;There are some weird people on here. ‘Funding someone’s war’, ‘Russia uses bitcoin - bitcoin is bad’. There always has to be those few people who try to be too clever. Innocent civilians are dying because they’ve been invaded by a dictator, hellbent on making history, and all you care about is trying to win internet points by being edgy and against the grain. Get a grip. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Just a small minority though, and thankfully most of this sub is full of kind people. Peace and love ❤️&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[(沒有）證據表明查爾斯參與了前面的SundaeSwap，第三部分擾流警報OP是錯誤的，這發生在你希望某事是真實的，所以你把任何東西作爲一個證明。]]></title><description><![CDATA[https://www.reddit.com/r/CryptoCurrency/comments/t0q8kn/evidence_that_charles_was_involved_in/
-
-https://twitter.com/IOHK_Charles/status/1497296939091566593
-
-
-
-他的帖子。
-
-這是對
-https://np.reddit.com/r/CryptoCurrency/comments/szv6oc/evidence_that_charlesiohk_was_involved_in/
-
-在那個...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/t1ec1x/no_evidence_that_charles_was_involved_in/?score=373&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Ft1ec1x%2Fno_evidence_that_charles_was_involved_in%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Ft1ec1x%2Fno_evidence_that_charles_was_involved_in%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/t1ec1x/no_evidence_that_charles_was_involved_in/</guid><pubDate>Sat, 26 Feb 2022 00:58:20 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/t0q8kn/evidence_that_charles_was_involved_in/&quot;&amp;gt;https://www.reddit.com/r/CryptoCurrency/comments/t0q8kn/evidence_that_charles_was_involved_in/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://twitter.com/IOHK_Charles/status/1497296939091566593&quot;&amp;gt;https://twitter.com/IOHK_Charles/status/1497296939091566593&amp;lt;/a&amp;gt; &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;His post:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This is a follow-up to &amp;lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/szv6oc/evidence_that_charlesiohk_was_involved_in/&quot;&amp;gt;https://np.reddit.com/r/CryptoCurrency/comments/szv6oc/evidence_that_charlesiohk_was_involved_in/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;In that post, I gave a list of about 150 addresses that connected IOHK&amp;amp;#39;s wallet to the billion ADA unstaked wallet involved in the SundaeSwap front-running. Naturally, I was accused of FUD, saying that I made it up and that there was no way someone could track that accurately.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Here&amp;amp;#39;s a much shorter path connecting the two wallets.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;📷&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Starting from IOHK&amp;amp;#39;s address &amp;lt;a href=&quot;https://cardanoscan.io/transactions?address=DdzFFzCqrhsytyf2oUxqFNXDX9MfAFBWk9pTBXViZbSwxEi7PYcq9LSjBDcW6BVcA7KxgeixYWospQKn68P9PaviM2FvhTFvsEezT8qg&quot;&amp;gt;https://cardanoscan.io/transactions?address=DdzFFzCqrhsytyf2oUxqFNXDX9MfAFBWk9pTBXViZbSwxEi7PYcq9LSjBDcW6BVcA7KxgeixYWospQKn68P9PaviM2FvhTFvsEezT8qg&amp;lt;/a&amp;gt;, it takes less than 15 steps to go from that wallet to the billion ADA unstaked wallet associated with the SundaeSwap front-running.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;You can see in the left column the outgoing address along the path, and in the right column, you see the amount of one of the transactions from the prior address to that address. The right column only gives one transaction amount even when there may be others, since it&amp;amp;#39;s only looking at the first page of transactions when going to the transactions page. If there were dozens of transactions outgoing to that address, then the right column only is reporting one of them listed on the first page of transactions. You can see that all but one transaction is on the order of hundreds of millions or billions of ADA. This is not IOHK paying an employee (unless employees are being paid hundreds of millions of ADA!).&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;To follow along with how to read the table, first go to IOHK&amp;amp;#39;s original wallet &amp;lt;a href=&quot;https://cardanoscan.io/transactions?address=DdzFFzCqrhsytyf2oUxqFNXDX9MfAFBWk9pTBXViZbSwxEi7PYcq9LSjBDcW6BVcA7KxgeixYWospQKn68P9PaviM2FvhTFvsEezT8qg&quot;&amp;gt;https://cardanoscan.io/transactions?address=DdzFFzCqrhsytyf2oUxqFNXDX9MfAFBWk9pTBXViZbSwxEi7PYcq9LSjBDcW6BVcA7KxgeixYWospQKn68P9PaviM2FvhTFvsEezT8qg&amp;lt;/a&amp;gt;. Then find the first outgoing address in the table above and click that link to go to the transactions for that address.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;So click on: &amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrht3wEZNURs9U5Qp7HnLoi9Cpao2YzThm88CqvLuP9uTmGzpwQc2e9VSUNGPhR7pAz3g9TtnBx3YoiiJ712Va3dBZNTXkTYT&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrht3wEZNURs9U5Qp7HnLoi9Cpao2YzThm88CqvLuP9uTmGzpwQc2e9VSUNGPhR7pAz3g9TtnBx3YoiiJ712Va3dBZNTXkTYT&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Then go to the next outgoing address in the table: &amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrhsrbtzv9G1qXfGq5mKVeF6AWg2TcuS3qjfLyhHgVATsP3PeocKqkraN6VwbZrNvN2iHeCd8iESanCP8FQS6BnyaThGjLNEc&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrhsrbtzv9G1qXfGq5mKVeF6AWg2TcuS3qjfLyhHgVATsP3PeocKqkraN6VwbZrNvN2iHeCd8iESanCP8FQS6BnyaThGjLNEc&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Then go to the next outgoing address in the table: &amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrhsnRxkcmJ1ukkN26iefboWFwKLx95G2bW92mutMGqibYJNYuNgbGppCC32tfqWMa8XpWev9jVXoNUQEQPmcDeRh28UJBXvC&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrhsnRxkcmJ1ukkN26iefboWFwKLx95G2bW92mutMGqibYJNYuNgbGppCC32tfqWMa8XpWev9jVXoNUQEQPmcDeRh28UJBXvC&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The rest of the sequence is given below for you to verify yourself:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrhsnhac5fv3dE6bT2KcqpdWMjBd57etEzYgVKwwoDGWRrBiqVMcvqMuxLL526N3KEbKAoFXVRJaMpwZCj7DE3nn1SJLYooCF&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrhsnhac5fv3dE6bT2KcqpdWMjBd57etEzYgVKwwoDGWRrBiqVMcvqMuxLL526N3KEbKAoFXVRJaMpwZCj7DE3nn1SJLYooCF&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrhshT1zPHwWLrBhCgawnPZ7DGKYDKp6pwN4MHqtV4KCCCeWBc44k3Q7jvuzY3UL36Zhp6xUEYxthMPV69Ge3QDDF6Xaf8oxB&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrhshT1zPHwWLrBhCgawnPZ7DGKYDKp6pwN4MHqtV4KCCCeWBc44k3Q7jvuzY3UL36Zhp6xUEYxthMPV69Ge3QDDF6Xaf8oxB&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrht9mrPZi5BXeWcMxypLBm9ADRyh47pvkg8VNCGjr5drXiyJZxonNEhrUbZkfbrD3fivYS4x1kwom6EVy8skDh7GgwDrE9tW&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrht9mrPZi5BXeWcMxypLBm9ADRyh47pvkg8VNCGjr5drXiyJZxonNEhrUbZkfbrD3fivYS4x1kwom6EVy8skDh7GgwDrE9tW&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrhsecV6grDueeDk4pM6jxwjq2YtTof7r4TBwNdFmbBd5NJ42XWifSDPhSXdfEomShABDnAjpPnv5Sa9CHbf9U9P5p8x4gzdr&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrhsecV6grDueeDk4pM6jxwjq2YtTof7r4TBwNdFmbBd5NJ42XWifSDPhSXdfEomShABDnAjpPnv5Sa9CHbf9U9P5p8x4gzdr&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrht2WKNEFqHvMSumSQpcnMxcYLNNBXPYXyHpRk9M7PqVjZ5ysYzutnruNubzXak2NxT8UWTFQNzc77uzjQ1GtehBRBdAv7xb&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrht2WKNEFqHvMSumSQpcnMxcYLNNBXPYXyHpRk9M7PqVjZ5ysYzutnruNubzXak2NxT8UWTFQNzc77uzjQ1GtehBRBdAv7xb&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrht9LStDVFdrn2SiudEDDrXDPprYZz8WfbrTmu3cko745FJSSNxwrDTa8QTWTLdpFaAhweB4Uz13ev22eNhrNDCrVXZVQT6w&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrht9LStDVFdrn2SiudEDDrXDPprYZz8WfbrTmu3cko745FJSSNxwrDTa8QTWTLdpFaAhweB4Uz13ev22eNhrNDCrVXZVQT6w&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrhstPePbe8LC1XLkTGYSpBDJyHAJ5PuRgEcshvmG1CrAizB69mSRXBvK2BtFcCuBqrobzSXqpxzTkRWLFyvZpTJL7YQ8hZ58&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrhstPePbe8LC1XLkTGYSpBDJyHAJ5PuRgEcshvmG1CrAizB69mSRXBvK2BtFcCuBqrobzSXqpxzTkRWLFyvZpTJL7YQ8hZ58&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrht8CHL4tkQy82G6iPk8rsNSpFtqHT6HgR727PrD4meHJAa5z8JkHUHAt3uL1kmtgxUNitnUUomqwmdjgHM3wfzmhDsTf4YT&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrht8CHL4tkQy82G6iPk8rsNSpFtqHT6HgR727PrD4meHJAa5z8JkHUHAt3uL1kmtgxUNitnUUomqwmdjgHM3wfzmhDsTf4YT&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrht3NbxHh4HbCiFWKwASqERy5DNZiHEewFdoNNxBkYUmg1VkfyDJJUjJcon3y5wCPatgti3AjgyKezW1EoEacJtbQvvbs1Wq&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrht3NbxHh4HbCiFWKwASqERy5DNZiHEewFdoNNxBkYUmg1VkfyDJJUjJcon3y5wCPatgti3AjgyKezW1EoEacJtbQvvbs1Wq&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/Ae2tdPwUPEZ6xYrxCgRDM2NQFM5oajHEoJN3i9ZVV2AbsbvxoJBjVu3yP7W&quot;&amp;gt;https://cardanoscan.io/address/Ae2tdPwUPEZ6xYrxCgRDM2NQFM5oajHEoJN3i9ZVV2AbsbvxoJBjVu3yP7W&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;You don&amp;amp;#39;t need to question whether I made up these transactions or manipulated the Cardano blockchain in some way. These records are immutable and they are available for you to verify, so go verify. I will probably be accused of being a paranoid schizophrenic again, and maybe I am, but who cares! The point of blockchain is that you don&amp;amp;#39;t need to trust me or anyone else. I know some of you reading this will instinctively be defensive and lash out with insults, but I dare you to verify the transactions yourself before downvoting.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Edit:&amp;lt;/strong&amp;gt; Thanks for taking up the challenge and looking into this. Some of you found that there was only a 10 ADA transaction between two of the addresses. That&amp;amp;#39;s because both output addresses (one with 10 ADA and the other with 241 million ADA) are tied to the same wallet. It&amp;amp;#39;s not obvious, but you can read more here &amp;lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/t0q8kn/comment/hyc8719/?utm_source=share&amp;amp;amp;utm_medium=web2x&amp;amp;amp;context=3&quot;&amp;gt;https://np.reddit.com/r/CryptoCurrency/comments/t0q8kn/comment/hyc8719/?utm_source=share&amp;amp;amp;utm_medium=web2x&amp;amp;amp;context=3&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The TLDR form of that comment is: the wallet address ending in bs1Wq and wallet address ending in oQU1E are part of the same wallet. You can tell this since they are both outputs of TxHash 547f47b146464476c2da4184fa9123d147053b2e5c84d1f0ede1479a12afbd97, and then one is the input (oQU1E) while the other (bs1Wq) is the output of the next transaction of the bs1Wq address, with TxHash d632d8f487f156c2c91a46e15b066a22888aa2f71ed61bd2d33dd61f46b9590c. That indicates that these two addresses are linked and that the second transaction is a reshuffling of ADA between addresses of the same wallet.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Even if you aren&amp;amp;#39;t convinced that they are part of the same wallet, then suppose they&amp;amp;#39;re separate, independent addresses. Then that only adds one more address on the path connecting IOHK&amp;amp;#39;s wallet to the billion ADA unstaked wallet:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrht8CHL4tkQy82G6iPk8rsNSpFtqHT6HgR727PrD4meHJAa5z8JkHUHAt3uL1kmtgxUNitnUUomqwmdjgHM3wfzmhDsTf4YT&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrht8CHL4tkQy82G6iPk8rsNSpFtqHT6HgR727PrD4meHJAa5z8JkHUHAt3uL1kmtgxUNitnUUomqwmdjgHM3wfzmhDsTf4YT&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrhsmtkfeNrFHAXC81mPCTp5atR6jUPKkZYrYu4Po6nBaLAygSHYfMq6LCX9z8Hs4LBJsM26FrEWQD6M1fSvN7Y9qEG9oQU1E&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrhsmtkfeNrFHAXC81mPCTp5atR6jUPKkZYrYu4Po6nBaLAygSHYfMq6LCX9z8Hs4LBJsM26FrEWQD6M1fSvN7Y9qEG9oQU1E&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/DdzFFzCqrht3NbxHh4HbCiFWKwASqERy5DNZiHEewFdoNNxBkYUmg1VkfyDJJUjJcon3y5wCPatgti3AjgyKezW1EoEacJtbQvvbs1Wq&quot;&amp;gt;https://cardanoscan.io/address/DdzFFzCqrht3NbxHh4HbCiFWKwASqERy5DNZiHEewFdoNNxBkYUmg1VkfyDJJUjJcon3y5wCPatgti3AjgyKezW1EoEacJtbQvvbs1Wq&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cardanoscan.io/address/Ae2tdPwUPEZ6xYrxCgRDM2NQFM5oajHEoJN3i9ZVV2AbsbvxoJBjVu3yP7W&quot;&amp;gt;https://cardanoscan.io/address/Ae2tdPwUPEZ6xYrxCgRDM2NQFM5oajHEoJN3i9ZVV2AbsbvxoJBjVu3yP7W&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The volume from Tf4YT to oQU1E would be 241M. The volume from oQU1E to bs1Wq would be 25M.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;TLDR: Don&amp;amp;#39;t try to hard to make some transaction history a proof of something that is not.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Guy had too much time and wanted CH to be a bad guy.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Don&amp;amp;#39;t upvote this post too much, because the whole trilogy is a waste of crypto jurnalism. If you have time tho, go to the 2nd part and downvote the moonfarmer. Fake proof should not deserve moons IMO.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
