@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 17 Apr 2022 17:53:34 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[当你用比特币买东西的时候，世界就会变得更加疯狂]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/u5kczp/when_you_hodl_bitcoin_and_the_world_just_keeps/?score=350&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fu5kczp%2Fwhen_you_hodl_bitcoin_and_the_world_just_keeps%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fu5kczp%2Fwhen_you_hodl_bitcoin_and_the_world_just_keeps%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/u5kczp/when_you_hodl_bitcoin_and_the_world_just_keeps/</guid><pubDate>Sun, 17 Apr 2022 16:51:52 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[人们称40K BTC为熊市，这让我非常看好。]]></title><description><![CDATA[2年前的2020年4月，BTC的交易价格是8770美元，Ethereum是215美元。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 17 Apr 2022 23:50:54 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[来自布达佩斯的晚上好]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/u5si5d/good_evening_from_budapest/?score=337&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fu5si5d%2Fgood_evening_from_budapest%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fu5si5d%2Fgood_evening_from_budapest%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/u5si5d/good_evening_from_budapest/</guid><pubDate>Sun, 17 Apr 2022 22:34:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[安全警告--如果您在启用了iCloud备份的iOS设备上使用MetaMask，那么您的金库种子会自动默认备份。人们正在被钓鱼，要求重置AppleID，一名受害者昨天损失了65万美元。]]></title><description><![CDATA[TL:DR
+
+如果你在iPhone或Mac上有MetaMask，那么你可能也在使用iCloud
+备份。默认情况下，MetaMask会备份包含你的种子的Valut，所以请在设置/配置文件/iCloud/管理存储中关闭该功能
+关掉它！从Settings/Profile/iCloud/Manage Storage!
+
+
+
+摘要
+
+我一直在关注Twitter上这个正在发展的故事，关于一个用户...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/u5to4g/security_warning_if_you_use_metamask_on_an_ios/?score=317&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fu5to4g%2Fsecurity_warning_if_you_use_metamask_on_an_ios%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fu5to4g%2Fsecurity_warning_if_you_use_metamask_on_an_ios%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/u5to4g/security_warning_if_you_use_metamask_on_an_ios/</guid><pubDate>Sun, 17 Apr 2022 22:34:32 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;TL:DR&amp;lt;/strong&amp;gt; &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you have MetaMask on an iPhone or Mac, then you&amp;amp;#39;re likely also using iCloud backup.  MetaMask backup your Valut containing your seed by default, so turn that off from Settings\Profile\iCloud\Manage Storage!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Summary&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I have been following this developing story on Twitter about a user that lost $650K yesterday due to the following phishing method with others coming forward claiming that the same has also happened to them.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Background&amp;lt;/strong&amp;gt;  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;When you create a wallet using MetaMask on an iPhone, the app will create a JSON containing your wallet, this is stored on your device.  Most users use iCloud to automatically backup their phone and app data, but unbeknown to many users, MetaMask include this file as part of the backup.  From a google search, this isn&amp;amp;#39;t new, it was discovered in 2019, but MetaMask have today acknowledged (addressed) it &amp;lt;a href=&quot;https://nitter.net/MetaMask&quot;&amp;gt;HERE&amp;lt;/a&amp;gt; after a number of users were targeted resulting in lost funds.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/zwx26nnww4u81.png?width=744&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=46e5360122bdbed0ef700bee43cab95cbfc5ec25&quot;&amp;gt;MetaMask iCloud Backup&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Phishing Method&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;For the user that lost $650K, it appears to be a very sophisticated attack. They fell victim as follows...&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The malicious attacker requested several password resets against their AppleID/iCloud generating several emails to their account.  From there, they using a spoofed caller id to call the victim and claimed that they were from Apple and calling about suspicious activity on their account.  They asked them to generate their MFA one time pass to confirm that they were the account owner.   The hacker used this to reset the password and take control of the Apple account.  From there, they were able to restore from a backup and drain the wallet of all funds. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;More reading / source&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://twitter.com/Serpent/status/1515545806857990149&quot;&amp;gt;HERE&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[当你用比特币买东西的时候，世界就会变得更加疯狂]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/u5kczp/when_you_hodl_bitcoin_and_the_world_just_keeps/?score=350&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fu5kczp%2Fwhen_you_hodl_bitcoin_and_the_world_just_keeps%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fu5kczp%2Fwhen_you_hodl_bitcoin_and_the_world_just_keeps%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/u5kczp/when_you_hodl_bitcoin_and_the_world_just_keeps/</guid><pubDate>Sun, 17 Apr 2022 16:51:52 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[人们称40K BTC为熊市，这让我非常看好。]]></title><description><![CDATA[2年前的2020年4月，BTC的交易价格是8770美元，Ethereum是215美元。
 
 你们中的大多数人可能是在2021年开始的时候进入这个圈子的。你们这些人
 是许多老投资者的退出流动资金。但即使如此，我们仍然保持
@@ -322,28 +359,4 @@ BTC在2013年的时候是11美元。
 &amp;lt;p&amp;gt;Long story short, it gave me a lot of faith that crypto knowledge and adoption among the younger generation is much higher than I previously thought.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Bullish on Gen Z/Alpha/Whatever they&amp;amp;#39;re going by these days.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[由于Cardano继续表现糟糕，超过80%的ADA所有者目前处于亏损状态]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/u3ag79/more_than_80_of_ada_owners_are_currently_at_loss/?score=301&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fu3ag79%2Fmore_than_80_of_ada_owners_are_currently_at_loss%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fu3ag79%2Fmore_than_80_of_ada_owners_are_currently_at_loss%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/u3ag79/more_than_80_of_ada_owners_are_currently_at_loss/</guid><pubDate>Thu, 14 Apr 2022 13:32:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[#比特币价格，短期持有者实现的价格和2年持有者实现的价格都在同一水平上......上升或下降，这是一个问题。https://t.co/XdJgTKeJgJ]]></title><link>https://crypto.buzzing.cc/tweet/1514557872176353285/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1514557872176353285/</guid><pubDate>Thu, 14 Apr 2022 12:59:51 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[只是说说而已]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/u3ced0/just_saying/?score=516&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fu3ced0%2Fjust_saying%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fu3ced0%2Fjust_saying%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/u3ced0/just_saying/</guid><pubDate>Thu, 14 Apr 2022 11:32:11 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[埃隆-马斯克表示要以每股54.2美元的现金收购Twitter的100%股权
-$TWTR]]></title><link>https://crypto.buzzing.cc/tweet/1514550515471945729/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1514550515471945729/</guid><pubDate>Thu, 14 Apr 2022 10:40:19 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[去他妈的Robinhood，就不应该使用它们]]></title><description><![CDATA[我是一个相当安全的互联网用户（在我的笔记本电脑上），在我的笔记本电脑上没有色情，只是在我的手机上有。
-手机，没有危险的网站或应用程序等。从不保存任何网站的密码......
-
-即使像我这样小心翼翼，似乎我过去15年一直使用的电子邮件
-在暗网上的一个拍卖区被发现。
-
-低和...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/u3b7n7/fuck_robinhood_should_have_never_used_them/?score=390&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fu3b7n7%2Ffuck_robinhood_should_have_never_used_them%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fu3b7n7%2Ffuck_robinhood_should_have_never_used_them%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/u3b7n7/fuck_robinhood_should_have_never_used_them/</guid><pubDate>Thu, 14 Apr 2022 10:40:01 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I&amp;amp;#39;m a pretty safe internet user(on my laptop), no porn on my laptop just my phone, no risky sites or apps etc. Never save passwords to any site...&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Even as careful as I am it seems that my email I have been using for the last 15 years has been found on an auction block on the dark web.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Low and behold the culprit is &amp;lt;a href=&quot;https://robinhood.com/&quot;&amp;gt;r&amp;lt;/a&amp;gt;obinhood. I literally used them for 2 months, realized I did not like the platform, then the GME and AMC bullshit and the shady practices with the hedge fund, then the wallet bullshit where you couldn&amp;amp;#39;t sell your crypto. After all that it just made me hate them.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Luckily before I got this heads up I had already began converting my accounts into a different email and I regularly update my passwords. This was by chance that i did the new email. Very happy I did&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;if I didn&amp;amp;#39;t have enough reasons to not like RH this is the icing on the cake.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Fuck robinhood. Update your passwords, get a new email and stay away from this shit show.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Stay safe out there.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/aoga66kazft81.jpg?width=1908&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=30e8b8bcf3f566eccc43dedd738368f8d7d59784&quot;&amp;gt;Here is the proof&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[由于Cardano继续表现糟糕，超过80%的ADA所有者目前处于亏损状态]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/u3ag79/more_than_80_of_ada_owners_are_currently_at_loss/?score=301&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fu3ag79%2Fmore_than_80_of_ada_owners_are_currently_at_loss%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fu3ag79%2Fmore_than_80_of_ada_owners_are_currently_at_loss%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/u3ag79/more_than_80_of_ada_owners_are_currently_at_loss/</guid><pubDate>Thu, 14 Apr 2022 13:32:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[#比特币价格，短期持有者实现的价格和2年持有者实现的价格都在同一水平上......上升或下降，这是一个问题。https://t.co/XdJgTKeJgJ]]></title><link>https://crypto.buzzing.cc/tweet/1514557872176353285/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1514557872176353285/</guid><pubDate>Thu, 14 Apr 2022 12:59:51 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[只是说说而已]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/u3ced0/just_saying/?score=516&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fu3ced0%2Fjust_saying%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fu3ced0%2Fjust_saying%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/u3ced0/just_saying/</guid><pubDate>Thu, 14 Apr 2022 11:32:11 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
