@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Crypto]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 12 Jul 2022 09:22:00 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Celsius just paid off another $113M from their debt in the last 24 hours. Now the debt "only" sits at $123M. At least someone got it right out of this crisis.]]></title><description><![CDATA[Celsius has been seen as another big possible candidate for going bankrupt in
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Crypto]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 12 Jul 2022 10:22:07 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[#BTC below realized price, short term holder price (5M) and 2Y holder price.  I guess we need patience: in 2011 it took 2 months, in 2014 9 months, in 2018 5 months. https://t.co/LmcCVRBmHJ]]></title><link>https://crypto.buzzing.cc/en/tweet/1546770099343851521/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/tweet/1546770099343851521/</guid><pubDate>Tue, 12 Jul 2022 08:58:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA["7500 ETH ($9.1 million) Stolen in Uniswap Phishing Attack" Here's What Happened and How to Protect Yourself.]]></title><description><![CDATA[WHAT HAPPENED? (HACK RECAP)
+
+73,399 addresses have been sent a malicious token to target their assets, under
+the false impression of a $UNI
+[https://twitter.com/search?q=%24UNI&src=cashtag_click] airdrop based on…]]></description><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/vx0ztk/7500_eth_91_million_stolen_in_uniswap_phishing/?score=306&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fvx0ztk%2F7500_eth_91_million_stolen_in_uniswap_phishing%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fvx0ztk%2F7500_eth_91_million_stolen_in_uniswap_phishing%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/vx0ztk/7500_eth_91_million_stolen_in_uniswap_phishing/</guid><pubDate>Tue, 12 Jul 2022 08:32:18 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;h1&amp;gt;What Happened? (Hack Recap)&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;73,399 addresses have been sent a malicious token to target their assets, under the false impression of a &amp;lt;a href=&quot;https://twitter.com/search?q=%24UNI&amp;amp;amp;src=cashtag_click&quot;&amp;gt;$UNI&amp;lt;/a&amp;gt; airdrop based on their LP&amp;amp;#39;s&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;0xcf39b7793512f03f2893c16459fd72e65d2ed00c &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/j5lbqzg2w1b91.png?width=679&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=c4399ae446444650850e095bb085930114bfa876&quot;&amp;gt;https://preview.redd.it/j5lbqzg2w1b91.png?width=679&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=c4399ae446444650850e095bb085930114bfa876&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The malicious contract pollutes the event data so that block explorers index the &amp;amp;quot;From&amp;amp;quot; as the legitimate &amp;amp;quot;Uniswap V3: Positions NFT&amp;amp;quot; contract.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Now that a user sees that &amp;amp;quot;Uniswap V3: Positions NFT&amp;amp;quot; sent them a token (without knowledge of the event pollution attack), they would get curious and check the token.  The token name directs them to a website that looks similar to Uniswap, and once users connected their wallets, their cryptocurrency was drained from their wallets.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So far, they have scammed (~$9.1million) from users, from native tokens (ETH), ERC20 tokens, and NFTs (namely, Uniswap LP positions) &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The stolen ETH is being laundered through Tornado Cash.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/h20mdrzix1b91.png?width=939&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=1d0c30954f51f111ef2065cc28ac87579fd740e5&quot;&amp;gt;https://preview.redd.it/h20mdrzix1b91.png?width=939&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=1d0c30954f51f111ef2065cc28ac87579fd740e5&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The attack might be big, as [&amp;lt;a href=&quot;https://twitter.com/0xSisyphus&quot;&amp;gt;0xSisyphus&amp;lt;/a&amp;gt;] pointed out that a large LP (0xecc6b71b294cd4e1baf87e95fb1086b835bb4eba) also seems to get phished.&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;How to Protect Yourself:&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;If you have received the Malicious Token. Do not try to burn it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Because to burn it, you would have to interact with it. And, It&amp;amp;#39;s heavily advised to not interact with suspicious tokens because:&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;You don&amp;amp;#39;t want to waste gas-burning tokens  &amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;You don&amp;amp;#39;t want to open yourself to an attack, such as ETH_RUNE  &amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+
+&amp;lt;p&amp;gt;In summary, just leave it and pretend you don&amp;amp;#39;t see it&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Celsius just paid off another $113M from their debt in the last 24 hours. Now the debt "only" sits at $123M. At least someone got it right out of this crisis.]]></title><description><![CDATA[Celsius has been seen as another big possible candidate for going bankrupt in
 this bear market as they had a ton of debt, liquidation risk at 23k BTC price
 and they got heavily shorted at FTX. If they would have failed millions of
 costumers would have basically been feeling "rug pulled" as this…]]></description><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/vwrhgr/celsius_just_paid_off_another_113m_from_their/?score=319&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fvwrhgr%2Fcelsius_just_paid_off_another_113m_from_their%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fvwrhgr%2Fcelsius_just_paid_off_another_113m_from_their%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/vwrhgr/celsius_just_paid_off_another_113m_from_their/</guid><pubDate>Tue, 12 Jul 2022 07:31:45 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Celsius has been seen as another big possible candidate for going bankrupt in this bear market as they had a ton of debt, liquidation risk at 23k BTC price  and they got heavily shorted at FTX. If they would have failed millions of costumers would have basically been feeling &amp;amp;quot;rug pulled&amp;amp;quot; as this would have been the largest exchange scandal since Mt. Gox.&amp;lt;/p&amp;gt;
@@ -626,65 +666,4 @@ Mine are:
 &amp;lt;/ul&amp;gt;
 
 &amp;lt;p&amp;gt;Go ahead and downvote me to hell.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[👀   85% thinks we will see a new ATH next 4 years https://t.co/IG2UwRuUUm]]></title><link>https://crypto.buzzing.cc/en/tweet/1545417735814930432/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/tweet/1545417735814930432/</guid><pubDate>Fri, 08 Jul 2022 15:38:11 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Looks like we made it...]]></title><link>https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/vu6e67/looks_like_we_made_it/?score=461&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fvu6e67%2Flooks_like_we_made_it%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fvu6e67%2Flooks_like_we_made_it%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/vu6e67/looks_like_we_made_it/</guid><pubDate>Fri, 08 Jul 2022 15:34:58 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[The Great Algo Mass Inflation event (of 2021) - The ALGO circulating supply increased by 533% in 2021]]></title><description><![CDATA[Algorand [https://coinmarketcap.com/currencies/algorand/] is supposed to have a
-max supply of 10B and was launched in June of 2019. As of Jan. 01st 2021 it had
-a price of $.399 and a circulating supply of 1.19B it ended the year with a
-price of $1.66 and a circulating supply of 6.36B. Meaning over…]]></description><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/vu26qy/the_great_algo_mass_inflation_event_of_2021_the/?score=340&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fvu26qy%2Fthe_great_algo_mass_inflation_event_of_2021_the%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fvu26qy%2Fthe_great_algo_mass_inflation_event_of_2021_the%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/vu26qy/the_great_algo_mass_inflation_event_of_2021_the/</guid><pubDate>Fri, 08 Jul 2022 13:48:49 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://coinmarketcap.com/currencies/algorand/&quot;&amp;gt;Algorand&amp;lt;/a&amp;gt; is supposed to have a max supply of 10B and was launched in June of 2019. As of Jan. 01st 2021 it had a price of $.399 and a circulating supply of 1.19B it ended the year with a price of $1.66 and a circulating supply of 6.36B. Meaning over the course of a year in 2021, Algorand inflated at a rate of 533%.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/43aaht1u0aa91.png?width=361&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=70aae78d46e82748f03b2f765c5868a4290557df&quot;&amp;gt;ALGO Information Jan. 01st 2021&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/7y0q6gtz0aa91.png?width=367&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=ecabb01246a3e40891f7e8fb32b6768cb29964f9&quot;&amp;gt;ALGO Information Dec. 31st 2021&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/fp38v6w21aa91.png?width=1196&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=d975874e301f0ca8fda2e1dcc72b1fdbb076a054&quot;&amp;gt;ALGO Circulating Supply graph 2021&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;If we look at &amp;lt;a href=&quot;https://messari.io/asset/algorand/chart/sply-circ&quot;&amp;gt;just the last year&amp;lt;/a&amp;gt; the circulating supply increased from 3.11B to 6.97B an increase of 224% over the last year. Meaning for every 1 Algo that was in circulation 1 year ago there is now 2.24 Algo. That huge increase in the total number of circulating Algo helps to explain why the price has crashed so hard during this bear market.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/dlriiwp71aa91.png?width=1218&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=49336fd84039f14c381ec5ff67d4f54712105124&quot;&amp;gt;ALGO Circulating Supply past year&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;So the question is; What caused this mass inflation and should I be worried?&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What Caused the mass inflation:&amp;lt;/strong&amp;gt; The short answer is &amp;lt;a href=&quot;https://algorand.foundation/news/happening-now-relay-node-runners-voting-on-eip-11252019af&quot;&amp;gt;Algorand Accelerated Vesting&amp;lt;/a&amp;gt; played a huge role, the Algorand team gave away &amp;lt;a href=&quot;https://algorand.foundation/news/accelerated-vesting-complete&quot;&amp;gt;3.1B Algo through this program&amp;lt;/a&amp;gt; with most of that being given away in 2021. Algorand Accelerated Vesting was designed to act as a loyalty system for early supporters of Algo and was proposed in Nov. 2019. It was designed to reward those vesting their Algo and provide an additional bonus for node runners.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The proposal was originally set to run through 2024, however there was a backup that would flood the market with Algo through the vesting program, if the price of Algo rose too quickly. Which as a result of the 2021 bull run - the vesting ended three and a half years early.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Should I be Worried:&amp;lt;/strong&amp;gt; Yes/No&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;The good news
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;Now that the accelerated vesting has ended, 2.63B of the remaining 3.03B Algo yet to be distributed is set to be distributed over the next 7 and a half years with the rate decreasing exponentially - through the &amp;lt;a href=&quot;https://algorand.foundation/governance&quot;&amp;gt;Algorand Community Governance Program&amp;lt;/a&amp;gt;. So the market should not continue to be flooded with newly minted Algo at the same rate as it was in 2021.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;The Goodish Bad News
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;Goodish: For those that were sitting on the sidelines looking to invest in Algo, you shouldn&amp;amp;#39;t have to worry about having the relative value of your investment watered down in the same way as it was in 2021. Assuming the total supply of ALGO never passes 10B - the max amount Algo can inflate in the future is, 42.8%.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Badish: If you&amp;amp;#39;re already significantly invested and purchased prior to Sep. 2021 the amount of Algo in circulation since you purchased has doubled (or more). Meaning the relative value of your investment considering the circulating supply has decreased by over half - For every 1 Algo in circulation when you purchased there is now 2-6 (depending on when you purchased in 2021).&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;The Bad News - The inflation rate of ALGO going forward isn&amp;amp;#39;t &amp;amp;quot;entirely clear&amp;amp;quot;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;At least 2B Algo was released into circulation in 2021 through means other than Accelerated Vesting&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;603M Algo has been released into circulation in 2022 so far &amp;lt;sup&amp;gt;we&amp;amp;#39;re barely halfway through the year&amp;lt;/sup&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;The inflation rate of Algo is supposed to decrease exponentially and &amp;lt;a href=&quot;https://solberginvest.com/blog/algorand-inflation/&quot;&amp;gt;was supposed to be 6%&amp;lt;/a&amp;gt; in 2022 - However it&amp;amp;#39;s currently at a 9.5% increase in the circulating supply for 2022 and again we&amp;amp;#39;re only halfway through the year.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;This can partially be accounted for by a drop in the difference between circulating supply and total supply - from roughly 550M in Oct. 2021 to roughly 400M currently according to CMC. However even accounting for that 150M ALGO that was added to circulating supply outside of regular inflation - The inflation rate so far in 2022 is nearly 7%, and again there is still half the year to go to bump up the inflation rate.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/d48qydmd1aa91.png?width=475&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=616c3b86f0e02bede747bb33914a9532245f34d1&quot;&amp;gt;Roughly 400M difference between circ. supply and total supply&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The &amp;lt;a href=&quot;https://algorand.foundation/governance/algo-dynamics&quot;&amp;gt;Algo Foundation website regarding distribution&amp;lt;/a&amp;gt; doesn&amp;amp;#39;t exactly help with the confusion. In total the circulating supply has increased from 1.19B in the beginning of 2021 to roughly 6.97B today an increase of roughly 585% in a year and a half with the total supply sitting at 7.37B. According to the foundation website, Algo is supposed to have a total supply of about 6.67B by 2023 and we&amp;amp;#39;re already at 7.37B - again this can partially be accounted for by the fact that accelerated vesting finished three and a half years early.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Also note according to the chart below the last roughly 1M tokens is supposed to be distributed from the end of 2025 to 2030.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/jn99yr6h1aa91.png?width=1114&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=b5a2402c729eca4a70b46c5645854d754acde6f8&quot;&amp;gt;https://preview.redd.it/jn99yr6h1aa91.png?width=1114&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=b5a2402c729eca4a70b46c5645854d754acde6f8&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;So technically speaking ALGO inflation is &amp;amp;quot;supposed&amp;amp;quot; to decrease exponentially over the coming years so it&amp;amp;#39;s not totally surprising to see high inflation in the short term. If it does as it&amp;amp;#39;s supposed to we&amp;amp;#39;re through the worst of the inflation and the rate of inflation in 2026 will be a very low single-digit percent.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;If the ALGO 10B total supply number holds it&amp;amp;#39;s just a matter of riding out the massive inflation in the short term&amp;lt;/strong&amp;gt;. But &amp;lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/t7lk8z/jasmy_token_rug_pull_warning/&quot;&amp;gt;a word of caution, JASMY&amp;lt;/a&amp;gt; was supposed to have a total supply of 4.7B yet in total, it is over 20B.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;TLDR: Algo mass inflated 585% in a year and a half, could be good for some - bad for others, assuming the 10B total supply holds. But the future inflation rate isn’t clear at this point.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[#bitcoin nicely bounced back to 200WMA and Realized Price levels (both at ~$22K). Let's see if it holds. Btw BTC $24.8K would flip RSI back at 45.🤞 https://t.co/62yU8wJtuP]]></title><link>https://crypto.buzzing.cc/en/tweet/1545397597648691200/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/tweet/1545397597648691200/</guid><pubDate>Fri, 08 Jul 2022 13:21:46 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[👀   85% thinks we will see a new ATH next 4 years https://t.co/IG2UwRuUUm]]></title><link>https://crypto.buzzing.cc/en/tweet/1545417735814930432/?sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/tweet/1545417735814930432/</guid><pubDate>Fri, 08 Jul 2022 15:38:11 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Looks like we made it...]]></title><link>https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/vu6e67/looks_like_we_made_it/?score=461&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fvu6e67%2Flooks_like_we_made_it%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fvu6e67%2Flooks_like_we_made_it%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/vu6e67/looks_like_we_made_it/</guid><pubDate>Fri, 08 Jul 2022 15:34:58 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
