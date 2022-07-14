@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Crypto]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 14 Jul 2022 07:14:53 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[In-depth analysis: Here's what the CPI data is telling us. The bad news and the good news. What it will mean for the market:]]></title><description><![CDATA[The biggest crypto market is still the US (hopefully that will be more balanced
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Crypto]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 14 Jul 2022 11:48:54 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Brute forcing 531,441 seeds only to lose a Reddit challenge]]></title><description><![CDATA[This challenge was posted 5 hours ago:
+https://www.reddit.com/r/CryptoCurrency/comments/vyaj4t/how_to_remember_your_12_word_seed_by_spreading_it/ig27rrv/
+
+After setting up an elaborate social game where individual words of the seed are
+trickled out to commenters who must work with each other, the…]]></description><link>https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/vyialk/brute_forcing_531441_seeds_only_to_lose_a_reddit/?score=344&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fvyialk%2Fbrute_forcing_531441_seeds_only_to_lose_a_reddit%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fvyialk%2Fbrute_forcing_531441_seeds_only_to_lose_a_reddit%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/CryptoCurrency/comments/vyialk/brute_forcing_531441_seeds_only_to_lose_a_reddit/</guid><pubDate>Thu, 14 Jul 2022 10:33:30 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;This challenge was posted 5 hours ago: &amp;lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/vyaj4t/how_to_remember_your_12_word_seed_by_spreading_it/ig27rrv/&quot;&amp;gt;https://www.reddit.com/r/CryptoCurrency/comments/vyaj4t/how_to_remember_your_12_word_seed_by_spreading_it/ig27rrv/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;After setting up an elaborate social game where individual words of the seed are trickled out to commenters who must work with each other, the OP writes as a hint:&amp;lt;/p&amp;gt;
+
+&amp;lt;blockquote&amp;gt;
+&amp;lt;p&amp;gt;Last note: I will periodically give out hints below if the seed is not discovered before the time limit.&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Hint 1 - The entire seed is made up of three randomly repeating words. If you try and bruteforce it - the odds of getting it correct are 1 in 531,441
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Moon&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;System&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Dog&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;del&amp;gt;Hint 2 - Post age 9 hours&amp;lt;/del&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;del&amp;gt;Hint 3 - Post age 24 hours&amp;lt;/del&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/blockquote&amp;gt;
+
+&amp;lt;p&amp;gt;With the right tools, this hint makes the entire challenge irrelevant. A normal consumer GPU can brute force 500k seeds in under a minute, and I&amp;amp;#39;m going to show you how in this post.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;First, we&amp;amp;#39;re going to use the open source tool &amp;lt;a href=&quot;https://btcrecover.readthedocs.io/en/latest/&quot;&amp;gt;btcrecover&amp;lt;/a&amp;gt; to handle the brute forcing and dictate what format the data we need to collect should be in.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Reading through the btcrecover documentation, it seems like we&amp;amp;#39;ll need an AddressDB (which is a list of addresses in a binary format) that includes the target address, and also a seedlist.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Getting address list&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;We need an AddressDB because one in ten seeds correspond to real addresses, but almost all of those addresses will have a zero balance. The OP said that the correct seed will have an amount of Dogecoin in it, so we need to get a list of Dogecoin addresses. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;To get the AddressDB, we could &amp;lt;a href=&quot;https://cryptoguide.tips/btcrecover-addressdbs/&quot;&amp;gt;download the pre-made AddressDBs&amp;lt;/a&amp;gt; but note that it was last generated on 2021-04-17 - if the OP created and funded the account after that date, it won&amp;amp;#39;t be on the list. So, we&amp;amp;#39;ll need to generate a list ourselves, and the easiest way to do that is to head over to Google BigQuery.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Google BigQuery maintains a public dataset of balance-holding Dogecoin addresses, and small queries like this are essentially free:&amp;lt;/p&amp;gt;
+
+&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;SELECT
+  addresses[OFFSET(0)] AS address
+FROM
+  `bigquery-public-data.crypto_dogecoin.outputs`
+WHERE
+  addresses[OFFSET(0)] NOT LIKE &amp;amp;#39;nonstandard%&amp;amp;#39;
+  AND
+  block_timestamp &amp;amp;gt; TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 200 DAY)
+GROUP BY
+  address
+&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;
+
+&amp;lt;p&amp;gt;This will return a list of addresses that have sent or received Dogecoin in the last 200 days. This dataset is 136 MB with 4,068,290 addresses. Getting the full list of all addresses that have ever had any activity would&amp;amp;#39;ve been a lot larger (~8GB) but still doable. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Next, we export this as a list of addresses. I saved it as &amp;lt;code&amp;gt;addrs.txt&amp;lt;/code&amp;gt; and then we use btcrecover to convert it into an AddressDB, which is the format that btcrecover wants it in:&amp;lt;/p&amp;gt;
+
+&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;python3 create-address-db.py --inputlistfile addrs.txt --dbfilename addrs.db
+&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;
+
+&amp;lt;h2&amp;gt;Getting seed list&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;Next, we just need a list of the 531,441 valid seeds. I messed around with the &amp;lt;code&amp;gt;tokenlist&amp;lt;/code&amp;gt; feature of btcrecover before deciding to give up and just generate a file with all of the seeds. This is fast because, again, 500k is not that much:&amp;lt;/p&amp;gt;
+
+&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;k = [0] * 12
+for i in range(3**12):
+  print(&amp;amp;quot; &amp;amp;quot;.join([[&amp;amp;quot;moon&amp;amp;quot;, &amp;amp;quot;system&amp;amp;quot;, &amp;amp;quot;dog&amp;amp;quot;][x] for x in k]))
+  if i == 3**12-1:
+    break
+  k[0] += 1
+  for p in range(12):
+    if k[p] == 3:
+      k[p+1] += 1
+      k[p] = 0
+&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;
+
+&amp;lt;p&amp;gt;This outputs to stdout a file 33 MB that starts and ends like this: &amp;lt;a href=&quot;https://i.imgur.com/ZS0R7Gj.png&quot;&amp;gt;https://i.imgur.com/ZS0R7Gj.png&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Putting it all together&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;Now, we can just run btcrecover on the seedlist and AddressDB we created:&amp;lt;/p&amp;gt;
+
+&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;python3 seedrecover.py --dsw --seedlist seeds.txt --addressdb addrs.db --no-dupchecks --mnemonic-length 12 --language EN --addr-limit 1 --wallet-type dogecoin --enable-opencl
+&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;
+
+&amp;lt;p&amp;gt;And we get the correct seed in a few seconds. &amp;lt;a href=&quot;https://i.imgur.com/nLz8uMu.png&quot;&amp;gt;https://i.imgur.com/nLz8uMu.png&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This is seed number 399339 of 531441 we&amp;amp;#39;re brute forcing:&amp;lt;/p&amp;gt;
+
+&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;Seed found: moon moon system moon system dog system dog moon dog moon dog
+&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;
+
+&amp;lt;p&amp;gt;Unfortunately, I got the seed 35 minutes after the challenge ended - if I had seen the post earlier, anytime after the first hint was posted, I would&amp;amp;#39;ve won. But I hope this post was informative and can help people in the future.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[In-depth analysis: Here's what the CPI data is telling us. The bad news and the good news. What it will mean for the market:]]></title><description><![CDATA[The biggest crypto market is still the US (hopefully that will be more balanced
 in the future). And right now, one of the many concerns in this market is US
 inflation.
 
@@ -648,4 +738,4 @@ theoretical price, between:…]]></description><link>https://crypto.buzzing.cc/e
 &amp;lt;p&amp;gt;You could always set limit price but for people who DCA and auto trade with that this could potentially be useful.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;edit: RH is like poison here but I wanted to be as objective as possible and that is what the data says.  On the other hand Coinbase is very similar and withdrawal fees are very low compared to CDC and binance.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Sometimes you just don't need those vibes yeah.]]></title><link>https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/vw4nyj/sometimes_you_just_dont_need_those_vibes_yeah/?score=499&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fvw4nyj%2Fsometimes_you_just_dont_need_those_vibes_yeah%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2Fvw4nyj%2Fsometimes_you_just_dont_need_those_vibes_yeah%2F&amp;channel=Bitcoin&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/en/reddit/r/Bitcoin/comments/vw4nyj/sometimes_you_just_dont_need_those_vibes_yeah/</guid><pubDate>Mon, 11 Jul 2022 03:48:10 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
