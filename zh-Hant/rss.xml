@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密貨幣國外熱門討論]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 22 Jul 2022 20:06:20 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[你應該離開加密貨幣借貸平臺的跡象]]></title><description><![CDATA[我想和大家分享一下對當前加密貨幣狀況的一些看法
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密貨幣國外熱門討論]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 Jul 2022 06:23:50 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[呃，哦，我泄露了我的種子詞組! 破解一個弱口令，偷走我的Monero! [挑戰]]]></title><description><![CDATA[一週前，有人發佈了一個挑戰
+[https://www.reddit.com/r/CryptoCurrency/comments/vyaj4t/comment/ig27rrv/] 在
+這個挑戰被解決了，令人驚訝的是（或者說不那麼驚訝的是，在閱讀了
+解釋）的速度，詳見此......]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/w5afuh/uh_oh_i_leaked_my_seed_phrase_crack_a_weak/?score=301&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fw5afuh%2Fuh_oh_i_leaked_my_seed_phrase_crack_a_weak%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fw5afuh%2Fuh_oh_i_leaked_my_seed_phrase_crack_a_weak%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/w5afuh/uh_oh_i_leaked_my_seed_phrase_crack_a_weak/</guid><pubDate>Sat, 23 Jul 2022 04:54:02 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;One week ago, someone posted a &amp;lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/vyaj4t/comment/ig27rrv/&quot;&amp;gt;challenge&amp;lt;/a&amp;gt; on this sub, which was solved surprisingly (or not-so-surprisingly, after reading the explanation) fast, as detailed in &amp;lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/vyialk/brute_forcing_531441_seeds_only_to_lose_a_reddit/ig3s508/?context=3&quot;&amp;gt;this post&amp;lt;/a&amp;gt;. The puzzler offered a reward for cracking a dogecoin seed, and offered some hints to it. The solver was able to brute-force it in just a few seconds.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Something about the way in which it was achieved made me wonder if the experience would be similar for the dark side of crypto: Monero. I had some disagreements in the comments and ultimately promised to make my own challenge post, for a Monero reward, in one week from that day. Here is &amp;lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/vyialk/comment/ig3s508/?utm_source=share&amp;amp;amp;utm_medium=web2x&amp;amp;amp;context=3&quot;&amp;gt;that comment&amp;lt;/a&amp;gt; - and it has now been one week.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;To lay out the challenge, I will sketch out a plausible scenario.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;You&amp;amp;#39;ve just been to my house for a meal, where I enthusiastically told you about recently discovering crypto and even buying myself a Ledger hardware device to secure it. I explained that it was delivered a week ago, after which I immediately set it up. Since then, I explain, I&amp;amp;#39;ve stored some, specifically,&amp;lt;/strong&amp;gt; &amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;Monero&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; &amp;lt;strong&amp;gt;with it because I&amp;amp;#39;d heard that &amp;amp;quot;privacy is important for security&amp;amp;quot;.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;At some point, I had excused myself for a minute and your eye happened to catch a piece of paper sitting on my working-from-home desk. You couldn&amp;amp;#39;t resist a peak, and had seen that it was my paper backup! You had hurriedly taken a photo with your phone and gone back to sit down before I noticed. Now, back at home, you look at your phone and see this written on the paper:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;blockquote&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Ledger backup seed:&amp;lt;/strong&amp;gt;  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;minimum nature junk elegant uncle speak suggest dream below actor thing abuse oak fall immense ticket alien market wrist dinosaur hammer unique bicycle drum&amp;lt;/strong&amp;gt;  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Passphrase hint: four small caps letters&amp;lt;/strong&amp;gt;   &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Date: July 15th, 2022&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/blockquote&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Unfortunately, I had been vague about exactly when I sent the funds to the hardware storage. Was it today, or the day I set up the wallet, or somewhere in between?... You want to steal the funds, but you dare not ask me any questions, for fear that you would thereby implicate yourself.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So, the technicals, just for clarity: I had generated a random fresh BIP39 seed and used a randomly generated offset passphrase for additional security. Thank goodness for that, since I was so careless with my paper backup! However, I set the parameters to a laughably insecure level: four characters, a-z (e.g. &amp;amp;#39;abcd&amp;amp;#39;). I.e., the number of possibilities are thus 26x26x26x26 = 456 976, which is almost the same number of brute-force attempts that were necessary to crack the dogecoin wallet. I performed a blind draw to select a random day to deposit the bounty to the wallet (somewhere between wallet creation date and today).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The bounty is a modest 0.1 XMR plus the sweet taste of victory. I even left enough extra to pay for the transaction fee, so you can extract a clean 0.1 XMR (I&amp;amp;#39;m a gentleman like that). I will reveal the passphrase after 72 hours (which I may extend if there is continued interest). This will retrospectively prove the amount and date of the deposit, to anyone who wishes to restore the wallet.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It is my belief that this will be more difficult than it may at first seem, because &amp;amp;quot;privacy is important for security&amp;amp;quot;. If I&amp;amp;#39;m wrong, it&amp;amp;#39;s an easy win.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Good luck!&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[你應該離開加密貨幣借貸平臺的跡象]]></title><description><![CDATA[我想和大家分享一下對當前加密貨幣狀況的一些看法
 貸款人。
 
  1. 熊市。CeFi並不是爲加密貨幣的冬天而建的。
@@ -310,40 +344,4 @@ https://t.co/8OI2agrLDD]]></title><link>https://crypto.buzzing.cc/zh-Hant/tweet/
 &amp;lt;p&amp;gt;Im way too old and unattractive to be fiddling with TikTok but if any of you is using it, I highly recommend that you move your assets to new wallet(s) as the possibility of TikTok acquiring your seed-phrase and a ton of other personal data is very high. &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Be safe guys and girls.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[你不需要一份高薪的工作。你只需要一份普通的工作，基本的金融知識，以及一些預算紀律，就可以在財務上獲得保障。]]></title><description><![CDATA[高薪工作，但財富極少
-
-我知道有很多人有6位數的收入，但他們基本上是靠工資生活的。
-或者負債累累。我還知道很多人
-我也認識很多人，他們的收入在所在地區處於中位數，但他們更自律，更有經濟頭腦，並且有...
-他們更有紀律，更懂財務，並且有...]]></description><link>https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/w2nyk9/you_dont_need_a_high_paying_job_you_just_need_an/?score=305&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fw2nyk9%2Fyou_dont_need_a_high_paying_job_you_just_need_an%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCryptoCurrency%2Fcomments%2Fw2nyk9%2Fyou_dont_need_a_high_paying_job_you_just_need_an%2F&amp;channel=CryptoCurrency&amp;sensitive=false</link><guid isPermaLink="false">https://crypto.buzzing.cc/zh-Hant/reddit/r/CryptoCurrency/comments/w2nyk9/you_dont_need_a_high_paying_job_you_just_need_an/</guid><pubDate>Tue, 19 Jul 2022 13:08:55 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;h3&amp;gt;High Paying Jobs But Very Little Wealth&amp;lt;/h3&amp;gt;
-
-&amp;lt;p&amp;gt;I know a lot of people with 6-figure incomes that are basically living paycheck to paycheck or are in debt up to their eyeballs.  I also know a lot of people with median incomes for their area who are much more disciplined and financially literate and have more wealth than the aforementioned 6-figure earners.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Something I have noticed is that this subreddit and many other crypto centric subreddits are filled with people with poor personal financial literacy and discipline, regardless of their income level.  There are also many people in the crypto space that actually do have a gambling addiction.  I also believe there are many bad faith participants egging these kinds of people on to FOMO invest so they can get their pump and dump short term play quotas in.  These kinds of posts have existed since the days of the early internet in stock discussion newsgroups and dial-up BBS.  Hell, they even existed pre-internet when guys like Jordan Belfort (Wolf of Wall Street) created cold call centers to drive penny stock pump and dumps.  The manipulations are not new, but the scale and speed with which they can be executed due to social media and everyone having access to the internet is and the best way to protect yourself from the knock-on effects is to be educated and financially literate.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
-
-&amp;lt;h3&amp;gt;How To Get Financially Literate&amp;lt;/h3&amp;gt;
-
-&amp;lt;p&amp;gt;So how does one achieve financial literacy?  That is a big topic which is too big for a single post.  There are a lot of resources.  Being redditors, you might start here:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://np.reddit.com/r/personalfinance/wiki/commontopics/&quot;&amp;gt;https://np.reddit.com/r/personalfinance/wiki/commontopics/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I truly believe every single person in this subreddit should have a strong understanding on the importance of basic personal finance topics like bad vs good debt, emergency funds, budgets, and IRA&amp;amp;#39;s before considering investing anything in crypto.  Without this very basic level of financial literacy, what you are doing is not investing, it&amp;amp;#39;s gambling.  In fact, investing and gambling are very close to the same thing... the main difference is the amount of knowledge and risk management put in place.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Now keep in mind, many people that are conservative about personal finance are also biased to think in absolute negative terms about emerging technology like crypto.  I am not one of them.  I think crypto should play an important part in many people&amp;amp;#39;s investment portfolio.  However, it is a very high risk investment and should only make up a small portion of most people&amp;amp;#39;s overall investments.  Truly investing only what you can comfortably afford to lose is the best way to approach crypto in these very early, very volatile times.  I know you&amp;amp;#39;ve heard that phrase a thousand times, but many don&amp;amp;#39;t grasp what amount it means to be able to &amp;amp;quot;comfortably lose&amp;amp;quot;.  Basically, even if you are able to pay your bills and still have a 6-month emergency fund, if you are losing sleep over what you have invested or if it&amp;amp;#39;s occupying an uncomfortable amount of your time and thoughts, you probably have invested more than you can comfortably afford to lose.  It&amp;amp;#39;s not just what you can afford to lose and still live just about sustenance level, it&amp;amp;#39;s what you can afford to lose and not feel angry, emotional, or mad about it.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
-
-&amp;lt;h3&amp;gt;Responsibly Investing In Crypto&amp;lt;/h3&amp;gt;
-
-&amp;lt;p&amp;gt;I am a strong believer in the technological and societal impact that cryptocurrencies and other decentralized data and processing projects can have in the future.  However, I am also very cautious about my crypto investments because I also have personal experience from the dotcom bubble era to know that volatility is normal for new and emerging technology.  There will some big winners, but also the majority of projects and companies related to crypto will fail.  Be prepared for failure, but also put yourself in a position for taking advantage of opportunities when they come along without risking too much.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
-
-&amp;lt;h3&amp;gt;Exceptions&amp;lt;/h3&amp;gt;
-
-&amp;lt;p&amp;gt;Now, I do understand, some people may not be able to get a median level job.  Some have been born into systemic disadvantages, family situations, or other extenuating circumstances that make it very difficult to even get to median level.  For people in these kinds of situations, the best advice I have to give is to just keep building your skillset and your experience.  Also keep networking and making connections.  In my experience, many of the best opportunities come about from knowing the right people, and the more people you know the better your chances of one of them being the right person at the right time.  You don&amp;amp;#39;t have to set the bar too high, just set it somewhere you can realistically aim for and keep building on that.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Lastly, I also recognize there are people that can get a median level job or better but don&amp;amp;#39;t want to be financially literate or disciplined.  They want to chase the adrenaline of a big win, put it all on the line and try to get rich quick, be lucky, etc.  You know what?  If this is your choice, it&amp;amp;#39;s what makes you happy, and you are not hurting other people with your choices, I&amp;amp;#39;m not one to tell you not to do it if that&amp;amp;#39;s what you want.  Just know it&amp;amp;#39;s your choice, you could have done it a different way that would have virtually guaranteed you at least a certain level of financial security, and even if you &amp;amp;quot;hit it big&amp;amp;quot; there&amp;amp;#39;s also a good chance you might be continuing your bad habits of chasing the adrenaline rush and might lose everything if you never learn basic financial literacy and discipline.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
